@@ -1,0 +1,55 @@
+{
+ "total": 711,
+ "jobPostings": [
+  {
+   "title": "Doradca_czyni Klienta Korporacyjnego ds. Leasingu",
+   "externalPath": "/job/PB_DetKorp_Katowice-ul-Chorzowska-50/Doradca-czyni-Klienta-Korporacyjnego-ds-Leasingu_REQ-10122672",
+   "timeType": "Full time",
+   "locationsText": "2 Locations",
+   "postedOn": "Posted Today",
+   "bulletFields": [
+    "REQ-10122672"
+   ]
+  }
+ ],
+ "facets": [
+  {
+   "facetParameter": "timeType",
+   "descriptor": "Full/Part-time",
+   "values": [
+    {
+     "descriptor": "Full time",
+     "id": "aa9870f80c63101264cf5f7cb5de23fb",
+     "count": 696
+    }
+   ]
+  },
+  {
+   "facetParameter": "locationMainGroup",
+   "values": [
+    {
+     "facetParameter": "locations",
+     "descriptor": "Locations",
+     "values": [
+      {
+       "descriptor": "Berlin",
+       "id": "252730830b2f100147c04da50ab20000",
+       "count": 3
+      },
+      {
+       "descriptor": "Bucharest - Dacia One",
+       "id": "1df242ae89a610013fd6c054d6600000",
+       "count": 68
+      },
+      {
+       "descriptor": "Cluj (Teodor Mihali)",
+       "id": "caad5d2af8df10013ff7165f1a750000",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "userAuthenticated": false
+}

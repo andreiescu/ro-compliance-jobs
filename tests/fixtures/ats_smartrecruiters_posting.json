@@ -1,0 +1,143 @@
+{
+ "id": "744000142073842",
+ "name": "AI Compliance Officer (m/f/d) - Timisoara",
+ "uuid": "f7c5de07-466b-439d-8757-442b935eace6",
+ "jobId": "98dde086-9ec1-4e8f-9bba-2b9e625691a2",
+ "jobAdId": "62efc439-4a09-49e0-a1da-2159e6b24565",
+ "defaultJobAd": false,
+ "refNumber": "REF10821Y",
+ "company": {
+  "name": "Aumovio",
+  "identifier": "Aumovio"
+ },
+ "location": {
+  "city": "Timișoara",
+  "region": "TM",
+  "country": "ro",
+  "address": "Strada Siemens",
+  "remote": false,
+  "hybrid": false,
+  "latitude": "45.7328471",
+  "longitude": "21.2675507",
+  "fullLocation": "Timișoara, TM, Romania"
+ },
+ "customField": [
+  {
+   "fieldId": "6824fffd74f4902f0350d8c9",
+   "fieldLabel": "Legal Entity",
+   "valueId": "0707",
+   "valueLabel": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L. (0707)"
+  },
+  {
+   "fieldId": "682502581616240943897eb4",
+   "fieldLabel": "Field of Work",
+   "valueId": "87447611-b974-46cd-bbfb-88e476231326",
+   "valueLabel": "Law & Intellectual Property"
+  },
+  {
+   "fieldId": "681b2d56d4d8a5539fdf6587",
+   "fieldLabel": "Brands",
+   "valueId": "default",
+   "valueLabel": "Aumovio"
+  },
+  {
+   "fieldId": "682502e4d1687852b0337425",
+   "fieldLabel": "Referral Bonus ",
+   "valueId": "2a40ebaa-0f4c-4181-bb4b-fcbbec3be370",
+   "valueLabel": "Yes"
+  },
+  {
+   "fieldId": "COUNTRY",
+   "fieldLabel": "Country/Region",
+   "valueId": "ro",
+   "valueLabel": "Romania"
+  },
+  {
+   "fieldId": "682501c72d22cb2fbd9126e0",
+   "fieldLabel": "Job flexibility",
+   "valueId": "879638dd-01a9-4a7d-a543-f05c855987cc",
+   "valueLabel": "Onsite Job"
+  },
+  {
+   "fieldId": "682206ec3bac644c9ef47f91",
+   "fieldLabel": "Employment Type",
+   "valueId": "19338fa8-9e22-458f-81ef-c3f99dcc28fd",
+   "valueLabel": "Professional"
+  },
+  {
+   "fieldId": "682501788c51f60cdc64079b",
+   "fieldLabel": "Entry Level",
+   "valueId": "ab622250-6fed-4fab-a9f5-4562ca0309df",
+   "valueLabel": "Professional"
+  },
+  {
+   "fieldId": "682501b10bd18d32385b26d6",
+   "fieldLabel": "Leadership Level",
+   "valueId": "02b1d35e-f308-4d3a-a0fe-5a65948656a9",
+   "valueLabel": "Leading Self"
+  },
+  {
+   "fieldId": "682500dd74f4902f0350d8cb",
+   "fieldLabel": "Working time",
+   "valueId": "aba1185a-e781-4e7f-82ca-2f616a49a3c8",
+   "valueLabel": "Full Time"
+  },
+  {
+   "fieldId": "6825026eee173e17052476e4",
+   "fieldLabel": "Field of Work (2)",
+   "valueId": "1055adb5-446b-4de0-8462-92a2602399bb",
+   "valueLabel": "Law and Intellectual Property--Other"
+  }
+ ],
+ "releasedDate": "2026-08-07T08:33:34.504Z",
+ "creator": {
+  "name": "",
+  "avatarUrl": ""
+ },
+ "postingUrl": "https://jobs.smartrecruiters.com/Aumovio/744000142073842-ai-compliance-officer-m-f-d-timisoara",
+ "applyUrl": "https://jobs.smartrecruiters.com/Aumovio/744000142073842-ai-compliance-officer-m-f-d-timisoara?oga=true",
+ "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/Aumovio/publication/f7c5de07-466b-439d-8757-442b935eace6?dcr_ci=Aumovio",
+ "jobAd": {
+  "sections": {
+   "companyDescription": {
+    "title": "Company Description",
+    "text": "<p>Since its spin-off in September 2025 AUMOVIO continues the business of the former Continental group sector Automotive as an independent company. The technology and electronics company offers a wide-ranging portfolio that makes mobility safe, exciting, connected, and autonomous. This includes sensor solutions, displays, braking and comfort systems as well as comprehensive expertise in software, architecture platforms, and assistance systems for software-defined vehicles. In the fiscal year 202"
+   },
+   "jobDescription": {
+    "title": "Job Description",
+    "text": "<p>The AI Compliance Officer supports the design,&#xa0;implementation&#xa0;and continuous improvement of&#xa0;AUMOVIO’s&#xa0;AI Governance and AI Compliance Management System across the value chain.&#xa0;The role supports ensuring that AI systems, whether provided as standalone services or embedded within our products, are developed, deployed, and used in compliance with applicable laws, internal policies, and responsible AI principles.&#xa0;&#xa0;</p><p>&#xa0;</p><p>Main responsibilities are:&#"
+   },
+   "qualifications": {
+    "title": "Qualifications",
+    "text": "<ul><li><p>University degree in Law, Compliance, Business Administration, Computer Science, Engineering, Data Science, Information&#xa0;Security&#xa0;or&#xa0;a comparable&#xa0;qualification.&#xa0;</p></li></ul><ul><li><p>At least 5 years of professional experience in compliance, legal, data protection, IT governance, product compliance, cybersecurity, risk&#xa0;management&#xa0;or a related field; experience in an international automotive, technology or manufacturing environment is strongly prefe"
+   },
+   "additionalInformation": {
+    "title": "Additional Information",
+    "text": "<div sr-tagline=\"\"></div><p>Ready to take your career to the next level? The future of mobility isn’t just anyone’s job. ​Make it yours! <strong>​Join AUMOVIO. Own What’s Next.​ </strong></p>"
+   }
+  }
+ },
+ "active": true,
+ "visibility": "PUBLIC",
+ "industry": {
+  "id": "automotive",
+  "label": "Automotive"
+ },
+ "function": {
+  "id": "legal",
+  "label": "Legal"
+ },
+ "experienceLevel": {
+  "id": "not_applicable",
+  "label": "Not Applicable"
+ },
+ "typeOfEmployment": {
+  "id": "permanent",
+  "label": "Full-time"
+ },
+ "language": {
+  "code": "en",
+  "label": "English",
+  "labelNative": "English (US)"
+ }
+}

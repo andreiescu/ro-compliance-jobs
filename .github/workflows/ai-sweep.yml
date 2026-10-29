@@ -1,0 +1,77 @@
+name: AI sweep
+
+# Once a day, Claude searches the web for compliance roles the scrapers missed.
+# Its candidates are re-fetched and checked by `tracker.run ingest-ai` before
+# anything is stored or alerted, so an invented link can never reach Telegram.
+
+on:
+  schedule:
+    - cron: "30 5 * * *" # 07:30 Bucharest in winter, 08:30 in summer
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --frozen
+
+      - name: List the jobs we already know
+        run: uv run python -m tracker.run known-jobs known_jobs.txt
+
+      - uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: --allowedTools "WebSearch,WebFetch,Read,Write" --max-turns 80
+          prompt: |
+            Find currently open compliance jobs that are either in Bucharest, Romania, or fully remote
+            and open to candidates living in Romania. Today's date is the date of this run.
+
+            In scope: Compliance Officer / Specialist / Analyst / Manager, Ofițer / Specialist / Responsabil
+            conformitate, AML / KYC / CDD / financial crime / sanctions roles, MLRO, data protection / DPO /
+            privacy compliance roles. Out of scope: IT security GRC, tax, trade/export compliance,
+            pharmacovigilance, regulatory affairs, pure legal counsel.
+
+            `known_jobs.txt` lists the roles we already track (title | company | city). Only report roles
+            that are NOT in it.
+
+            Our scrapers already cover LinkedIn, Workday career sites, Greenhouse/Lever/Ashby/SmartRecruiters/
+            Workable boards, Société Générale careers, Hipo.ro and several bank careers pages. So spend your
+            effort elsewhere: eJobs.ro, BestJobs, Indeed Romania, recruitment agencies (Hays, Michael Page,
+            Antal, Lugera, Grafton, Gi Group, Hunters), Banca Transilvania, BCR, CEC Bank, BRD, insurers,
+            iGaming operators (Superbet, Betano/Kaizen, Fortuna, NetBet), fintechs and crypto firms, Big4 sites,
+            and remote boards (Himalayas, Jobgether, Remote OK).
+
+            Open every listing before reporting it and make sure it is still accepting applications.
+            Never guess or construct a URL: report only URLs you opened.
+
+            Write the result to `data/ai_candidates.json` as a JSON array (use [] if you found nothing).
+            Each item: {"title": str, "company": str, "location": str (city + "Romania", or "Remote - <region>"),
+            "url": str (the listing itself, not a search page), "posted": "YYYY-MM-DD" or null,
+            "remote": bool, "description": str (plain-text summary of the role, up to ~1500 chars)}.
+
+      - name: Validate and ingest candidates
+        run: uv run python -m tracker.run ingest-ai
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+
+      - name: Commit data
+        run: |
+          git config user.name "job-tracker-bot"
+          git config user.email "job-tracker-bot@users.noreply.github.com"
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -q -m "data: AI sweep $(date -u +%Y-%m-%d)"
+            git pull -q --rebase && git push -q
+          fi

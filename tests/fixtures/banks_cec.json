@@ -1,0 +1,71 @@
+{
+ "data": {
+  "results": [
+   {
+    "id": 11399,
+    "uid": "Q_IgSQ",
+    "title": "Agent Servicii Client  - Call Center - Brașov (on site)",
+    "description": "<p><strong>Agent Servicii Client - Call Center - Brașov (on site)</strong></p><p> </p><p><strong>Misiunea ta: </strong></p><p> </p><p>Să fii un ambasador al produselor și serviciilor CEC Bank și să îndrumi clienții care au nevoie de ajutor.</p><p> </p><p><strong>Ce vei face în acest rol?</strong></p><ul><li>Preiei/ inițiezi apeluri de la clienți și non clienți pentru a acorda suport, asistență și ",
+    "company": {
+     "id": 192,
+     "uid": "cec",
+     "label": "CEC Bank"
+    },
+    "department": {
+     "id": 863,
+     "uid": "863",
+     "label": "Directia Analiza si Optimizare Experienta Clienti"
+    },
+    "locations": [
+     {
+      "id": 5162,
+      "uid": "5162",
+      "label": "Brasov"
+     }
+    ]
+   },
+   {
+    "id": 12753,
+    "uid": "TAT3fA",
+    "title": "Relationship Manager – Companii Mari",
+    "description": "<p><strong>Relationship Manager – Companii Mari</strong></p><p> </p><p><strong>Ce vei face în acest rol?</strong></p><ul><li><p>Vei fi partenerul strategic al clienților mari din industriile cheie, construind relații solide și de încredere;</p></li><li><p>Vei identifica oportunități și vei propune soluții financiare personalizate, adaptate nevoilor reale ale business-urilor;</p></li><li><p>Vei asi",
+    "company": {
+     "id": 192,
+     "uid": "cec",
+     "label": "CEC Bank"
+    },
+    "department": {
+     "id": 998,
+     "uid": "998",
+     "label": "Directia Clienti Mari"
+    },
+    "locations": [
+     {
+      "id": 4728,
+      "uid": "4728",
+      "label": "Bucuresti"
+     }
+    ]
+   }
+  ],
+  "pagination": {
+   "count": 2,
+   "totalCount": 27,
+   "page": 0,
+   "totalPages": 1,
+   "pageSize": 50,
+   "hasNext": false,
+   "hasPrevious": false
+  },
+  "sort": {
+   "entries": [
+    {
+     "field": "date_desc",
+     "sortType": "ASC"
+    }
+   ],
+   "empty": false
+  }
+ },
+ "messages": []
+}

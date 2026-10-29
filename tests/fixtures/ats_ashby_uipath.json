@@ -1,0 +1,69 @@
+{
+ "apiVersion": "1",
+ "jobs": [
+  {
+   "id": "aaadb603-82c1-422f-b2cf-c1f96c96ad94",
+   "title": "Senior Applied Scientist",
+   "department": "Engineering",
+   "team": "Engineering",
+   "employmentType": "FullTime",
+   "location": "Bucharest",
+   "secondaryLocations": [],
+   "publishedAt": "2026-04-24T13:57:04.073+00:00",
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "OnSite",
+   "address": {
+    "postalAddress": {
+     "addressCountry": "Romania",
+     "addressLocality": "Bucharest"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/uipath/aaadb603-82c1-422f-b2cf-c1f96c96ad94",
+   "applyUrl": "https://jobs.ashbyhq.com/uipath/aaadb603-82c1-422f-b2cf-c1f96c96ad94/application",
+   "descriptionHtml": "<h1><strong>Life at UiPath</strong></h1><p style=\"min-height:1.5em\">The people at UiPath believe in the transformative power of automation to change how the world works. We’re committed to creating category-leading enterprise software that unleashes that power.</p><p style=\"min-height:1.5em\">To make that happen, we need people who are curious, self-propelled, generous, and genuine. People who love being part of a fast-moving, fast-thinking growth company. And people who care—about each other, about UiPath, and about our larger purpose.</p><p style=\"min-height:1.5em\">Could that be you?</p><p st",
+   "descriptionPlain": "LIFE AT UIPATH\n\nThe people at UiPath believe in the transformative power of automation to change how the world works. We’re committed to creating category-leading enterprise software that unleashes that power.\n\nTo make that happen, we need people who are curious, self-propelled, generous, and genuine. People who love being part of a fast-moving, fast-thinking growth company. And people who care—about each other, about UiPath, and about our larger purpose.\n\nCould that be you?\n\n\n\n\nYOUR MISSION\n\nAs a Senior Applied Scientist, you'll work at the intersection between research and product. You'll bu"
+  },
+  {
+   "id": "0ecf46f8-8446-4674-aa78-ef6b0dedaa2a",
+   "title": "Enterprise Sales Executive — Regional Banking & Credit Unions",
+   "department": "Sales",
+   "team": "Sales",
+   "employmentType": "FullTime",
+   "location": "Remote-Texas",
+   "secondaryLocations": [
+    {
+     "location": "New York",
+     "address": {
+      "postalAddress": {
+       "addressRegion": "New York",
+       "addressCountry": "United States",
+       "addressLocality": "New York"
+      }
+     }
+    },
+    {
+     "location": "Remote",
+     "address": {
+      "postalAddress": {}
+     }
+    }
+   ],
+   "publishedAt": "2026-08-27T14:11:02.546+00:00",
+   "isListed": true,
+   "isRemote": true,
+   "workplaceType": "Remote",
+   "address": {
+    "postalAddress": {
+     "addressRegion": "Texas",
+     "addressCountry": "United States",
+     "addressLocality": "Remote"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/uipath/0ecf46f8-8446-4674-aa78-ef6b0dedaa2a",
+   "applyUrl": "https://jobs.ashbyhq.com/uipath/0ecf46f8-8446-4674-aa78-ef6b0dedaa2a/application",
+   "descriptionHtml": "<h1><strong>Life at UiPath</strong></h1><p style=\"min-height:1.5em\">The people at UiPath believe in the transformative power of automation to change how the world works. We’re committed to creating category-leading enterprise software that unleashes that power.</p><p style=\"min-height:1.5em\">To make that happen, we need people who are curious, self-propelled, generous, and genuine. People who love being part of a fast-moving, fast-thinking growth company. And people who care—about each other, about UiPath, and about our larger purpose.</p><p style=\"min-height:1.5em\">Could that be you?</p><p st",
+   "descriptionPlain": "LIFE AT UIPATH\n\nThe people at UiPath believe in the transformative power of automation to change how the world works. We’re committed to creating category-leading enterprise software that unleashes that power.\n\nTo make that happen, we need people who are curious, self-propelled, generous, and genuine. People who love being part of a fast-moving, fast-thinking growth company. And people who care—about each other, about UiPath, and about our larger purpose.\n\nCould that be you?\n\n\n\n\nYOUR MISSION\n\nThe Enterprise Sales Executive will cover regional and community banks and credit unions across the no"
+  }
+ ]
+}

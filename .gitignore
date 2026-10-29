@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+_site/
+known_jobs.txt
+compliance_jobs_romania.html

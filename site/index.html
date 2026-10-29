@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚖️</text></svg>">
+<title>Compliance Jobs Romania</title>
+<style>
+:root {
+  --bg: #f7f7f5; --card: #ffffff; --text: #1d1d1f; --muted: #6b6b70; --border: #e3e3e0;
+  --accent: #2459c9; --chip: #eef2fb; --ok: #1f7a46; --warn: #a3620a; --bad: #b3261e; --hl: #fff6d6;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #141416; --card: #1d1d20; --text: #ececee; --muted: #9a9aa2; --border: #303036;
+    --accent: #7ea2ff; --chip: #262b3a; --ok: #5fcf8f; --warn: #e3a64f; --bad: #ff8a80; --hl: #3a3420;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+.wrap { max-width: 1100px; margin: 0 auto; padding: 24px 16px 64px; }
+h1 { font-size: 26px; margin: 0 0 4px; }
+.sub { color: var(--muted); margin: 0 0 14px; font-size: 14px; }
+.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--border); margin-bottom: 12px; }
+.tabs button { background: none; border: 0; border-bottom: 2px solid transparent; padding: 8px 12px; font: inherit;
+  color: var(--muted); cursor: pointer; }
+.tabs button.on { color: var(--text); border-color: var(--accent); font-weight: 600; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; position: sticky; top: 0;
+  background: var(--bg); padding: 10px 0; z-index: 2; }
+.controls input[type=search], .controls select { padding: 8px 10px; border: 1px solid var(--border); border-radius: 8px;
+  background: var(--card); color: var(--text); font: inherit; font-size: 14px; }
+.controls input[type=search] { flex: 1 1 220px; }
+.controls label { display: flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); }
+.count { color: var(--muted); font-size: 13px; margin-bottom: 10px; }
+.job { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; margin-bottom: 8px; }
+.job.inactive { opacity: .6; }
+.job.target { background: var(--hl); }
+.top { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.title { font-weight: 600; font-size: 15.5px; color: var(--accent); text-decoration: none; }
+.title:hover { text-decoration: underline; }
+.company { font-weight: 500; }
+.meta { color: var(--muted); font-size: 13px; text-align: right; }
+.chips { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
+.chip { background: var(--chip); border-radius: 999px; padding: 1px 9px; font-size: 12px; }
+.chip.ok { color: var(--ok); } .chip.warn { color: var(--warn); } .chip.bad { color: var(--bad); }
+.chip.new { background: var(--accent); color: var(--card); font-weight: 600; }
+details { margin-top: 8px; font-size: 13.5px; }
+summary { cursor: pointer; color: var(--muted); }
+.desc { white-space: pre-wrap; margin-top: 6px; max-height: 420px; overflow: auto; }
+.links a, .timeline li { font-size: 13px; }
+.links a { margin-right: 10px; color: var(--accent); }
+.timeline { margin: 6px 0 0; padding-left: 18px; color: var(--muted); }
+table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; font-size: 14px; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+th { color: var(--muted); font-weight: 500; font-size: 13px; }
+.tablewrap { overflow-x: auto; }
+.empty { color: var(--muted); padding: 30px 0; text-align: center; }
+.ev-NEW { color: var(--accent); } .ev-REACTIVATED { color: var(--ok); } .ev-DEACTIVATED { color: var(--bad); } .ev-UPDATED { color: var(--warn); }
+[hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Compliance jobs in Romania</h1>
+  <p class="sub" id="sub">Loading…</p>
+  <div class="tabs">
+    <button data-tab="jobs" class="on">Jobs</button>
+    <button data-tab="activity">Activity</button>
+    <button data-tab="sources">Sources</button>
+  </div>
+
+  <section id="tab-jobs">
+    <div class="controls">
+      <input id="q" type="search" placeholder="Search title, company, description…">
+      <select id="status"><option value="active">Active</option><option value="inactive">Inactive</option><option value="">All statuses</option></select>
+      <select id="cat"><option value="">All categories</option></select>
+      <select id="city"><option value="">All locations</option></select>
+      <select id="fresh"><option value="">Any time</option><option value="1">New in 24h</option><option value="7">New in 7 days</option><option value="30">New in 30 days</option></select>
+      <label><input id="core" type="checkbox" checked> Core roles only</label>
+    </div>
+    <div class="count" id="count"></div>
+    <div id="list"></div>
+  </section>
+
+  <section id="tab-activity" hidden>
+    <div class="controls">
+      <select id="evtype"><option value="">All changes</option><option>NEW</option><option>UPDATED</option><option>DEACTIVATED</option><option>REACTIVATED</option></select>
+    </div>
+    <div class="tablewrap"><table><thead><tr><th>When</th><th>Change</th><th>Role</th><th>Details</th></tr></thead><tbody id="events"></tbody></table></div>
+  </section>
+
+  <section id="tab-sources" hidden>
+    <div class="tablewrap"><table><thead><tr><th>Source</th><th>Health</th><th>Last OK</th><th>Listings last run</th><th>Last error</th></tr></thead><tbody id="sources"></tbody></table></div>
+  </section>
+</div>
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmt = iso => iso ? new Date(iso).toLocaleString(undefined, {day: "numeric", month: "short", hour: "2-digit", minute: "2-digit"}) : "–";
+const ago = iso => { if (!iso) return "never"; const h = (Date.now() - new Date(iso)) / 36e5;
+  return h < 1 ? `${Math.max(1, Math.round(h * 60))} min ago` : h < 48 ? `${Math.round(h)} h ago` : `${Math.round(h / 24)} days ago`; };
+const SOURCE_NAMES = {linkedin: "LinkedIn", workday: "Company careers (Workday)", ats: "Company careers", sg: "Société Générale",
+  hipo: "Hipo.ro", jooble: "Jooble", juridice: "cariere.juridice.ro", posturi_gov: "posturi.gov.ro", banks: "Bank careers", ai_sweep: "AI sweep"};
+let JOBS = [], EVENTS = [], byJob = {};
+
+async function load() {
+  const get = f => fetch(f, {cache: "no-store"}).then(r => r.ok ? r.json() : null).catch(() => null);
+  const [jobs, events, status] = await Promise.all([get("jobs.json"), get("events.json"), get("status.json")]);
+  JOBS = jobs || []; EVENTS = (events || []).slice().reverse();
+  const jobIndex = Object.fromEntries(JOBS.map(j => [j.id, j]));
+  EVENTS.forEach(e => (byJob[e.job_id] ||= []).push(e));
+  const active = JOBS.filter(j => j.status === "active");
+  $("sub").textContent = `${active.filter(j => j.is_core).length} active core roles · ${active.length} active in total · ` +
+    `updated ${status ? ago(status.meta.last_run) : "?"}`;
+  const fill = (sel, vals) => [...new Set(vals)].sort().forEach(v => sel.add(new Option(v, v)));
+  fill($("cat"), JOBS.map(j => j.category));
+  fill($("city"), JOBS.map(cityKey));
+  renderJobs(); renderEvents(jobIndex); renderSources(status);
+  focusHash();
+}
+
+const cityKey = j => j.remote_ro && !["Bucharest"].includes(j.city) ? "Remote (open to Romania)" : j.city;
+
+function renderJobs() {
+  const q = $("q").value.toLowerCase().trim(), fresh = +$("fresh").value;
+  const out = JOBS.filter(j =>
+    (!$("status").value || j.status === $("status").value) &&
+    (!$("cat").value || j.category === $("cat").value) &&
+    (!$("city").value || cityKey(j) === $("city").value) &&
+    (!$("core").checked || j.is_core) &&
+    (!fresh || Date.now() - new Date(j.first_seen) < fresh * 864e5) &&
+    (!q || [j.title, j.company, j.location, j.description].join(" ").toLowerCase().includes(q)))
+    .sort((a, b) => (b.first_seen || "").localeCompare(a.first_seen || ""));
+  $("count").textContent = `Showing ${out.length} of ${JOBS.length}`;
+  $("list").innerHTML = out.length ? out.map(jobCard).join("") : `<div class="empty">No jobs match these filters.</div>`;
+}
+
+function jobCard(j) {
+  const primary = j.listings[j.primary] || Object.values(j.listings)[0];
+  const isNew = Date.now() - new Date(j.first_seen) < 864e5;
+  const seen = {};
+  const links = Object.values(j.listings).map(l => {
+    const name = SOURCE_NAMES[l.source] || l.source, n = seen[name] = (seen[name] || 0) + 1;
+    return `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(name)}${n > 1 ? ` #${n}` : ""}${l.status === "closed" ? " (closed)" : ""}</a>`;
+  }).join("");
+  const timeline = (byJob[j.id] || []).map(e =>
+    `<li><span class="ev-${e.type}">${e.type.toLowerCase()}</span> · ${fmt(e.ts)}${diffText(e)}</li>`).join("");
+  return `<div class="job ${j.status}" id="job-${esc(j.id)}">
+    <div class="top">
+      <div>
+        <a class="title" href="${esc(primary.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+        <div><span class="company">${esc(j.company)}</span> · ${esc(j.location)}</div>
+      </div>
+      <div class="meta">First seen ${fmt(j.first_seen)}${j.posted ? `<br>Posted ${esc(j.posted)}` : ""}${j.status === "inactive" ? `<br>Closed ${fmt(j.last_changed)}` : ""}</div>
+    </div>
+    <div class="chips">
+      ${isNew ? `<span class="chip new">new</span>` : ""}
+      <span class="chip ${j.status === "active" ? "ok" : "bad"}">${j.status}</span>
+      <span class="chip">${esc(j.category)}</span>
+      ${j.remote ? `<span class="chip">remote</span>` : ""}
+      ${j.extra && j.extra.seniority && j.extra.seniority !== "Not Applicable" ? `<span class="chip">${esc(j.extra.seniority)}</span>` : ""}
+      ${j.extra && j.extra.deadline ? `<span class="chip warn">deadline ${esc(j.extra.deadline)}</span>` : ""}
+    </div>
+    <details><summary>Description, links and history</summary>
+      <div class="links">Listed on: ${links}</div>
+      ${timeline ? `<ul class="timeline">${timeline}</ul>` : ""}
+      ${j.description ? `<div class="desc">${esc(j.description)}</div>` : `<p class="sub">No description captured.</p>`}
+    </details>
+  </div>`;
+}
+
+function diffText(e) {
+  if (!e.diff || !Object.keys(e.diff).length) return "";
+  return " — " + Object.entries(e.diff).map(([k, v]) => Array.isArray(v) ? `${k}: ${esc(v[0])} → ${esc(v[1])}` : `${k} ${esc(v)}`).join("; ");
+}
+
+function renderEvents(jobIndex) {
+  const draw = () => {
+    const t = $("evtype").value;
+    const rows = EVENTS.filter(e => !t || e.type === t).slice(0, 500).map(e => {
+      const j = jobIndex[e.job_id] || {title: e.job_id, company: ""};
+      return `<tr><td>${fmt(e.ts)}</td><td class="ev-${e.type}">${e.type.toLowerCase()}</td>
+        <td><a href="#job-${esc(e.job_id)}" class="title">${esc(j.title)}</a><br><span class="sub">${esc(j.company)}</span></td>
+        <td>${diffText(e).replace(/^ — /, "")}</td></tr>`;
+    });
+    $("events").innerHTML = rows.join("") || `<tr><td colspan="4" class="empty">No activity yet.</td></tr>`;
+  };
+  $("evtype").addEventListener("input", draw);
+  draw();
+}
+
+function renderSources(status) {
+  if (!status) { $("sources").innerHTML = `<tr><td colspan="5" class="empty">No status yet.</td></tr>`; return; }
+  $("sources").innerHTML = Object.entries(status.sources).sort().map(([name, s]) => {
+    const health = s.fail_streak ? `<span class="chip bad">failing ×${s.fail_streak}</span>` : `<span class="chip ok">ok</span>`;
+    return `<tr><td>${esc(SOURCE_NAMES[name] || name)}</td><td>${health}</td><td>${ago(s.last_ok)}</td>
+      <td>${s.last_count ?? "–"}</td><td>${esc(s.last_error || "")}</td></tr>`;
+  }).join("");
+}
+
+function showTab(name) {
+  document.querySelectorAll(".tabs button").forEach(b => b.classList.toggle("on", b.dataset.tab === name));
+  ["jobs", "activity", "sources"].forEach(t => $(`tab-${t}`).hidden = t !== name);
+}
+
+function focusHash() {
+  const m = location.hash.match(/^#job-(.+)$/);
+  if (!m) return;
+  showTab("jobs");
+  let el = document.getElementById(`job-${m[1]}`);
+  if (!el) { $("status").value = ""; $("core").checked = false; $("fresh").value = ""; $("q").value = ""; renderJobs(); el = document.getElementById(`job-${m[1]}`); }
+  if (el) { el.classList.add("target"); el.querySelector("details").open = true; el.scrollIntoView({block: "center"}); }
+}
+
+document.querySelectorAll(".tabs button").forEach(b => b.addEventListener("click", () => showTab(b.dataset.tab)));
+["q", "status", "cat", "city", "fresh", "core"].forEach(id => $(id).addEventListener("input", renderJobs));
+window.addEventListener("hashchange", focusHash);
+load();
+</script>
+</body>
+</html>

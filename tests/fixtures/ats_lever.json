@@ -1,0 +1,114 @@
+[
+ {
+  "additionalPlain": "Compensation\n\nTarget annual salary for this role performed in the US is $102,000 - $180,000. The exact compensation at which this job is filled will be determined by the skills and experience of quali",
+  "additional": "<div><b style=\"font-size: 12pt;\">Compensation</b></div><div><br></div><div><span style=\"font-size: 12pt;\">Target annual salary for this role performed in the US is $102,000 - $180,000. The exact compe",
+  "categories": {
+   "commitment": "Full-time",
+   "department": "Blockchain Security Engineering",
+   "location": "US / Remote",
+   "team": "Blockchain Security Engineering",
+   "allLocations": [
+    "US / Remote"
+   ]
+  },
+  "createdAt": 1757102509756,
+  "descriptionPlain": "About the Company\n\nCertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects such as OKX, Tether, Ripple, and Pancakeswap. Our investors include top VCs like Tiger Global, Coatue Management, Shunwei Capital and Hillhouse Capital as well as industry leaders like Coinbase Ventures and Binance.\n\nAbout the Role \n\nWe a",
+  "description": "<div><b style=\"font-size: 12pt;\">About the Company</b></div><div><br></div><div><span style=\"font-size: 12pt;\">CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects such as OKX, Tether, Ripple, and Pancakeswap. Our investors include top VCs like Tiger Global, Coatue Management, Shunwei Capital and Hillhouse Ca",
+  "id": "478ab0cd-9f5e-4b88-88b5-01d3beac4d81",
+  "lists": [
+   {
+    "text": "Responsibilities",
+    "content": "<li>&nbsp;Audit and review codebases for smart contracts, blockchain protocols, and decentralized applications (dApps) to identify and remediate vulnerabilities.</li><li>Conduct guided security research, explore new attack vectors, and deliver actionable insights. </li><li>Contribute to the design, "
+   }
+  ],
+  "text": "Blockchain Security Engineer - (Solidity / Rust / Golang)",
+  "country": "US",
+  "workplaceType": "remote",
+  "hostedUrl": "https://jobs.lever.co/certik/478ab0cd-9f5e-4b88-88b5-01d3beac4d81",
+  "applyUrl": "https://jobs.lever.co/certik/478ab0cd-9f5e-4b88-88b5-01d3beac4d81/apply"
+ },
+ {
+  "additionalPlain": "About the Company\nCertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise c",
+  "additional": "<div><b>About the Company</b></div><div><span style=\"font-size: 16px;\">CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To",
+  "categories": {
+   "commitment": "Full-time",
+   "department": "Blockchain Security Engineering",
+   "location": "US / Remote",
+   "team": "Blockchain Security Engineering",
+   "allLocations": [
+    "US / Remote"
+   ]
+  },
+  "createdAt": 1613063820919,
+  "descriptionPlain": "About the Role:\nWe are seeking a Senior Blockchain Security Engineer with a strong security mindset and deep technical expertise across smart contracts, blockchain nodes, and decentralized infrastructure. You will play a critical role in safeguarding Web3 projects by auditing code, building security tools, and driving research. If you have hands-on experience in Web3 and are passionate about advancing the security of decentralized technologies, we’d love to hear from you.\n",
+  "description": "<div><b>About the Role:</b></div><div><span style=\"font-size: 12pt;\">We are seeking a Senior Blockchain Security Engineer with a strong security mindset and deep technical expertise across smart contracts, blockchain nodes, and decentralized infrastructure. You will play a critical role in safeguarding Web3 projects by auditing code, building security tools, and driving research. If you have hands-on experience in Web3 and are passionate about advancing the security of decentralized technologies, we’d love to hear from you.</span></div>",
+  "id": "e15a5a75-137f-4e37-a402-85079dd12b94",
+  "lists": [
+   {
+    "text": "Responsibilities",
+    "content": "<li>Audit and review codebases for smart contracts, blockchain protocols, and decentralized applications (dApps) to identify and remediate vulnerabilities.</li><li>Work closely with external blockchain teams to enhance the security of their products by providing expert security consultation and impl"
+   }
+  ],
+  "text": "Blockchain Security Engineer - Senior Level (Solidity / Rust / Golang )",
+  "country": "US",
+  "workplaceType": "remote",
+  "hostedUrl": "https://jobs.lever.co/certik/e15a5a75-137f-4e37-a402-85079dd12b94",
+  "applyUrl": "https://jobs.lever.co/certik/e15a5a75-137f-4e37-a402-85079dd12b94/apply"
+ },
+ {
+  "additionalPlain": "Why Viseven? \nPurpose in Every Service \nYour work will contribute to solutions that help pharmaceutical companies bring innovations to market faster and improve how healthcare information reaches peop",
+  "additional": "<div>\n<div>\n<p><strong><span data-contrast=\"auto\">Why Viseven?</span><span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}\">&n",
+  "categories": {
+   "commitment": "Full-time",
+   "department": "Viseven",
+   "location": "Bucharest",
+   "team": "Romania",
+   "allLocations": [
+    "Bucharest"
+   ]
+  },
+  "createdAt": 1791814342813,
+  "descriptionPlain": "Make Every Experience Matter  \n \nViseven is an AI-native Intelligent Experiences Enabler for life sciences, helping pharma and biotech organizations move from fragmented content operations to connected, compliant, and measurable omnichannel engagement with HCPs and patients. By combining proprietary technology — eWizard, eVa, Kheiron, and Lexi — with agentic AI and strategic consulting, we support the full content lifecycle: from creation and MLR validation to localization and omnichannel publishing. Our clients include Top 50 life sciences, pharma, biotech, and medtech companies around the gl",
+  "description": "<div><span data-contrast=\"none\"><span data-ccp-charstyle=\"normaltextrun\" data-ccp-charstyle-defn=\"{&quot;ObjectId&quot;:&quot;ac0262f4-8a9e-5820-b908-2d943c5f7113|1&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[201342446,&quot;1&quot;,201342447,&quot;5&quot;,201342448,&quot;1&quot;,201342449,&quot;1&quot;,469777841,&quot;Aptos&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Aptos&quot;,469777844,&quot;Aptos&quot;,201341986,&quot;1&quot;,469769226,&quot;Aptos,Arial&quot;,268442635,&quot;24&quot;,469775450,&quot;normaltextrun&quot;,201340122,&quot;1&quot;,134233614,&quot;true&qu",
+  "id": "31ca5e2a-280f-423a-88be-f458678d40e5",
+  "lists": [
+   {
+    "text": "Responsibilities:",
+    "content": "<div>The expected scope of responsibilities is approximately 60–80% Compliance and 20–40% Corporate Legal, depending on business needs.</div>\n<div>&nbsp;</div>\n<div>1) Compliance &amp; Risk Management:</div>\n\n<li>Develop and maintain the company’s compliance framework covering ESG/environmental comp"
+   }
+  ],
+  "text": "Compliance and Legal Counsel",
+  "country": "RO",
+  "workplaceType": "remote",
+  "hostedUrl": "https://jobs.lever.co/viseven/31ca5e2a-280f-423a-88be-f458678d40e5",
+  "applyUrl": "https://jobs.lever.co/viseven/31ca5e2a-280f-423a-88be-f458678d40e5/apply"
+ },
+ {
+  "additionalPlain": "Why Viseven? \nPurpose in Every Service \nYour work will contribute to solutions that help pharmaceutical companies bring innovations to market faster and improve how healthcare information reaches peop",
+  "additional": "<div>\n<div>\n<p><strong><span data-contrast=\"auto\">Why Viseven?</span><span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}\">&n",
+  "categories": {
+   "commitment": "Full-time",
+   "department": "Viseven",
+   "location": "Sofia",
+   "team": "Europe",
+   "allLocations": [
+    "Sofia"
+   ]
+  },
+  "createdAt": 1791814748207,
+  "descriptionPlain": "Make Every Experience Matter  \n \nViseven is an AI-native Intelligent Experiences Enabler for life sciences, helping pharma and biotech organizations move from fragmented content operations to connected, compliant, and measurable omnichannel engagement with HCPs and patients. By combining proprietary technology — eWizard, eVa, Kheiron, and Lexi — with agentic AI and strategic consulting, we support the full content lifecycle: from creation and MLR validation to localization and omnichannel publishing. Our clients include Top 50 life sciences, pharma, biotech, and medtech companies around the gl",
+  "description": "<div><span data-contrast=\"none\"><span data-ccp-charstyle=\"normaltextrun\" data-ccp-charstyle-defn=\"{&quot;ObjectId&quot;:&quot;ac0262f4-8a9e-5820-b908-2d943c5f7113|1&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[201342446,&quot;1&quot;,201342447,&quot;5&quot;,201342448,&quot;1&quot;,201342449,&quot;1&quot;,469777841,&quot;Aptos&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Aptos&quot;,469777844,&quot;Aptos&quot;,201341986,&quot;1&quot;,469769226,&quot;Aptos,Arial&quot;,268442635,&quot;24&quot;,469775450,&quot;normaltextrun&quot;,201340122,&quot;1&quot;,134233614,&quot;true&qu",
+  "id": "38a4be1d-376e-411b-80d8-130ca704690a",
+  "lists": [
+   {
+    "text": "Responsibilities:",
+    "content": "<div>\n<div>The expected scope of responsibilities is approximately 60–80% Compliance and 20–40% Corporate Legal, depending on business needs.</div>\n<div>&nbsp;</div>\n<div>1) Compliance &amp; Risk Management:</div>\n\n<li>Develop and maintain the company’s compliance framework covering ESG/environmenta"
+   }
+  ],
+  "text": "Compliance and Legal Counsel",
+  "country": "BG",
+  "workplaceType": "remote",
+  "hostedUrl": "https://jobs.lever.co/viseven/38a4be1d-376e-411b-80d8-130ca704690a",
+  "applyUrl": "https://jobs.lever.co/viseven/38a4be1d-376e-411b-80d8-130ca704690a/apply"
+ }
+]

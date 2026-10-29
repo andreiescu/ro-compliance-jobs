@@ -1,0 +1,85 @@
+{
+ "total": 2000,
+ "jobPostings": [
+  {
+   "title": "Protective Services Manager",
+   "externalPath": "/job/Cairo-CO55-Uvenues/Protective-Services-Manager_R00351161",
+   "postedOn": "Posted Today",
+   "bulletFields": [
+    "R00351161",
+    "Cairo, Co55-Uvenues"
+   ]
+  }
+ ],
+ "facets": [
+  {
+   "facetParameter": "timeType",
+   "descriptor": "Time Type",
+   "values": [
+    {
+     "descriptor": "Full time",
+     "id": "a31fc2f90d56014bd4fe0028f7145a00",
+     "count": 41423
+    }
+   ]
+  },
+  {
+   "facetParameter": "locationMainGroup",
+   "values": [
+    {
+     "facetParameter": "locationCountry",
+     "descriptor": "Country",
+     "values": [
+      {
+       "descriptor": "Germany",
+       "id": "dcc5b7608d8644b3a93716604e78e995",
+       "count": 288
+      },
+      {
+       "descriptor": "Poland",
+       "id": "131d5ac7e3ee4d7b962bdc96e498e412",
+       "count": 249
+      },
+      {
+       "descriptor": "Romania",
+       "id": "f2e609fe92974a55a05fc1cdc2852122",
+       "count": 108
+      }
+     ]
+    },
+    {
+     "facetParameter": "locations",
+     "descriptor": "City",
+     "values": [
+      {
+       "descriptor": "Berlin",
+       "id": "3666ef49a96a01acf50bbd79cf000060",
+       "count": 166
+      },
+      {
+       "descriptor": "Bucharest",
+       "id": "3666ef49a96a01d7c2847c78cf00d25b",
+       "count": 70
+      },
+      {
+       "descriptor": "Bucharest, Westgate Park - Bldg H1",
+       "id": "940562459a6f017a4a97df40c3007e2c",
+       "count": 2
+      },
+      {
+       "descriptor": "Cluj-Napoca",
+       "id": "3666ef49a96a01f0c3828c78cf000e5c",
+       "count": 37
+      },
+      {
+       "descriptor": "Cluj-Napoca, Hexagon Office",
+       "id": "997189e66b0b010190505c1d5dd20000",
+       "count": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "userAuthenticated": false
+}

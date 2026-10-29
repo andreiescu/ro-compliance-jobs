@@ -1,0 +1,107 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "Workster Jobs",
+ "home_page_url": "https://worksterjobs.teamtailor.com/jobs",
+ "feed_url": "https://worksterjobs.teamtailor.com/jobs.json",
+ "next_url": "https://worksterjobs.teamtailor.com/jobs.json?page=4&per_page=100",
+ "items": [
+  {
+   "id": "61767c13-fbb0-496d-a6cb-19c63e34905e",
+   "title": "French-speaking Anti-Financial Crime Analyst - Bucharest",
+   "url": "https://worksterjobs.teamtailor.com/jobs/6673103-french-speaking-anti-financial-crime-analyst-bucharest",
+   "date_published": "2025-10-27T18:52:12+01:00",
+   "content_html": "<p>Workster is recruiting on behalf of a leading international financial technology organisation for a <strong>French-speaking Anti-Financial Crime Analyst</strong> based in Bucharest. This role sits at the heart of a forward-thinking Compliance and Anti-Financial Crime team, focusing on safeguarding clients and business operations from financial crime risks. If you are fluent in French, passionat",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "French-speaking Anti-Financial Crime Analyst - Bucharest",
+    "description": "<p>Workster is recruiting on behalf of a leading international financial technology organisation for a <strong>French-speaking Anti-Financial Crime Analyst</strong> based in Bucharest. This role sits at the heart of a forward-thinking Compliance and Anti-Financial Crime team, focusing on safeguardin",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Workster Jobs",
+     "value": 6673103
+    },
+    "datePosted": "2025-10-27T18:52:12+01:00",
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Workster Jobs",
+     "sameAs": "https://worksterjobs.teamtailor.com"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": null,
+       "addressLocality": "Bucharest",
+       "postalCode": null,
+       "addressCountry": "RO",
+       "addressRegion": null
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "8f59477a-d365-4f30-9a2b-51c786c18f7e",
+   "title": "Turkish Digital Marketing Specialist (Google Ads) - Lisbon",
+   "url": "https://worksterjobs.teamtailor.com/jobs/6646717-turkish-digital-marketing-specialist-google-ads-lisbon",
+   "date_published": "2025-10-21T18:10:36+02:00",
+   "content_html": "<p>Workster is partnering with a top international outsourcing/BPO consultancy to recruit a Turkish-speaking Digital Marketing Specialist focused on Google Ads for their Lisbon office. If you are passionate about optimising digital marketing campaigns, fluent in Turkish, and ready to take your digital advertising career to the next level in a fast-paced, multicultural setting, this role in Portuga",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Turkish Digital Marketing Specialist (Google Ads) - Lisbon",
+    "description": "<p>Workster is partnering with a top international outsourcing/BPO consultancy to recruit a Turkish-speaking Digital Marketing Specialist focused on Google Ads for their Lisbon office. If you are passionate about optimising digital marketing campaigns, fluent in Turkish, and ready to take your digit",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Workster Jobs",
+     "value": 6646717
+    },
+    "datePosted": "2025-10-21T18:10:36+02:00",
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Workster Jobs",
+     "sameAs": "https://worksterjobs.teamtailor.com"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": null,
+       "addressLocality": "Lisbon",
+       "postalCode": null,
+       "addressCountry": "PT",
+       "addressRegion": null
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "d519caa3-18c9-4ec9-89cf-20e5b30f06c5",
+   "title": "AV Specialist (Igaming) Bucharest",
+   "url": "https://worksterjobs.teamtailor.com/jobs/5123381-av-specialist-igaming-bucharest",
+   "date_published": "2024-08-28T15:06:00+02:00",
+   "content_html": "<p>Join our forward-thinking team as an AV Specialist in the vibrant city of Bucharest. This exciting role within the iGaming sector offers the chance to be at the forefront of audio-visual innovation, ensuring high-quality live gaming experiences. If you have a passion for AV technology and gaming, we want to hear from you.</p><h2>Key Responsibilities for AV Specialist</h2><ul>\n\n\n    <li>\n       ",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "AV Specialist (Igaming) Bucharest",
+    "description": "<p>Join our forward-thinking team as an AV Specialist in the vibrant city of Bucharest. This exciting role within the iGaming sector offers the chance to be at the forefront of audio-visual innovation, ensuring high-quality live gaming experiences. If you have a passion for AV technology and gaming,",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Workster Jobs",
+     "value": 5123381
+    },
+    "datePosted": "2024-08-28T15:06:00+02:00",
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Workster Jobs",
+     "sameAs": "https://worksterjobs.teamtailor.com"
+    }
+   }
+  }
+ ]
+}
