@@ -7,7 +7,6 @@ MODULES = [
     "linkedin",
     "sg",
     "hipo",
-    "juridice",
     "posturi_gov",
     "banks",
     "workday",
