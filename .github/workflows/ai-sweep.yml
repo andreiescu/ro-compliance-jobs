@@ -31,6 +31,7 @@ jobs:
       - uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ github.token }} # skip the Claude GitHub App exchange; we only write a local file
           claude_args: --allowedTools "WebSearch,WebFetch,Read,Write" --max-turns 80
           prompt: |
             Find currently open compliance jobs that are either in Bucharest, Romania, or fully remote

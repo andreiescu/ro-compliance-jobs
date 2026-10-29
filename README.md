@@ -15,7 +15,6 @@ Every hour, this repo checks job boards and employers' careers sites for complia
    - Greenhouse, Lever, Ashby, SmartRecruiters, Workable and Teamtailor boards
    - Société Générale careers
    - Hipo.ro
-   - cariere.juridice.ro
    - posturi.gov.ro
    - Romanian bank and insurer careers pages
 2. **Classify.** `tracker/classify.py` drops anything that isn't a compliance role in Romania, or remote and open to Romania. It marks each kept role as *core* or *adjacent*; adjacent roles (IT GRC, tax, trade, regulatory affairs…) show on the dashboard but never alert.
