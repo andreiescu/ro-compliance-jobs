@@ -4072,6 +4072,38 @@
    "status": "active",
    "title": "Compliance Engineer Intern"
   },
+  "947dd1c6a1e0": {
+   "category": "Compliance",
+   "city": "Remote - European Union",
+   "company": "Phoenix Payments",
+   "content_hash": "5c39529ec9a50c9c",
+   "description": "Full-time junior (1-2 yrs) role supporting the MLRO and compliance team at a payments business. KYC and due diligence, PEP/sanctions/adverse media screening, transaction monitoring and reporting, client risk assessments, compliance documentation, plus corporate client account support. Requires 1+ year hands-on compliance experience (financial services/payments/fintech preferred), practical AML/KYC knowledge, fluent English and Russian. Romania listed among eligible countries.",
+   "extra": {},
+   "fingerprint": "phoenix payments|compliance account support officer eu|remote - european union",
+   "first_seen": "2026-10-29T15:28:36+00:00",
+   "id": "947dd1c6a1e0",
+   "is_core": true,
+   "last_changed": "2026-10-29T15:28:36+00:00",
+   "last_seen": "2026-10-29T15:28:36+00:00",
+   "listings": {
+    "ai_sweep:51d785f3076a": {
+     "first_seen": "2026-10-29T15:28:36+00:00",
+     "last_seen": "2026-10-29T15:28:36+00:00",
+     "misses": 0,
+     "native_id": "51d785f3076a",
+     "source": "ai_sweep",
+     "status": "open",
+     "url": "https://jobgether.com/offer/6ae32073d6c8b081a7901bfc-compliance-account-support-officer-eu"
+    }
+   },
+   "location": "Remote - European Union",
+   "posted": "2026-10-29",
+   "primary": "ai_sweep:51d785f3076a",
+   "remote": true,
+   "remote_ro": true,
+   "status": "active",
+   "title": "Compliance & Account Support Officer (EU)"
+  },
   "94ba7ae3690e": {
    "category": "Adjacent",
    "city": "Bucharest",
@@ -4979,6 +5011,38 @@
    "remote_ro": false,
    "status": "active",
    "title": "HR Specialist - Payroll & Compliance"
+  },
+  "c0c74fcf3693": {
+   "category": "Compliance",
+   "city": "Remote - Europe",
+   "company": "OnHires (for a global crypto/payments fintech)",
+   "content_hash": "6c3ee581800cab46",
+   "description": "Remote B2B contract role reporting to the Global Chief of Compliance at a fintech with MiCA CASP and PSD2 licences. Owns e-money and payments regulatory workstreams with EEA regulators and UK FCA: safeguarding framework, post-authorisation obligations, product and outsourcing assessments. Regulatory drafting/analysis, not AML/MLRO. Requires 5+ years regulatory compliance (3+ in EEA/UK e-money or payment institution), EMD2/PSD2 authorisation experience, DORA and AML/FATF knowledge, fluent English, 4h overlap with European hours. Romania listed among eligible countries.",
+   "extra": {},
+   "fingerprint": "onhires for a global crypto payments fintech|compliance officer regulatory focus e money payments|remote - europe",
+   "first_seen": "2026-10-29T15:28:36+00:00",
+   "id": "c0c74fcf3693",
+   "is_core": true,
+   "last_changed": "2026-10-29T15:28:36+00:00",
+   "last_seen": "2026-10-29T15:28:36+00:00",
+   "listings": {
+    "ai_sweep:f7da6e839492": {
+     "first_seen": "2026-10-29T15:28:36+00:00",
+     "last_seen": "2026-10-29T15:28:36+00:00",
+     "misses": 0,
+     "native_id": "f7da6e839492",
+     "source": "ai_sweep",
+     "status": "open",
+     "url": "https://jobgether.com/offer/6accfd5349c73d7b9971deff-compliance-officer-regulatory-focus-e-money-payments"
+    }
+   },
+   "location": "Remote - Europe",
+   "posted": "2026-10-12",
+   "primary": "ai_sweep:f7da6e839492",
+   "remote": true,
+   "remote_ro": true,
+   "status": "active",
+   "title": "Compliance Officer (Regulatory Focus), E-Money & Payments"
   },
   "c3c7d3caaee0": {
    "category": "Data protection / DPO",
@@ -6434,11 +6498,19 @@
   }
  },
  "meta": {
+  "ai_baseline_done": true,
   "baseline_done": true,
-  "last_run": "2026-10-29T15:23:53+00:00",
-  "runs": 1
+  "last_run": "2026-10-29T15:28:36+00:00",
+  "runs": 2
  },
  "sources": {
+  "ai_sweep": {
+   "fail_streak": 0,
+   "last_attempt": "2026-10-29T15:28:36+00:00",
+   "last_count": 2,
+   "last_error": null,
+   "last_ok": "2026-10-29T15:28:36+00:00"
+  },
   "ats": {
    "fail_streak": 0,
    "last_attempt": "2026-10-29T15:23:53+00:00",
