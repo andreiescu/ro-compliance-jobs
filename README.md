@@ -37,6 +37,14 @@ Every hour, this repo checks job boards and employers' careers sites for complia
 
 `.github/workflows/ai-sweep.yml` runs Claude once a day to look for roles the scrapers miss: eJobs, agencies, banks that block scraping, and so on. Its candidates go through `tracker.run ingest-ai`, which only accepts URLs that load and actually show the job title. Accepted candidates then go through the same pipeline as everything else.
 
+## Applied list
+
+Each job on the dashboard has an **I have applied to this listing** button. Clicking it moves the job to the **Applied** tab and records the date. Undo it with **Move back to Jobs**.
+
+- **Storage:** the list lives in `data/applied.json`, so it's the same on every device. The dashboard writes it through the GitHub API with a fine-grained token, set up once per browser.
+- **Token:** it needs access to only this repo, with Contents: read and write. It's stored in that browser's local storage and nowhere else.
+- **Alerts:** jobs on the list never trigger alerts again, even when they're re-posted.
+
 ## Running locally
 
 ```sh

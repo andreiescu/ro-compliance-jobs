@@ -58,6 +58,21 @@ th { color: var(--muted); font-weight: 500; font-size: 13px; }
 .tablewrap { overflow-x: auto; }
 .empty { color: var(--muted); padding: 30px 0; text-align: center; }
 .ev-NEW { color: var(--accent); } .ev-REACTIVATED { color: var(--ok); } .ev-DEACTIVATED { color: var(--bad); } .ev-UPDATED { color: var(--warn); }
+.btn { border: 1px solid var(--border); background: var(--card); color: var(--text); border-radius: 8px; padding: 6px 12px;
+  font: inherit; font-size: 13.5px; cursor: pointer; }
+.btn:hover { border-color: var(--accent); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--card); font-weight: 600; }
+.btn:disabled { opacity: .6; cursor: progress; }
+.actions { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 10px; }
+.applied-on { color: var(--ok); font-size: 13.5px; font-weight: 500; }
+.sync { color: var(--muted); font-size: 12.5px; margin-top: 24px; }
+.sync a, .sync button { color: var(--accent); background: none; border: 0; padding: 0; font: inherit; cursor: pointer; text-decoration: underline; }
+dialog { border: 1px solid var(--border); border-radius: 12px; background: var(--card); color: var(--text); max-width: 520px; width: calc(100% - 32px); padding: 20px; }
+dialog::backdrop { background: rgb(0 0 0 / .4); }
+dialog h2 { margin: 0 0 8px; font-size: 18px; }
+dialog ol { padding-left: 20px; font-size: 14px; }
+dialog input { width: 100%; padding: 8px 10px; border: 1px solid var(--border); border-radius: 8px; background: var(--bg); color: var(--text); font: inherit; margin: 6px 0 4px; }
+.err { color: var(--bad); font-size: 13px; min-height: 1.2em; }
 [hidden] { display: none !important; }
 </style>
 </head>
@@ -67,6 +82,7 @@ th { color: var(--muted); font-weight: 500; font-size: 13px; }
   <p class="sub" id="sub">Loading…</p>
   <div class="tabs">
     <button data-tab="jobs" class="on">Jobs</button>
+    <button data-tab="applied" id="applied-tab">Applied</button>
     <button data-tab="activity">Activity</button>
     <button data-tab="sources">Sources</button>
   </div>
@@ -84,6 +100,11 @@ th { color: var(--muted); font-weight: 500; font-size: 13px; }
     <div id="list"></div>
   </section>
 
+  <section id="tab-applied" hidden>
+    <div class="count" id="applied-count"></div>
+    <div id="applied-list"></div>
+  </section>
+
   <section id="tab-activity" hidden>
     <div class="controls">
       <select id="evtype"><option value="">All changes</option><option>NEW</option><option>UPDATED</option><option>DEACTIVATED</option><option>REACTIVATED</option></select>
@@ -94,7 +115,26 @@ th { color: var(--muted); font-weight: 500; font-size: 13px; }
   <section id="tab-sources" hidden>
     <div class="tablewrap"><table><thead><tr><th>Source</th><th>Health</th><th>Last OK</th><th>Listings last run</th><th>Last error</th></tr></thead><tbody id="sources"></tbody></table></div>
   </section>
+  <p class="sync" id="sync"></p>
 </div>
+
+<dialog id="token-dialog">
+  <form method="dialog" id="token-form">
+    <h2>Connect this browser</h2>
+    <p class="sub">Your "applied" list is saved in the GitHub repo so it's the same on every device. This browser needs a GitHub access token once; it's stored only in this browser.</p>
+    <ol>
+      <li>The repo owner opens <a href="https://github.com/settings/personal-access-tokens/new?name=Compliance+jobs+dashboard&amp;description=Saves+the+Applied+list&amp;target_name=andreiescu&amp;expires_in=365&amp;contents=write" target="_blank" rel="noopener">this pre-filled token page</a>.</li>
+      <li>Under <b>Repository access</b>, choose <b>Only select repositories</b> → <b>ro-compliance-jobs</b>. Permissions: <b>Contents: Read and write</b> (already filled in).</li>
+      <li>Click <b>Generate token</b>, copy it and paste it here.</li>
+    </ol>
+    <input id="token-input" type="password" placeholder="github_pat_…" autocomplete="off">
+    <div class="err" id="token-err"></div>
+    <div class="actions">
+      <button class="btn primary" id="token-save" value="save">Save</button>
+      <button class="btn" value="cancel" formnovalidate>Cancel</button>
+    </div>
+  </form>
+</dialog>
 <script>
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -103,12 +143,103 @@ const ago = iso => { if (!iso) return "never"; const h = (Date.now() - new Date(
   return h < 1 ? `${Math.max(1, Math.round(h * 60))} min ago` : h < 48 ? `${Math.round(h)} h ago` : `${Math.round(h / 24)} days ago`; };
 const SOURCE_NAMES = {linkedin: "LinkedIn", workday: "Company careers (Workday)", ats: "Company careers", sg: "Société Générale",
   hipo: "Hipo.ro", jooble: "Jooble", juridice: "cariere.juridice.ro", posturi_gov: "posturi.gov.ro", banks: "Bank careers", ai_sweep: "AI sweep"};
-let JOBS = [], EVENTS = [], byJob = {};
+let JOBS = [], EVENTS = [], byJob = {}, APPLIED = {}, appliedSha = null;
+
+// ---- Applied list: data/applied.json in the repo, written through the GitHub contents API ----
+const REPO = "andreiescu/ro-compliance-jobs", APPLIED_PATH = "data/applied.json", TOKEN_KEY = "ghToken";
+const API = `https://api.github.com/repos/${REPO}/contents/${APPLIED_PATH}`;
+const getToken = () => { try { return localStorage.getItem(TOKEN_KEY); } catch { return null; } };
+const setToken = t => { try { t ? localStorage.setItem(TOKEN_KEY, t) : localStorage.removeItem(TOKEN_KEY); } catch {} };
+const b64decode = s => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\n/g, "")), c => c.charCodeAt(0)));
+const b64encode = str => { let bin = ""; new TextEncoder().encode(str).forEach(b => bin += String.fromCharCode(b)); return btoa(bin); };
+const ghHeaders = () => ({Accept: "application/vnd.github+json", ...(getToken() ? {Authorization: `Bearer ${getToken()}`} : {})});
+
+async function fetchApplied() {
+  try {
+    const r = await fetch(`${API}?ref=main&t=${Date.now()}`, {cache: "no-store", headers: ghHeaders()});
+    if (r.status === 404) { appliedSha = null; return {}; }
+    if (r.ok) { const d = await r.json(); appliedSha = d.sha; return JSON.parse(b64decode(d.content)); }
+  } catch {}
+  // GitHub API unreachable or rate-limited: fall back to the copy deployed with the dashboard (up to an hour old).
+  return fetch("applied.json", {cache: "no-store"}).then(r => r.ok ? r.json() : {}).catch(() => ({}));
+}
+
+// Re-read the file, apply the change and write it back; retries when someone else saved in between.
+async function saveApplied(change, message) {
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const current = await fetchApplied();
+    change(current);
+    const body = {message, branch: "main", content: b64encode(JSON.stringify(current, null, 1) + "\n")};
+    if (appliedSha) body.sha = appliedSha;
+    const r = await fetch(API, {method: "PUT", headers: {...ghHeaders(), "Content-Type": "application/json"}, body: JSON.stringify(body)});
+    if (r.ok) { appliedSha = (await r.json()).content.sha; return current; }
+    if (r.status === 401 || r.status === 403) { setToken(null); throw new Error("token"); }
+    if (r.status !== 409 && r.status !== 422) throw new Error(`GitHub said ${r.status}`);
+  }
+  throw new Error("Could not save after 3 tries, please reload and try again.");
+}
+
+function askToken() {
+  return new Promise(resolve => {
+    const dlg = $("token-dialog");
+    $("token-input").value = ""; $("token-err").textContent = "";
+    dlg.onclose = () => resolve(dlg.returnValue === "ok");
+    $("token-save").onclick = async ev => {
+      ev.preventDefault();
+      const t = $("token-input").value.trim();
+      if (!t) { $("token-err").textContent = "Paste the token first."; return; }
+      $("token-save").disabled = true;
+      try {
+        const r = await fetch(`https://api.github.com/repos/${REPO}`, {headers: {Accept: "application/vnd.github+json", Authorization: `Bearer ${t}`}});
+        const d = r.ok ? await r.json() : null;
+        if (!d || !d.permissions || !d.permissions.push) throw new Error();
+        setToken(t); dlg.close("ok"); renderSync();
+      } catch { $("token-err").textContent = "That token can't write to ro-compliance-jobs. Check the repository and Contents permission."; }
+      finally { $("token-save").disabled = false; }
+    };
+    dlg.showModal();
+  });
+}
+
+async function markApplied(id, btn) {
+  if (!getToken() && !(await askToken())) return;
+  const j = JOBS.find(x => x.id === id);
+  btn.disabled = true; btn.textContent = "Saving…";
+  try {
+    APPLIED = await saveApplied(d => { d[id] = {applied_at: new Date().toISOString(), title: j.title, company: j.company,
+      url: (j.listings[j.primary] || {}).url}; }, `applied: ${j.title} @ ${j.company}`);
+    renderAll();
+  } catch (e) {
+    btn.disabled = false; btn.textContent = "I have applied to this listing";
+    if (e.message === "token") { alert("The saved GitHub token no longer works. Please connect again."); renderSync(); }
+    else alert(`Couldn't save: ${e.message}`);
+  }
+}
+
+async function undoApplied(id, btn) {
+  const a = APPLIED[id];
+  if (!confirm(`Move "${a.title}" back to Jobs?`)) return;
+  if (!getToken() && !(await askToken())) return;
+  btn.disabled = true;
+  try {
+    APPLIED = await saveApplied(d => { delete d[id]; }, `unapplied: ${a.title} @ ${a.company}`);
+    renderAll();
+  } catch (e) { btn.disabled = false; alert(e.message === "token" ? "The saved GitHub token no longer works. Please connect again." : `Couldn't save: ${e.message}`); renderSync(); }
+}
+
+function renderSync() {
+  $("sync").innerHTML = getToken()
+    ? `Applied list syncs through GitHub on this browser. <button id="sync-off">Disconnect</button>`
+    : `This browser isn't connected yet, so it can see the Applied list but not change it. <button id="sync-on">Connect</button>`;
+  const on = $("sync-on"), off = $("sync-off");
+  if (on) on.onclick = () => askToken();
+  if (off) off.onclick = () => { if (confirm("Remove the GitHub token from this browser?")) { setToken(null); renderSync(); } };
+}
 
 async function load() {
   const get = f => fetch(f, {cache: "no-store"}).then(r => r.ok ? r.json() : null).catch(() => null);
-  const [jobs, events, status] = await Promise.all([get("jobs.json"), get("events.json"), get("status.json")]);
-  JOBS = jobs || []; EVENTS = (events || []).slice().reverse();
+  const [jobs, events, status, applied] = await Promise.all([get("jobs.json"), get("events.json"), get("status.json"), fetchApplied()]);
+  JOBS = jobs || []; EVENTS = (events || []).slice().reverse(); APPLIED = applied || {};
   const jobIndex = Object.fromEntries(JOBS.map(j => [j.id, j]));
   EVENTS.forEach(e => (byJob[e.job_id] ||= []).push(e));
   const active = JOBS.filter(j => j.status === "active");
@@ -117,15 +248,34 @@ async function load() {
   const fill = (sel, vals) => [...new Set(vals)].sort().forEach(v => sel.add(new Option(v, v)));
   fill($("cat"), JOBS.map(j => j.category));
   fill($("city"), JOBS.map(cityKey));
-  renderJobs(); renderEvents(jobIndex); renderSources(status);
+  renderAll(); renderEvents(jobIndex); renderSources(status); renderSync();
   focusHash();
 }
 
 const cityKey = j => j.remote_ro && !["Bucharest"].includes(j.city) ? "Remote (open to Romania)" : j.city;
 
+function renderAll() {
+  renderJobs(); renderApplied();
+  const n = Object.keys(APPLIED).length;
+  $("applied-tab").textContent = n ? `Applied (${n})` : "Applied";
+}
+
+function renderApplied() {
+  const byId = Object.fromEntries(JOBS.map(j => [j.id, j]));
+  const rows = Object.entries(APPLIED).sort((a, b) => b[1].applied_at.localeCompare(a[1].applied_at));
+  $("applied-count").textContent = rows.length ? `${rows.length} application${rows.length > 1 ? "s" : ""}` : "";
+  $("applied-list").innerHTML = rows.length ? rows.map(([id, a]) => byId[id] ? jobCard(byId[id], a) : `
+    <div class="job inactive" id="job-${esc(id)}">
+      <a class="title" href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a>
+      <div><span class="company">${esc(a.company)}</span></div>
+      <div class="actions"><span class="applied-on">✓ Applied ${fmt(a.applied_at)}</span>
+        <button class="btn" data-undo="${esc(id)}">Move back to Jobs</button></div>
+    </div>`).join("") : `<div class="empty">Nothing here yet. Use "I have applied to this listing" on a job to move it here.</div>`;
+}
+
 function renderJobs() {
   const q = $("q").value.toLowerCase().trim(), fresh = +$("fresh").value;
-  const out = JOBS.filter(j =>
+  const out = JOBS.filter(j => !APPLIED[j.id] &&
     (!$("status").value || j.status === $("status").value) &&
     (!$("cat").value || j.category === $("cat").value) &&
     (!$("city").value || cityKey(j) === $("city").value) &&
@@ -133,11 +283,12 @@ function renderJobs() {
     (!fresh || Date.now() - new Date(j.first_seen) < fresh * 864e5) &&
     (!q || [j.title, j.company, j.location, j.description].join(" ").toLowerCase().includes(q)))
     .sort((a, b) => (b.first_seen || "").localeCompare(a.first_seen || ""));
-  $("count").textContent = `Showing ${out.length} of ${JOBS.length}`;
-  $("list").innerHTML = out.length ? out.map(jobCard).join("") : `<div class="empty">No jobs match these filters.</div>`;
+  const applied = JOBS.filter(j => APPLIED[j.id]).length;
+  $("count").textContent = `Showing ${out.length} of ${JOBS.length - applied}` + (applied ? ` · ${applied} in Applied` : "");
+  $("list").innerHTML = out.length ? out.map(j => jobCard(j)).join("") : `<div class="empty">No jobs match these filters.</div>`;
 }
 
-function jobCard(j) {
+function jobCard(j, applied) {
   const primary = j.listings[j.primary] || Object.values(j.listings)[0];
   const isNew = Date.now() - new Date(j.first_seen) < 864e5;
   const seen = {};
@@ -163,6 +314,9 @@ function jobCard(j) {
       ${j.extra && j.extra.seniority && j.extra.seniority !== "Not Applicable" ? `<span class="chip">${esc(j.extra.seniority)}</span>` : ""}
       ${j.extra && j.extra.deadline ? `<span class="chip warn">deadline ${esc(j.extra.deadline)}</span>` : ""}
     </div>
+    <div class="actions">${applied
+      ? `<span class="applied-on">✓ Applied ${fmt(applied.applied_at)}</span><button class="btn" data-undo="${esc(j.id)}">Move back to Jobs</button>`
+      : `<button class="btn primary" data-apply="${esc(j.id)}">I have applied to this listing</button>`}</div>
     <details><summary>Description, links and history</summary>
       <div class="links">Listed on: ${links}</div>
       ${timeline ? `<ul class="timeline">${timeline}</ul>` : ""}
@@ -202,19 +356,24 @@ function renderSources(status) {
 
 function showTab(name) {
   document.querySelectorAll(".tabs button").forEach(b => b.classList.toggle("on", b.dataset.tab === name));
-  ["jobs", "activity", "sources"].forEach(t => $(`tab-${t}`).hidden = t !== name);
+  ["jobs", "applied", "activity", "sources"].forEach(t => $(`tab-${t}`).hidden = t !== name);
 }
 
 function focusHash() {
   const m = location.hash.match(/^#job-(.+)$/);
   if (!m) return;
-  showTab("jobs");
+  showTab(APPLIED[m[1]] ? "applied" : "jobs");
   let el = document.getElementById(`job-${m[1]}`);
   if (!el) { $("status").value = ""; $("core").checked = false; $("fresh").value = ""; $("q").value = ""; renderJobs(); el = document.getElementById(`job-${m[1]}`); }
   if (el) { el.classList.add("target"); el.querySelector("details").open = true; el.scrollIntoView({block: "center"}); }
 }
 
 document.querySelectorAll(".tabs button").forEach(b => b.addEventListener("click", () => showTab(b.dataset.tab)));
+document.addEventListener("click", e => {
+  const apply = e.target.closest("[data-apply]"), undo = e.target.closest("[data-undo]");
+  if (apply) markApplied(apply.dataset.apply, apply);
+  if (undo) undoApplied(undo.dataset.undo, undo);
+});
 ["q", "status", "cat", "city", "fresh", "core"].forEach(id => $(id).addEventListener("input", renderJobs));
 window.addEventListener("hashchange", focusHash);
 load();

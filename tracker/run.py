@@ -31,6 +31,7 @@ from .store import Event, SourceResult, Store, now_iso
 ROOT = Path(__file__).resolve().parent.parent
 DATA = Path(os.environ.get("TRACKER_DATA", ROOT / "data"))
 AI_CANDIDATES = DATA / "ai_candidates.json"
+APPLIED = DATA / "applied.json"  # written by the dashboard's "I have applied" button
 
 MAX_ENRICH_NEW = 40
 MAX_ENRICH_BACKLOG = 10
@@ -132,7 +133,15 @@ def enrich_backlog(store: Store, registry: dict) -> None:
                 store.set_description(job["id"], raw.description)
 
 
+def load_applied() -> dict:
+    try:
+        return json.loads(APPLIED.read_text())
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
 def send_alerts(store: Store, events: list[Event], tg: Telegram, dry_run: bool) -> None:
+    applied = load_applied()
     pending = store.meta.setdefault("pending_alerts", [])
     queue = [(e.job_id, e.type, e) for e in events if e.type in ("NEW", "REACTIVATED") and not e.silent]
     queue = [(jid, t, None) for jid, t in pending] + queue
@@ -140,7 +149,7 @@ def send_alerts(store: Store, events: list[Event], tg: Telegram, dry_run: bool) 
     dashboard = os.environ.get("DASHBOARD_URL")
     for jid, etype, event in queue:
         job = store.jobs.get(jid)
-        if not job or job["status"] != "active" or not classify.should_alert(job):
+        if not job or job["status"] != "active" or jid in applied or not classify.should_alert(job):
             continue
         text, markup = format_job(job, etype, dashboard)
         if dry_run or not tg.configured:
@@ -279,6 +288,7 @@ def cmd_build_site(args) -> None:
     (out / "events.json").write_text(json.dumps(events, ensure_ascii=False))
     status = {"generated": now_iso(), "meta": {k: v for k, v in store.meta.items() if k != "pending_alerts"}, "sources": store.sources}
     (out / "status.json").write_text(json.dumps(status, ensure_ascii=False))
+    (out / "applied.json").write_text(json.dumps(load_applied(), ensure_ascii=False))
     log(f"site written to {out} ({len(jobs)} jobs, {len(events)} events)")
 
 
