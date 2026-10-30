@@ -14,11 +14,11 @@
    "id": "011696fdc193",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:273376": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "273376",
      "source": "hipo",
@@ -49,11 +49,11 @@
    "id": "02fd265958f7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272759": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272759",
      "source": "hipo",
@@ -62,7 +62,7 @@
     },
     "linkedin:4475985294": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4475985294",
@@ -72,7 +72,7 @@
     },
     "linkedin:4477838882": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4477838882",
@@ -82,7 +82,7 @@
     },
     "workday:ing:REQ-10122512": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10122512",
      "source": "workday",
@@ -114,7 +114,7 @@
    "listings": {
     "linkedin:4325012559": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4325012559",
@@ -147,11 +147,11 @@
    "id": "03bf78b2a285",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484997746": {
      "first_seen": "2026-10-29T21:09:22+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484997746",
      "source": "linkedin",
@@ -160,7 +160,7 @@
     },
     "sg:26000MII": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "26000MII",
      "source": "sg",
@@ -195,7 +195,7 @@
    "listings": {
     "linkedin:4475248117": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4475248117",
@@ -228,7 +228,7 @@
    "listings": {
     "linkedin:4478331342": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4478331342",
@@ -278,11 +278,11 @@
    "id": "067d29ea7556",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:parexel:R0000046069": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "parexel:R0000046069",
      "source": "workday",
@@ -314,7 +314,7 @@
    "listings": {
     "linkedin:4469744035": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4469744035",
@@ -345,11 +345,11 @@
    "id": "0976483708dc",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272264": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272264",
      "source": "hipo",
@@ -358,7 +358,7 @@
     },
     "workday:ing:REQ-10122263": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10122263",
      "source": "workday",
@@ -422,11 +422,11 @@
    "id": "0e249de014bc",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:271855": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "271855",
      "source": "hipo",
@@ -435,7 +435,7 @@
     },
     "hipo:273394": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "273394",
      "source": "hipo",
@@ -444,7 +444,7 @@
     },
     "linkedin:4483226730": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483226730",
      "source": "linkedin",
@@ -453,7 +453,7 @@
     },
     "workday:ing:REQ-10121570": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10121570",
      "source": "workday",
@@ -462,7 +462,7 @@
     },
     "workday:ing:REQ-10123669": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10123669",
      "source": "workday",
@@ -494,11 +494,11 @@
    "id": "11dea86d0f11",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:genpact:JR10021487": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "genpact:JR10021487",
      "source": "workday",
@@ -528,11 +528,11 @@
    "id": "1273b4fe0de9",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "banks:unicredit:117156": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "unicredit:117156",
      "source": "banks",
@@ -574,11 +574,11 @@
    "id": "14a2ca92f5fa",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:thermofisher:R-01351430": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "thermofisher:R-01351430",
      "source": "workday",
@@ -608,16 +608,18 @@
    "first_seen": "2026-10-29T15:23:53+00:00",
    "id": "1536c5bb16cd",
    "is_core": true,
-   "last_changed": "2026-10-29T15:23:53+00:00",
+   "last_changed": "2026-10-30T14:09:44+00:00",
    "last_seen": "2026-10-30T07:07:43+00:00",
    "listings": {
     "ats:lever:swissborg:0b18bb05-a97a-427a-9c8c-28245f106863": {
+     "closed_at": "2026-10-30T14:09:44+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-30T07:07:43+00:00",
-     "misses": 0,
+     "misses": 1,
      "native_id": "lever:swissborg:0b18bb05-a97a-427a-9c8c-28245f106863",
      "source": "ats",
-     "status": "open",
+     "status": "closed",
      "url": "https://jobs.lever.co/swissborg/0b18bb05-a97a-427a-9c8c-28245f106863"
     }
    },
@@ -626,7 +628,7 @@
    "primary": "ats:lever:swissborg:0b18bb05-a97a-427a-9c8c-28245f106863",
    "remote": true,
    "remote_ro": true,
-   "status": "active",
+   "status": "inactive",
    "title": "KYC Analyst"
   },
   "1571924fe707": {
@@ -641,11 +643,11 @@
    "id": "1571924fe707",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4477401665": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4477401665",
@@ -655,7 +657,7 @@
     },
     "sg:26000LOC": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "26000LOC",
      "source": "sg",
@@ -686,16 +688,18 @@
    "first_seen": "2026-10-29T15:23:53+00:00",
    "id": "16cec73aea8e",
    "is_core": true,
-   "last_changed": "2026-10-29T15:23:53+00:00",
+   "last_changed": "2026-10-30T14:09:44+00:00",
    "last_seen": "2026-10-30T07:07:43+00:00",
    "listings": {
     "sg:26000LN3": {
+     "closed_at": "2026-10-30T14:09:44+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-30T07:07:43+00:00",
-     "misses": 0,
+     "misses": 1,
      "native_id": "26000LN3",
      "source": "sg",
-     "status": "open",
+     "status": "closed",
      "url": "https://careers.societegenerale.com/en/job-offers/internship-compliance-with-french-cdd-6-months-26000LN3-en"
     }
    },
@@ -704,7 +708,7 @@
    "primary": "sg:26000LN3",
    "remote": false,
    "remote_ro": false,
-   "status": "active",
+   "status": "inactive",
    "title": "Internship Compliance with French - CDD 6 months"
   },
   "1718b30cc7ae": {
@@ -721,11 +725,11 @@
    "id": "1718b30cc7ae",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:269421": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "269421",
      "source": "hipo",
@@ -734,7 +738,7 @@
     },
     "workday:ing:REQ-10115192": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10115192",
      "source": "workday",
@@ -797,11 +801,11 @@
    "id": "1935e8179840",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:271416": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "271416",
      "source": "hipo",
@@ -832,11 +836,11 @@
    "id": "19bac6559e9d",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4473859624": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4473859624",
      "source": "linkedin",
@@ -867,7 +871,7 @@
    "id": "1a00ec11781b",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4467056931": {
      "closed_at": "2026-10-30T01:01:03+00:00",
@@ -882,7 +886,7 @@
     },
     "linkedin:4474386549": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4474386549",
@@ -892,7 +896,7 @@
     },
     "linkedin:4483068727": {
      "first_seen": "2026-10-30T07:07:43+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483068727",
      "source": "linkedin",
@@ -935,11 +939,11 @@
    "id": "1b187b2d6488",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:thermofisher:R-01350715": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "thermofisher:R-01350715",
      "source": "workday",
@@ -971,7 +975,7 @@
    "listings": {
     "linkedin:4455798557": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4455798557",
@@ -1007,7 +1011,7 @@
    "listings": {
     "linkedin:4453429805": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4453429805",
@@ -1038,11 +1042,11 @@
    "id": "1f722a7fa4ed",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "banks:unicredit:112326": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "unicredit:112326",
      "source": "banks",
@@ -1072,11 +1076,11 @@
    "id": "1f9866a41cce",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272653": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272653",
      "source": "hipo",
@@ -1106,11 +1110,11 @@
    "id": "20c73c0c2ed1",
    "is_core": true,
    "last_changed": "2026-10-30T07:07:43+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:273549": {
      "first_seen": "2026-10-30T07:07:43+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "273549",
      "source": "hipo",
@@ -1163,11 +1167,11 @@
    "id": "214f0f0f8f34",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:parexel:R0000039967": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "parexel:R0000039967",
      "source": "workday",
@@ -1198,11 +1202,11 @@
    "id": "22afd7330fd9",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:smartrecruiters:Aumovio:744000142073842": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "smartrecruiters:Aumovio:744000142073842",
      "source": "ats",
@@ -1211,7 +1215,7 @@
     },
     "hipo:270549": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "270549",
      "source": "hipo",
@@ -1220,7 +1224,7 @@
     },
     "linkedin:4450697899": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4450697899",
@@ -1230,7 +1234,7 @@
     },
     "linkedin:4482940487": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4482940487",
      "source": "linkedin",
@@ -1261,11 +1265,11 @@
    "id": "23a8437f5cb1",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4474327785": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4474327785",
@@ -1275,7 +1279,7 @@
     },
     "sg:26000HW1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "26000HW1",
      "source": "sg",
@@ -1307,7 +1311,7 @@
    "listings": {
     "linkedin:4482062127": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4482062127",
@@ -1340,7 +1344,7 @@
    "listings": {
     "linkedin:4478472624": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4478472624",
@@ -1373,7 +1377,7 @@
    "listings": {
     "linkedin:4471748853": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4471748853",
@@ -1409,7 +1413,7 @@
    "listings": {
     "linkedin:4463437283": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4463437283",
@@ -1438,11 +1442,11 @@
    "id": "2bc0defa2b61",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4482217291": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4482217291",
      "source": "linkedin",
@@ -1451,7 +1455,7 @@
     },
     "sg:26000MPJ": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "26000MPJ",
      "source": "sg",
@@ -1481,11 +1485,11 @@
    "id": "2d0f17491417",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:273155": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "273155",
      "source": "hipo",
@@ -1513,11 +1517,11 @@
    "id": "2e0a9a1a4c46",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:greenhouse:okx:8014747003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8014747003",
      "source": "ats",
@@ -1552,7 +1556,7 @@
    "listings": {
     "linkedin:4459960244": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-10-30T01:01:03+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4459960244",
@@ -1585,11 +1589,11 @@
    "id": "31655a7911c3",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:iqvia:R1562529-2": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "iqvia:R1562529-2",
      "source": "workday",
@@ -1621,11 +1625,11 @@
    "id": "320b319e0e5b",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:genpact:JR10031571": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "genpact:JR10031571",
      "source": "workday",
@@ -1724,11 +1728,11 @@
    "id": "351f69cbe650",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272724": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272724",
      "source": "hipo",
@@ -1756,11 +1760,11 @@
    "id": "35a66e24bba0",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:greenhouse:okx:7996961003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7996961003",
      "source": "ats",
@@ -1835,11 +1839,11 @@
    "id": "3944a2fc8465",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:iqvia:R1563664": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "iqvia:R1563664",
      "source": "workday",
@@ -1870,7 +1874,7 @@
    "id": "39f8d5bcac8c",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4462307528": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -1884,7 +1888,7 @@
     },
     "workday:pwc:759940WD": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "pwc:759940WD",
      "source": "workday",
@@ -1924,11 +1928,11 @@
    "id": "3e3942459486",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4481964891": {
      "first_seen": "2026-10-29T15:58:29+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4481964891",
      "source": "linkedin",
@@ -1937,7 +1941,7 @@
     },
     "workday:accenture:R00366485": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "accenture:R00366485",
      "source": "workday",
@@ -1968,11 +1972,11 @@
    "id": "3e59340eac2f",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4482508784": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4482508784",
      "source": "linkedin",
@@ -2000,11 +2004,11 @@
    "id": "4254f156cbc7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:greenhouse:okx:7996990003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7996990003",
      "source": "ats",
@@ -2032,11 +2036,11 @@
    "id": "43217bce7c33",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:workable:b3367389-67f6-402d-b608-b61b3e3de018": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "workable:b3367389-67f6-402d-b608-b61b3e3de018",
      "source": "ats",
@@ -2102,11 +2106,11 @@
    "id": "443c33f0dddc",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:273532": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "273532",
      "source": "hipo",
@@ -2115,7 +2119,7 @@
     },
     "hipo:273533": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "273533",
      "source": "hipo",
@@ -2147,11 +2151,11 @@
    "id": "455b43120a0e",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4446466803": {
      "first_seen": "2026-10-29T15:58:29+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4446466803",
      "source": "linkedin",
@@ -2160,7 +2164,7 @@
     },
     "workday:novartis:REQ-10083473-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "novartis:REQ-10083473-1",
      "source": "workday",
@@ -2231,11 +2235,11 @@
    "id": "48be97025229",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:icon:JR158704": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "icon:JR158704",
      "source": "workday",
@@ -2263,11 +2267,11 @@
    "id": "4c5c5ed70396",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4483806826": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483806826",
      "source": "linkedin",
@@ -2276,7 +2280,7 @@
     },
     "workday:accenture:14842769": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "accenture:14842769",
      "source": "workday",
@@ -2311,11 +2315,11 @@
    "id": "4d8f2544e3fc",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484158230": {
      "first_seen": "2026-10-30T01:01:03+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484158230",
      "source": "linkedin",
@@ -2324,7 +2328,7 @@
     },
     "workday:accenture:R00363151": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "accenture:R00363151",
      "source": "workday",
@@ -2352,7 +2356,7 @@
    "id": "501fbe6a05af",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4477289626": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -2366,7 +2370,7 @@
     },
     "workday:accenture:R00344157-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "accenture:R00344157-1",
      "source": "workday",
@@ -2382,6 +2386,41 @@
    "status": "active",
    "title": "Anti-Money Laundering Officer with French"
   },
+  "53ebe2398ef6": {
+   "category": "Compliance",
+   "city": "Bucharest",
+   "company": "eMAG",
+   "content_hash": "25082cfbda3535e5",
+   "description": "We’re always looking for the ones truly passionate about their work. If you are amongst them, you can rest assured there is a place for you in eMAG. We’ve grown very fast and are determined to keep doing so. What brought us here is our desire for continuous evolution and practical results.\n\nMore than 6000 colleagues are part of eMAG Teams. We strongly believe in people's development and therefore every year we invest more and more energy and resources to remain an organization that is constantly learning. We want to ensure that you’ll have the most talented colleagues and the proper environment to grow and achieve great results, to become what you desire on a personal and professional level. Join us, grow faster!\n\nHead of Legal & Compliance @HeyBlu\n\nOur Mission: HeyBlu is a Romanian e-money licensed fintech company that aims to provide financial services to customers and merchants operating in the e-commerce space. Our vision is to increase the financial power of e-commerce buyers & sellers, making a positive impact in their everyday lives. We do this by extending the purchasing power of retail shoppers in easy and convenient ways, while also helping e-commerce merchants with the capital needed to grow their business.\n\nBeing part of eMAG group, the largest e-commerce player in Romania, HeyBlu is focusing on building a financial offering for customers and merchants operating within the eMAG ecosystem by implementing an “embedded finance” approach. As part of the global Prosus group, we share the same purpose: “Improving everyday life for billions of people through technology”. In the HeyBlu team we are building an entrepreneurial, results-driven, agile, and collaborative culture based on the core values we share across the group: ownership, accountability, innovation, adaptability and customer focus.\n\nWhat you’ll have to do: \n\n• Lead and coordinate all legal and compliance activities of the company, including managing high-performing legal and compliance team;\n• Drive legal strategy aligned with business objectives and growth plans;\n• Champion compliance culture throughout the organization;\n• Partner with product teams to enable innovative financial solutions by providing legal assistance in developing new product concepts;\n• Collaborate with all divisions and departments to ensure compliance with regulations;\n• Actively manage relationships with local regulators and industry associations;\n• Issue opinions regarding the design of standard contractual documentation and other documents with legal specificity (norms, procedures and other documents for the financial products in the portfolio);\n• Follow the national and European legislative changes, to update the characteristics of the products and to signal the corresponding changes in flow/procedures;\n• Ensure the secretariat of the meetings of the General Meeting of Shareholders/Board of Directors or other management bodies;\n• Ensure the representation and support of the company's interests in conciliations, before the courts at all levels as well as in relations with public authorities;\n• Become a legal lead for financial services within the eMAG Group.\n\nWhat Will You Bring to the Table? \n\n• University law degree;\n• At least 5-7 years of experience in the financial-banking field (bank, fintech or law firm with experience working for clients from financial sector);\n• Knowledge of financial services’ regulatory landscape, payments, consumer financial products and services, digital channels covering:\n• eMoney and Payment Services: deep understanding of PSD2, electronic payment frameworks and practical business models implementing PSD2 frameworks;\n• Credit Services: deep understanding of legal framework for offering consumer credit and merchant lending products;\n• AML/CTF Compliance: knowledge of Anti-Money Laundering and Counter-Terrorism Financing regulations;\n• Consumer Protection: experience with financial services regulations and consumer contracts;\n• Data Protection: understanding of GDPR compliance and data privacy frameworks;\n• Regulatory Relations: ability to build and manage relationships with supervisory and control authorities;\n• International Sanctions: knowledge of sanctions laws and implementation procedures;\n• Fluent in English;\n• Experience with digital and e-commerce financial products is a plus;\n• Proven experience advising financial institutions on contracts with consumers, entrepreneurs and external service providers/vendors;\n• Entrepreneurial and results-oriented, with the ability to identify opportunities and drive business impact;\n• Strong ownership mindset, combining accountability, adaptability, and sound risk-based decision-making;\n• Innovation-focused, leveraging technology and RegTech solutions to address business and regulatory challenges;\n• Excellent communication, planning, and problem-solving skills, with the ability to influence stakeholders and deliver outcomes.\n\n#executive\n\nCurious to find out more about the next step in your career? Apply now and if your experience is relevant for the role you wish, we will give you a call for more details! Also, here you can find our confidentiality policy if you want to consult it.",
+   "extra": {
+    "employment_type": "Full-time",
+    "seniority": "Executive"
+   },
+   "fingerprint": "emag|head of legal compliance|bucharest",
+   "first_seen": "2026-10-30T14:09:44+00:00",
+   "id": "53ebe2398ef6",
+   "is_core": true,
+   "last_changed": "2026-10-30T14:09:44+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
+   "listings": {
+    "linkedin:4483441760": {
+     "first_seen": "2026-10-30T14:09:44+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
+     "misses": 0,
+     "native_id": "4483441760",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/head-of-legal-compliance-%40heyblu-at-emag-4483441760"
+    }
+   },
+   "location": "Bucharest, Bucharest, Romania",
+   "posted": "2026-10-30",
+   "primary": "linkedin:4483441760",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Head of Legal & Compliance @HeyBlu"
+  },
   "53fbf4296fb0": {
    "category": "AML / KYC / FinCrime",
    "city": "Romania",
@@ -2396,11 +2435,11 @@
    "id": "53fbf4296fb0",
    "is_core": true,
    "last_changed": "2026-10-30T07:07:43+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:273548": {
      "first_seen": "2026-10-30T07:07:43+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "273548",
      "source": "hipo",
@@ -2416,6 +2455,41 @@
    "status": "active",
    "title": "Analyste KYU ARS"
   },
+  "56406ce00465": {
+   "category": "AML / KYC / FinCrime",
+   "city": "Romania",
+   "company": "Jobgether",
+   "content_hash": "b724849d32c3406c",
+   "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AML Investigator based in Romania.\n\nAs an AML Investigator, you will play a key role in protecting the integrity and security of a global digital asset trading environment. You will investigate unusual and potentially suspicious activities, assess financial crime risks, and determine whether cases require regulatory reporting or can be closed with documented justification. Working within an international Compliance team, you will collaborate with fellow investigators, legal professionals, and customer support specialists to address money laundering, terrorist financing, fraud, and sanctions-related risks. You will use blockchain analytics tools and investigative techniques to identify suspicious transaction patterns and understand complex financial activities. This role combines independent decision-making, analytical thinking, and regulatory expertise in a fast-paced cryptocurrency environment. You will also have opportunities to deepen your knowledge of blockchain technology and contribute to strengthening global financial crime prevention practices.\n\nAccountabilities\n\n• Conduct thorough investigations into unusual and potentially suspicious activities referred to the Compliance team, ensuring timely and effective case resolution within applicable regulatory deadlines. \n• Assess financial crime risks, including money laundering, terrorist financing, fraud, and sanctions violations, within digital asset transactions and customer activities. \n• Determine whether investigated cases warrant the submission of Suspicious Activity Reports (SARs) or Suspicious Transaction Reports (STRs), or whether referrals should be closed as non-suspicious with clear, evidence-based justification. \n• Prepare and submit regulatory reports in accordance with applicable legal requirements and jurisdiction-specific reporting timelines. \n• Recommend appropriate risk mitigation measures, including account closures, restrictions, or freezing of funds where necessary and legally applicable. \n• Use blockchain analytics platforms and investigative methodologies to trace transactions, identify suspicious patterns, and assess exposure to illicit financial activities. \n• Provide investigative support to Customer Support, Legal, and other internal teams when handling complex customer cases or requests. \n• Communicate effectively with customers, relevant representatives, and internal legal professionals as required during investigations. \n• Collaborate closely with the Head of the Investigation Team, Chief Compliance Officer, fellow AML Investigators, and other Compliance stakeholders to ensure consistent and effective risk management. \n• Maintain accurate investigation records, document findings, and provide clear reasoning behind decisions and recommendations. \n• Develop and maintain professional relationships with industry peers to exchange knowledge, investigative techniques, and best practices. \n• Continuously strengthen expertise in blockchain technology, virtual currencies, emerging financial crime trends, criminal methodologies, and regulatory developments. \n• Contribute to maintaining robust AML/CTF and sanctions compliance standards across the organization. \n\nRequirements\n\n• Previous experience in an investigative function, preferably within financial services, cryptocurrency, banking, fintech, or regulatory compliance. \n• Demonstrated experience in Anti-Money Laundering (AML), including Customer Due Diligence (CDD), Enhanced Due Diligence (EDD), AML/CTF investigations, sanctions screening, and SAR/STR reporting. \n• Practical experience using blockchain analytics and investigation tools such as Chainalysis, TRM Labs, Elliptic, or equivalent platforms. \n• Basic understanding of blockchain technology, cryptocurrencies, virtual assets, and digital asset transactions, with the willingness to develop deeper technical expertise. \n• Strong knowledge of financial crime risks, including money laundering, terrorist financing, fraud, and sanctions-related activities. \n• University degree or equivalent academic background is preferred. \n• Professional AML certifications, such as Certified Anti-Money Laundering Specialist (CAMS) or Certified Bitcoin Professional (CBP), are considered an advantage. \n• Excellent written and verbal communication skills, with the ability to prepare clear investigative reports and communicate findings effectively. \n• Strong critical thinking, analytical reasoning, and decision-making abilities, particularly when assessing complex or ambiguous cases. \n• Exceptional attention to detail and the ability to identify inconsistencies, suspicious patterns, and potential compliance risks. \n• Strong organizational skills and the ability to manage multiple investigations while meeting regulatory deadlines. \n• Ability to work independently with minimal supervision, exercise sound judgment, and seek guidance when necessary. \n• Flexibility regarding working arrangements and hours, with availability aligned with European time zones. \n• High levels of integrity, accountability, discretion, and professionalism when handling sensitive information. \n• A proactive approach to continuous learning and professional development in the evolving cryptocurrency and financial crime prevention landscape. \n\nBenefits\n\n• Flexible working arrangements within a remote-friendly international working environment. \n• Competitive compensation aligned with experience and expertise. \n• European time-zone working hours. \n• Mentorship and knowledge-sharing opportunities with experienced compliance and investigation professionals. \n• Career development opportunities within the cryptocurrency, blockchain, and financial compliance industries. \n• Continuous learning and professional development to strengthen technical and investigative expertise. \n• Collaborative and supportive international team environment. \n• Opportunities to exchange investigative knowledge and best practices with industry peers. \n• Team-building activities and opportunities to connect with colleagues. \n• Online and in-person social activities. \n• Opportunity to contribute to financial innovation while helping protect the integrity of the global digital asset ecosystem. \n\nHow Jobgether Works\n\nWe use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.\n\nWe appreciate your interest and wish you the best!\n\n Why Apply Through Jobgether?\n\nData Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
+   "extra": {
+    "employment_type": "Full-time",
+    "seniority": "Not Applicable"
+   },
+   "fingerprint": "jobgether|aml investigator|romania",
+   "first_seen": "2026-10-30T14:09:44+00:00",
+   "id": "56406ce00465",
+   "is_core": true,
+   "last_changed": "2026-10-30T14:09:44+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
+   "listings": {
+    "linkedin:4484842088": {
+     "first_seen": "2026-10-30T14:09:44+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
+     "misses": 0,
+     "native_id": "4484842088",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/aml-investigator-at-jobgether-4484842088"
+    }
+   },
+   "location": "Romania",
+   "posted": "2026-10-30",
+   "primary": "linkedin:4484842088",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "AML Investigator"
+  },
   "589c369af377": {
    "category": "Compliance",
    "city": "Remote - EMEA",
@@ -2428,11 +2502,11 @@
    "id": "589c369af377",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:greenhouse:okx:8016752003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8016752003",
      "source": "ats",
@@ -2464,11 +2538,11 @@
    "id": "5a5ac8c8a6a0",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:lseg:R0120643-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "lseg:R0120643-1",
      "source": "workday",
@@ -2499,11 +2573,11 @@
    "id": "5a6e6c6586bd",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484938036": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484938036",
      "source": "linkedin",
@@ -2531,11 +2605,11 @@
    "id": "5c1f34999bcd",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:workable:19ba0dc1-d6de-47cc-89b6-146326e8d5fa": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "workable:19ba0dc1-d6de-47cc-89b6-146326e8d5fa",
      "source": "ats",
@@ -2567,11 +2641,11 @@
    "id": "5c3bc39f161b",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:iqvia:R1571534": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "iqvia:R1571534",
      "source": "workday",
@@ -2602,7 +2676,7 @@
    "id": "5f8200300d31",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4477283696": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -2616,7 +2690,7 @@
     },
     "workday:accenture:R00350422": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "accenture:R00350422",
      "source": "workday",
@@ -2644,11 +2718,11 @@
    "id": "60feefe478f0",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:workable:3299d4ef-e6dd-4151-8efd-d86a1f9ed6e3": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "workable:3299d4ef-e6dd-4151-8efd-d86a1f9ed6e3",
      "source": "ats",
@@ -2711,11 +2785,11 @@
    "id": "626f81ae4577",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272449": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272449",
      "source": "hipo",
@@ -2759,11 +2833,11 @@
    "id": "631e493e3efd",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:parexel:R0000041583": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "parexel:R0000041583",
      "source": "workday",
@@ -2794,11 +2868,11 @@
    "id": "63f50943ce66",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272723": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272723",
      "source": "hipo",
@@ -2838,11 +2912,11 @@
    "id": "659d0e8cd590",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:270032": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "270032",
      "source": "hipo",
@@ -2873,11 +2947,11 @@
    "id": "668d92f08d16",
    "is_core": false,
    "last_changed": "2026-10-29T15:58:29+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4475566730": {
      "first_seen": "2026-10-29T15:58:29+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4475566730",
      "source": "linkedin",
@@ -2905,11 +2979,11 @@
    "id": "67f907d35e15",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4483235545": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483235545",
      "source": "linkedin",
@@ -2918,7 +2992,7 @@
     },
     "workday:accenture:R00366771-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "accenture:R00366771-1",
      "source": "workday",
@@ -2983,11 +3057,11 @@
    "id": "6b476bb4c057",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484703398": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484703398",
      "source": "linkedin",
@@ -2996,7 +3070,7 @@
     },
     "linkedin:4484709525": {
      "first_seen": "2026-10-29T15:58:29+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484709525",
      "source": "linkedin",
@@ -3005,7 +3079,7 @@
     },
     "sg:26000MSG": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "26000MSG",
      "source": "sg",
@@ -3014,7 +3088,7 @@
     },
     "sg:26000MSO": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "26000MSO",
      "source": "sg",
@@ -3029,6 +3103,41 @@
    "remote_ro": false,
    "status": "active",
    "title": "KYC Analyst Revue"
+  },
+  "6c8c6a632e52": {
+   "category": "Adjacent",
+   "city": "Romania",
+   "company": "B2Spin Limited",
+   "content_hash": "533ef189fead1d3e",
+   "description": "About B2Spin\n\nWe are B2Spin, and we are dedicated to delivering the best Free-to-Play Social Casino and gaming experiences by creating captivating, engaging, and unique products that are accessible to everyone. We have built a team of talented professionals from all over the globe, who are working to continually improve the experiences of our players. We are not looking to just be part of the industry, but to revolutionize it.\n\nThe role\n\nB2Spin is looking for a Payments & Fraud Data Analyst to join our Business Intelligence team and help keep money moving safely through our platform. You'll turn transactional and player-behaviour data into clear insight that improves payment performance, prevents fraud and abuse, and protects the experience for genuine players — working closely with Payments, Fraud, Compliance and Operations to make their decisions sharper and faster.\n\nWhat You'll Do\n\n• Own payment performance analytics end to end — diving into success rates, declines, payment methods and provider performance to surface improvements that reduce friction and cost.\n• Uncover fraud and abuse patterns across transactional and behavioural data — from promo abuse and multi-accounting to chargebacks and money cycling — and translate findings into actionable rules, thresholds and segments.\n• Design, back-test and monitor automated risk decisions, balancing fraud capture against player friction and tracking real-world impact after every change goes live.\n• Build the reporting layer that keeps the business informed — dashboards in Looker or Tableau, plus alerts for business-critical anomalies like provider volume drops or risk spikes.\n• Partner with Compliance on AML work, delivering investigation queries, data analysis and audit-ready reporting that hold up to scrutiny.\n• Accelerate Operations and Customer Service with analytics that quantify review workloads, case outcomes and player-facing friction so teams move faster and more consistently.\n• Raise the analytical bar across the business — documenting data sources, metric definitions and automation logic so insight is trusted, reusable and easy to build on.\n\nWhat We're Looking For\n\n• Hands-on data analyst background in payments, fraud, risk or AML — ideally within gaming, iGaming, fintech or another high-volume digital environment.\n• Strong SQL skills on a cloud data warehouse (BigQuery preferred) paired with practical experience in Looker, Tableau or Power BI.\n• Demonstrated experience analysing fraud and abuse patterns in transactional and behavioural data, with a clear understanding of the trade-off between fraud capture and friction for genuine players.\n• The ability to run analytical projects from ambiguity to delivery — scoping unclear questions, building solutions, documenting them and monitoring their impact over time.\n• Confident, clear communication across Operations, Compliance and senior leadership, including the ability to challenge assumptions with data in a remote-team setting.\n• An investigative instinct and sharp attention to detail — you notice when something looks off and you follow it until you understand why.\n• Python for deeper analysis, anomaly detection or modelling is a strong plus, as is familiarity with fraud-scoring tools, device or behavioural signals, social casino mechanics, or ML approaches to fraud detection.\n\nOur values\n\nAt B2Spin, passion means we genuinely love what we build — and we surround ourselves with people who feel the same way. Performance means we back that passion with accountability: we move fast, own our results, and choose progress over perfection every time.\n\nEqual opportunities\n\nWe hire based on skills, drive, and ideas — nothing else. Your background, gender, age, race, ethnicity, disability, sexual orientation, religion, neurodiversity, or educational path will never be a barrier to joining us. We also welcome candidates from non-traditional career journeys and value diverse perspectives that challenge conventional thinking. Diversity fuels our innovation, collaboration, and growth, and we're committed to creating an environment where everyone can contribute their best work and thrive.",
+   "extra": {
+    "employment_type": "Full-time",
+    "seniority": "Not Applicable"
+   },
+   "fingerprint": "b2spin limited|payments fraud data analyst|romania",
+   "first_seen": "2026-10-30T14:09:44+00:00",
+   "id": "6c8c6a632e52",
+   "is_core": false,
+   "last_changed": "2026-10-30T14:09:44+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
+   "listings": {
+    "linkedin:4485328063": {
+     "first_seen": "2026-10-30T14:09:44+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
+     "misses": 0,
+     "native_id": "4485328063",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/payments-fraud-data-analyst-at-b2spin-limited-4485328063"
+    }
+   },
+   "location": "Romania",
+   "posted": "2026-10-30",
+   "primary": "linkedin:4485328063",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Payments & Fraud Data Analyst"
   },
   "6d459d0fcec3": {
    "category": "Compliance",
@@ -3045,11 +3154,11 @@
    "id": "6d459d0fcec3",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4381438733": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4381438733",
      "source": "linkedin",
@@ -3058,7 +3167,7 @@
     },
     "workday:pwc:710636WD-3": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "pwc:710636WD-3",
      "source": "workday",
@@ -3122,11 +3231,11 @@
    "id": "6e6a5e47494b",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4474707944": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4474707944",
      "source": "linkedin",
@@ -3135,7 +3244,7 @@
     },
     "workday:zentiva:R2469667": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "zentiva:R2469667",
      "source": "workday",
@@ -3166,11 +3275,11 @@
    "id": "71c9aa0f3dcf",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4482891918": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4482891918",
      "source": "linkedin",
@@ -3201,11 +3310,11 @@
    "id": "73dc52134d1a",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484480146": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484480146",
      "source": "linkedin",
@@ -3268,11 +3377,11 @@
    "id": "755c1cf97ad3",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:273219": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "273219",
      "source": "hipo",
@@ -3292,8 +3401,8 @@
    "category": "Adjacent",
    "city": "Iași",
    "company": "Genpact",
-   "content_hash": "5814a6cd020d0646",
-   "description": "",
+   "content_hash": "d32eb552aef309bb",
+   "description": "Specialist - Controllership - SOX Compliance\nReady to turn bold ideas into real-world impact?\n At Genpact, we don’t just adapt to change, we lead it. AI and digital innovation are transforming the way businesses work, and we’re at the forefront of it. Genpact’s AI Gigafactory, our industry-first accelerator, exemplifies how we scale advanced technology solutions to help global enterprises work smarter, grow faster, and transform at scale. Whether tackling complex challenges through large-scale models or agentic AI, our breakthrough solutions tackle companies’ most complex challenges.\n\nIf you thrive in a fast-moving, innovation-driven environment, love building and deploying cutting-edge AI solutions, and want to push the boundaries of what’s possible, this is your moment. \n\nGenpact (NYSE: G) is an agentic and advanced technology solutions company. We leverage process intelligence and artificial intelligence to deliver measurable outcomes. With a strong partner ecosystem and decades of client trust, we provide innovative solutions that transform how businesses run. Powered by a team with an active learning mindset and client centricity at its core, we deliver lasting value for the world’s leading enterprises.\n Get to know us at genpact.com and on LinkedIn, YouTube, X, and Facebook.\n\nJob Description - \n• Perform control testing and support documentation for financial processes.\n• Help maintain control matrices and audit evidence repositories.\n• Assist in identifying control gaps and tracking remediation.\n• Collaborate with teams to ensure timely compliance updates.\n• Support internal reviews and reporting activities.\n• Monitor the effectiveness of SOX controls and recommend improvements.\n• Coordinate with control owners to obtain and validate supporting evidence.\n• Assist in the assessment of process changes and their impact on SOX compliance.\n• Track testing results, deficiencies, and remediation plans to completion.\n• Support management in preparing documentation for internal and external audits.\n• Ensure compliance with SOX requirements, company policies, and regulatory standards.\n• Participate in walkthroughs to understand business processes and control activities.\n• Maintain accurate records of control testing, findings, and audit trails.\n• Analyze control exceptions and assist in developing corrective action plans.\n• Prepare status reports and compliance metrics for management review.\n• Support risk assessments and annual SOX scoping activities.\n• Work cross-functionally with Finance, Accounting, IT, and operational teams to strengthen internal controls.\n• Contribute to continuous process improvement initiatives that enhance control effectiveness and efficiency.\n• Assist in training and educating process owners on SOX compliance requirements and control responsibilities.\n• Stay informed of regulatory changes, audit best practices, and emerging compliance risks.\n\nQualifications - \nBachelors - Accounting, Bachelors - Commerce, Bachelors - Economics, Bachelors - Finance, Masters - Finance\nCertifications - \nCertified Compliance Officer (CCO) - VskillsVskills, Certified Internal Auditor (CIA) - TUV SUDTUV SUD, Certified Risk Professional (CRP) - UdemyUdemy\nRequired Skills - \nAudit Risk Assessments, Fraud Risk Management, Internal Auditing, Sarbanes-Oxley Act (SOX), Stakeholder Management\nLanguage\nGerman (Required)\nLanguage Proficiency - \nAdvanced - C1\nAdditional Job Location - \n\nJob Type\nRegular\nMaster Skill List - \nControllership - SOX Compliance\nRemote Type - \nHybrid\nWork Shift - \nStandard (Romania)\nWhy join Genpact?\n• Lead AI-powered transformation – Drive innovation and solve real-world business challenges that matter\n• Make an impact – Help global enterprises solve business challenges that matter \n• Accelerate your career – Gain hands-on experience, mentorship, and world-class learning opportunities to stay ahead\n• Work with the best – Join 140,000+ bold thinkers and problem-solvers who push boundaries every day \n• Thrive in a values-driven culture – Our courage, curiosity, and incisiveness - built on a foundation of integrity and inclusion - allow your ideas to fuel progress \n\nCome join the 140,000+ coders, tech shapers, and growth makers at Genpact and take your career in the only direction that matters: Up. \nLet’s build tomorrow together. \n\nGenpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values respect and integrity, customer focus, and innovation. \nFurthermore, please do note that Genpact does not charge fees to process job applications and applicants are not required to pay to participate in our hiring process in any other way. Examples of such scams include purchasing a 'starter kit,' paying to apply, or purchasing equipment or training.",
    "extra": {
     "multi_location": false,
     "posted_approx": "2026-10-07",
@@ -3304,11 +3413,11 @@
    "id": "7596954606a9",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:genpact:JR10021497": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "genpact:JR10021497",
      "source": "workday",
@@ -3328,8 +3437,8 @@
    "category": "Data protection / DPO",
    "city": "Romania",
    "company": "Allianz Services",
-   "content_hash": "09bcb38224839969",
-   "description": "",
+   "content_hash": "a3a9dcb385c313e8",
+   "description": "130 years of trust. One team shaping what''s next. Allianz Group is one of the world''s leading insurers and asset managers - built on over a century of stability, expertise, and financial strength. Allianz Services is where that legacy meets the future. 8,500+ people. Twelve countries. Four continents. We deliver specialized services to clients within Allianz Group, powered by AI, advanced analytics, and a mindset that refuses to stand still. From core insurance operations to engineering and consulting services, we reimagine how insurance works. What truly sets us apart are our people and the trusted partnerships we build, anchored in our values of expertise, integrity, and empowerment. We don''t support the business. We shape it.\n\nJob role\n\n The Data Protection and AI Compliance Specialist will play a critical role in ensuring that our organization adheres to legal frameworks and regulations within the European Union. This role involves translating complex laws and regulations into actionable strategies, implementing safeguarding processes, and collaborating with various stakeholders to ensure compliance and data protection across the organization.\n\nWhat you will do\n\n Maintain a comprehensive understanding of EU legal frameworks, including GDPR and AI Act, and other relevant data protection regulations;\n\n Translate legal and regulatory requirements into practical implications and actionable plans for the organization;\n\n Monitor changes in legislation and update internal processes accordingly;\n\n Define, implement, conduct and supervise control activities to ensure compliance with regulatory requirements and data protection;\n\n Work closely with various safeguarding functions, including IT, Legal, and Risk Management, to ensure cohesive compliance efforts;\n\n Be part of the local Design Authority, together with all the safeguarding functions involved;\n\n Collaborate with Group Centers, use case owners, and developers to integrate compliance measures into business operations and projects;\n\n Leverage a solid understanding of IT and AI knowledge to identify and mitigate potential data protection risks associated with technology use;\n\n Collaborate with IT and stakeholders'' teams to ensure that AI technological solutions adhere to compliance standards and best practices;\n\n Support the deployment of awareness campaigns and trainings;\n\n Prepare and present reports on compliance status, risks, and mitigation strategies to senior management.\n\n Define and maintain internal AI Governance policies (Responsible AI Policy, AI Use Case Approval Process, etc.);\n\n Define and maintain the real-life (pilot/live environment) testing plan for AI systems, establishing criteria for scope, duration, success metrics, and rollback triggers prior to full deployment;\n\nWhat you bring\n\n Bachelor''s degree in law, Information Technology, Data Science, or related field.\n\n Strong understanding of EU legal frameworks, particularly GDPR and AI Act.\n\n Proven experience in defining and implementing safeguarding processes.\n\n Solid understanding of IT and AI technologies and their implications for data protection.\n\n Excellent collaboration and communication skills, with the ability to work effectively with diverse teams.\n\n Strong analytical and problem-solving abilities\n\n Minimum 5 years (corporate) business experience\n\n Interest in AI is a must; experience in Data Privacy (& associated management tools) desirable\n\n Experience in an international working environment highly desirable\n\n Fluency in English (written and spoken); other languages are a bonus\n\n Competency in MS Office\n\nWe highly welcome candidates with a genuine interest and affinity for Information Technology (IT) and Generative Artificial Intelligence (GenAI), as these attributes are considered valuable assets to our team.\n\nYou have\n\n Strong stakeholder management and influencing skills;\n\n Excellent communication skills, with the ability to convey compliance and corporate governance issues effectively;\n\n Awareness of the business impact, the need for and justification of compliance and corporate governance;\n\n Ability to communicate and explain the context of need for control, regulations, etc. and the benefits of taking action.\n\nWhat we offer\n\nWe support your well-being\n\n • Access dedicated counseling services, mental health resources, and well-being sessions designed to keep you feeling your best\n\n • Enjoy a personalized benefits package through a monthly budget on the Benefit platform, covering medical subscriptions, meal tickets, private pension plans, life insurance, Allianz Tiriac exclusive insurance discounts, and many more.\n\n • Prioritize what truly matters with time off on your birthday, additional vacation days for each year with Allianz (up to five extra days), Paid leave on December 24th and 31st, plus the flexibility to swap weekend holidays for extra days off, and special allowances for significant life events.\n\nWe invest in your growth\n\nTake advantage of an extensive learning curriculum tailored to support your career growth and meet your professional needs, with access to a wide range of technical and soft skills trainings, international certifications (including Agile, Lean Six Sigma, PRINCE2, ITIL, IFOA, ACCA, IACCM, and more), learning resources from LinkedIn and Allianz platforms, language development opportunities (German, French, English), and our dedicated Leadership Program to help you reach the next level.\n\nWe value you and your work\n\nWe acknowledge and recognize your work through performance-based rewards to celebrate your achievements, team, and individual recognition programs to celebrate your contributions and internal referral bonuses. \n\nYour personal information, including sensitive data, may be shared with Hiring Managers to evaluate your suitability for the role. Only candidates who meet the criteria will be contacted, and all applications will be treated with strict confidentiality.\n\nAllianz Group is one of the most trusted insurance and asset management companies in the world. Caring for our employees, their ambitions, dreams and challenges is what makes us a unique employer.\n\nWe are united by a shared commitment: to put our customers first and at the center of everything we do. Their needs inspire our thinking and guide our actions.\n\nTogether, we can build an environment where everyone feels empowered and confident to explore, grow and shape a better future – for our customers and for the world around us. At Allianz, we stand for unity: we believe that a united world is a more prosperous world, and we are dedicated to consistently advocating for equal opportunities for all. The foundation for this is our inclusive workplace, where people and performance both matter, and where integrity, fairness, inclusion and trust are at the heart of our culture.\n\nWe therefore welcome applications regardless of ethnicity or cultural Internal background, age, gender, nationality, religion, social class, disability or sexual orientation, or any other characteristics protected under applicable local laws and regulations.\n\nJoin us. Let''s care for tomorrow.",
    "extra": {
     "refreshed": "2026-10-29"
    },
@@ -3338,11 +3447,11 @@
    "id": "7659c2c69b91",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272394": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272394",
      "source": "hipo",
@@ -3370,12 +3479,12 @@
    "id": "77bbe365990d",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-29T15:23:53+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4477618433": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-10-30T07:07:43+00:00",
-     "last_seen": "2026-10-29T15:23:53+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4477618433",
      "source": "linkedin",
@@ -3384,7 +3493,7 @@
     }
    },
    "location": "Bucharest, Bucharest, Romania",
-   "posted": "2026-10-09",
+   "posted": "2026-10-30",
    "primary": "linkedin:4477618433",
    "remote": false,
    "remote_ro": false,
@@ -3395,8 +3504,8 @@
    "category": "AML / KYC / FinCrime",
    "city": "Romania",
    "company": "Revolut",
-   "content_hash": "6a942e9810cc5d9a",
-   "description": "",
+   "content_hash": "2f8b5710fed5fd62",
+   "description": "About Revolut\n\nPeople deserve more from their money. More visibility, more control, and more freedom. Since 2015, Revolut has been on a mission to deliver just that. Our powerhouse of products — including spending, saving, investing, exchanging, travelling, and more — help our 80+ million customers get more from their money every day.\n\nAs we continue our lightning-fast growth,‌ 2 things are essential to our success: our people and our culture. In recognition of our outstanding employee experience, we've been certified as a Great Place to Work™. So far, we have 13,000+ people working around the world, from our offices and remotely, to help us achieve our mission. And we're looking for more brilliant people. People who love building great products, redefining success, and turning the complexity of a chaotic world into the simplicity of a beautiful solution.\n\nAbout The Role\n\nFinancial Crime is at the forefront of Revolut’s efforts to keep customers and their money safe. Team members work directly with customers to resolve issues and flag potential concerns. Using cutting-edge technology and sharp attention to detail, they help prevent financial crime and keep trust at the core of Revolut.\n\nWe're looking for a Head of Financial Crime Risk to lead and manage the 1LoD FinCrime function for Revolut Bank UAB and its branches. You'll be identifying financial crime threats, putting effective processes in place to mitigate them, and ensuring operational compliance across Europe.\n\nUp to shape what's next in finance? Let's get in touch.\n\nWhat You'll Be Doing\n\n• Leading the FinCrime and Fraud 1LoD teams for Revolut Bank UAB\n• Managing CDD/KYC, customer screening, and transaction monitoring\n• Overseeing sanctions, fraud, and regulatory reporting processes for retail and business customers\n• Conducting intelligence-led financial crime investigations and exposure assessments\n• Supporting product teams in designing practical financial crime controls\n• Translating regulatory requirements into actionable product solutions\n• Identifying potential gaps in existing financial crime processes, systems, and controls, and driving enhancements\n• Staying up-to-date on regulations, industry guidance, and innovation in financial crime risk\n• Ensuring clarity, transparency, and insight in both BAU and growth/expansion related discussions with regulators, law enforcement, and banking partners\n• Partnering with Product, Compliance, and Audit teams, as well as local legal entities\n• Collaborating and engaging with regulators to address and clarify financial crime topics\n\nWhat You'll Need\n\n• 9+ years of experience working in major financial institutions\n• Expertise leading and managing teams\n• A background in managing third-party outsourcing relationships\n• In-depth knowledge of financial crime and fraud legal and regulatory requirements for EU and associated territories\n• A track record of conducting risk assessments and designing/testing mitigating controls\n• A solid understanding of traditional and emerging financial products and their associated risks\n• Knowledge of industry-wide financial crime practices and trends\n• Exceptional analytical, critical thinking, and decision-making skills\n\nNice to have\n\n• Experience as an FCA Certified Person or Material Risk Taker\n\nBuilding a global financial super app isn’t enough. Our Revoluters are a priority, and that’s why in 2021 we launched our inaugural D&I Framework, designed to help us thrive and grow everyday. We're not just doing this because it's the right thing to do. We’re doing it because we know that seeking out diverse talent and creating an inclusive workplace is the way to create exceptional, innovative products and services for our customers. That’s why we encourage applications from people with diverse backgrounds and experiences to join this multicultural, hard-working team.\n\nImportant notice for candidates:\n\nJob scams are on the rise. Please keep these guidelines in mind when applying for any open roles.\n\n• Only apply through official Revolut channels. We don’t use any third-party services or platforms for our recruitment.\n• Always double-check the emails you receive. Make sure all communications are being done through official Revolut emails, with an @revolut.com domain.\n\nWe won't ask for payment or personal financial information during the hiring process. If anyone does ask you for this, it’s a scam. Report it immediately.\n\nBy submitting this application, I confirm that all the information given by me in this application for employment and any additional documents attached hereto are true to the best of my knowledge and that I have not wilfully suppressed any material fact. I confirm I have disclosed if applicable any previous employment with Revolut. I accept that if any of the information given by me in this application is in any way false or incorrect, my application may be rejected, any offer of employment may be withdrawn or my employment with Revolut may be terminated summarily or I may be dismissed. By submitting this application, I agree that my personal data will be processed in accordance with Revolut's Candidate Privacy Notice",
    "extra": {},
    "fingerprint": "revolut|head of financial crime fraud risk|romania",
    "first_seen": "2026-10-29T15:23:53+00:00",
@@ -3428,19 +3537,19 @@
    "category": "Adjacent",
    "city": "Bucharest",
    "company": "EY",
-   "content_hash": "a276925127abaae6",
-   "description": "",
+   "content_hash": "31d068dc5c578625",
+   "description": "At EY, we’re all in to shape your future with confidence.\n\nWe’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.\n\nJoin EY and help to build a better working world.\n\nThe opportunity\n\nAt EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.\n\nOur Technology Consulting team team is dedicated to providing innovative solutions that mitigate risks associated with digital transformation, cybersecurity, and regulatory compliance. Our practice is growing rapidly, and we are looking for Consultants to help drive success for our clients by helping them navigate the complexities of the digital landscape.\n\nAre you ready to help build a better working world by supporting organisations to safeguard their digital assets and navigate an evolving digital, cyber and AI risk landscape?\n\nYour Key Responsibilities\n\n• Engage with clients to assess and improve their IT GRC frameworks, policies, and procedures;\n• Support more experienced team members to conduct risk assessments, compliance audits, and gap analyses for clients across various industries;\n• Develop and deliver training and workshops on IT GRC topics for clients;\n• Prepare high-quality deliverables (e.g., reports, presentations, working papers) witihin established timelines;\n• Stay abreast of industry trends, regulatory changes, and advancements in technology that may impact clients' GRC strategies;\n• Prepare to obtain advanced professional certifications related to cybersecurity or privacy matters\n\nSkills And Attributes For Success\n\n• Bachelor's degree in Information Technology, Cybersecurity, Risk Management, or a related field;\n• Excellent communication, presentation, and interpersonal skills, with the ability to engage effectively with clients at all levels;\n• Proficiency in English\n• Passion for technology\n• Up to 3 years of relevant work experience in one or several of the following domains:\n• Operational Resilience\n• IT Risk Management\n• IT Governance\n• Third-Party Risk Management\n• Data protection and privacy \n\nIdeally you`ll also\n\n• Have previous experience in IT audit, general consulting (e,g. Big 4, strategy houses), niche cybersecurity consulting or similar department within large organizations\n• Have exposure to compliance regulations/standards related to cybersecurity, such as NIS2, DORA, NIST CSF, ISO27001\n• Have working knowledge of German or French\n\nWhat We Look For\n\nMore than anything, we’re interested in people with the right attitude for the job! That’s naturally entrepreneurial people that feed on the energy of a thriving global team. You’ll need a balance of technical and analytical skills, a creative approach to work and strong communication skills. Put simply, if you’ve got big ideas on how we can do better, as well as the confidence to voice them, this role is for you.\n\nWhat We Offer You\n\n• We will fuel your ambition and potential with future-focused skills development that equips you with state-of-the-art methodologies and technology-enabled solutions\n• At EY, you`ll learn A LOT through experience, on a variety of projects for a diverse range of BIG clients\n• Get extra vacation days when public holidays fall on a weekend.\n• Join an EY Community and practice your hobby with your colleagues off-work\n• Get plenty of discounts, perks and medical coverage\n• Free access to Udemy, EY Badges\n• Bookster library\n• Medical subscription for employees and family members (wife/husband/children)\n• Life & accident insurance\n• EAP- Employee Assistance Program - Short term confidential counselling services for you and those who live with you\n\nAt EY, we`ll develop you with future-focused skills and equip you with world-class experiences. We`ll empower you in a flexible environment, and fuel you and your extraordinary talents in a diverse and inclusive culture of globally connected teams. Learn more.\n\nAre you ready to shape your future with confidence? Apply today.\n\nTo help create the best experience during the recruitment process, please describe any disability-related adjustments or accommodations you may need.\n\nEY | Building a better working world \n\nEY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.\n\nEnabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.\n\nEY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.",
    "extra": {},
    "fingerprint": "ey|junior consultant cybersecurity governance risk compliance|bucharest",
    "first_seen": "2026-10-29T15:23:53+00:00",
    "id": "7b8acbb70871",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272715": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272715",
      "source": "hipo",
@@ -3470,8 +3579,8 @@
    "category": "Compliance",
    "city": "Constanța",
    "company": "OMV",
-   "content_hash": "d32d68b1274809fb",
-   "description": "",
+   "content_hash": "5353ba9a1ede07b4",
+   "description": "Descrierea companiei\n OMV Petrom este cea mai mare companie de energie din Sud-Estul Europei, fiind prezenta pe tntregul lantul valoric din energie: de la sonde care produc gaze si titei, la rafinarea si distributia carburantilor, furnizarea de gaze, producerea si furnizarea de electricitate. Furnizam energia pentru viata moderna de zi cu zi: carburanti pentru mobilitate, energie pentru iluminat si pentru tncalzire. Credem ca putem evolua avand un mix divers de angajati, si asigurand unui echilibru sanatos tntre viata profesionala si personala.\n Activitatile noastre | OMVPetrom.com\n La OMV Petrom, avem o lunga traditie de comportament responsabil fata de angajati, mediu si societate. Sustenabilitatea tnseamna sa ne concentram pe conducerea afacerii tn mod responsabil, eficient si inovator. Ne angajam sa cream valoare pe termen lung pentru companie si pentru partile interesate, respectand mediul, sprijinind comunitatile tn care ne desfasuram activitatea.\n Strategia de sustenabilitate | OMVPetrom.com\n Responsabilitati\n • Este responsabil cu asigurarea si verificarea conformitatii instalatiilor/echipamentelor in acord cu Legea\n • 64/2008, reglementarile romanesti, cu standardele europene si cu filozofiile/ standardele/ specificatiile Grupului OMV;\n • Identifica impreuna cu detinatorul toate instalatiile/echipamentele din domeniul ISCIR;\n • Face demersurile necesare in vederea autorizarii functionarii instalatiilor/echipamentelor pentru care \n • autorizarea functionarii se face de ISCIR, potrivit Prescriptiilor Tehnice aplicabile;\n • Efectueaza admiterea functionarii instalatiilor/echipamentelor si verificarile tehnice in utilizare la\n • instalatiile/echipamentele la care, conform prevederilor Prescriptiilor Tehnice aplicabile, aceste activitati se realizeaza de RSVTI;\n • Permite numai functionarea instalatiilor/echipamentelor autorizate si inregistrate la ISCIR;\n • Asigura inspectia si integritatea, disponibilitatea, conservarea instalatiilor/echipamentelor din domeniul\n • ISCIR si participa activ, impreuna cu inspectorii CNCIR la efectuarea verificarilor tehnice in utilizare;\n • Verifica rezultatele inspectiei ISCIR/CNCIR , respecta dispozitiile date in procesele verbale/rapoartele de\n • inspectie, urmareste eliminarea neconformitatiilor constatate in urma verificarilor tehnice in utilizare si \n • mentine o baza de date a instalatiilor/echipamentelor din domeniul ISCIR;\n • Verifica durata de viata rezultata in urma expertizelor efectuate la instalatiile/echipamentele din domeniul\n • ISCIR, actualizeaza baza de date si anunta rezultatul expertizei detinatorului echipamentului;\n Cerinte\n • Absolvent studii universitare Inginerie petroliera, domeniu conex sau experienta relevanta tn industrie.\n • Experienta minima de 5 ani\n • Lucreaza tn profunzime la probleme complexe tntr-un domeniu specific. Lucreaza tn cadrul unor politici, principii si obiective specifice clar definite.\n • Permis de conducere categoria B\n • candidatul sa aiba autorizarea RSVTI si experienta in domeniu dovedita.\n\n Locatie\n Constanta\nBeneficii\n • Planurile pentru weekend-urile prelungite sunt mereu binevenite - vineri, programul nostru de lucru se tncheie la ora 14:00.\n • Te poti baza pe o asigurare de sanatate care acopera tratamentul medical tntr-o varietate de clinici medicale private.\n • Poti lucra de acasa, daca activitatea de lucru permite.\n • Numarul zilelor de vacanta creste in functie de vechimea tn munca, astfel tncat sa te poti bucura de mai mult timp liber.\n • Ne propunem sa iti facem zilele de vacanta mai fericite, platind dublu fiecare zi de concediu.\n • Esti un jucator de top? Munca ta poate fi recompensata la fiecare trei luni tn functie de rezultatele performantei.\n • Zile libere suplimentare si sprijin financiar variat pentru diferite evenimente precum casatoria, nasterea copilului, etc.\n • Acces la LinkedIn Learning si la o varietate de programe de dezvoltare\n • Preferi masinile sau bicicletele? Avem parcare privata gratuita acoperita",
    "extra": {
     "refreshed": "2026-10-29"
    },
@@ -3480,11 +3589,11 @@
    "id": "7bbdbdbb445c",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:270313": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "270313",
      "source": "hipo",
@@ -3504,8 +3613,8 @@
    "category": "Adjacent",
    "city": "Bucharest",
    "company": "Chain IQ Group AG",
-   "content_hash": "6f99a923d021d421",
-   "description": "",
+   "content_hash": "a1fb99d52abb6eaf",
+   "description": "At Chain IQ, your ideas move fast.\n\nChain IQ is a global AI-driven Procurement Service Partner, headquartered in Baar, Switzerland, with operations across main centers and 16 offices worldwide. We provide tailored, end-to-end procurement solutions that enable transformation, drive scalability, and deliver substantial reductions in our clients' indirect spend. Our culture is built on innovation, entrepreneurship, ownership, and impact. Here, your voice matters - bold thinking is encouraged, and action follows ambition.\n\nJoin our Team\n\nIt is an exciting time at Chain IQ and our team in Bucharest team is looking for a Consultant to join our Contract Compliance & Value Recovery function offered on a fixed-term contract for a period of 22 months.\n\nChain IQ generates value far beyond cost reduction. We transform our clients indirect procurement towards a world-class, resilient, ethical and digitalized end-to-end function. We promote a culture of collaboration and shared excellence while encouraging an open and honest exchange of ideas. We offer the potential for significant corporate growth and career development.\n\nOur ambition is to strengthen the existing highly experienced team to provide the best in industry support to our growing client base.\n\nMain Responsibilities Will Include\n\n• Support the Contract Compliance & Value Recovery Team Lead by collaborating with onshore functions to maximize the use of Bucharest-based systems and capabilities. \n• Reconcile processed work by verifying entries, comparing system reports to balances, and maintaining accurate databases through data entry, verification, and backups.\n• Manage and deliver individual recovery projects or components from initiation to report issuance and recovery collection, ensuring all relevant stakeholders are engaged.\n• Perform detailed analysis and manage data to support value recovery identification.\n• Liaise with stakeholders to ensure all recoveries are billed to the client per contractual agreements and receivables are collected.\n• Collaborate with the technology team to ensure technology requirements and functionality (e.g., automation solutions) are included in technology roadmaps.\n• Monitor and ensure functional KPIs, SLAs, OLAs, and other performance objectives are met.\n• Handle additional tasks as assigned by the direct manager or head of department. \n\nRequirements\n\n• Previous experience in a similar role with a proven track record of success.\n• Proficiency in analyzing and manipulating large datasets using Microsoft Excel.\n• Strong problem-solving abilities and the flexibility to work effectively under pressure.\n• A delivery-focused mindset with excellent project management skills.\n• Strong analytical and auditing expertise, typically developed through experience in a finance-related function.\n• Ability to manage and coordinate diverse analytical activities on a project basis to achieve optimal outcomes.\n• A drive for performance excellence and continuous improvement.\n• Outstanding written and verbal communication skills in English. \n\nJoin a truly global team.\n\nWe offer a dynamic and international environment where high performance meets real purpose. We're proud to be Great Place to Work-certified and even prouder of the people who make that possible. Let’s shape the future of procurement - together.\n\nChain IQ – Create. Lead. Make an impact.\n\nInformation for agencies: Applications sent or uploaded by placement agencies or similar are not desired, will therefore not be considered and will be deleted.",
    "extra": {},
    "fingerprint": "chain iq ag|contract compliance value recovery|bucharest",
    "first_seen": "2026-10-29T15:23:53+00:00",
@@ -3548,11 +3657,11 @@
    "id": "7c58b718554f",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484089526": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484089526",
      "source": "linkedin",
@@ -3561,7 +3670,7 @@
     },
     "workday:medtronic:R75142-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "medtronic:R75142-1",
      "source": "workday",
@@ -3589,11 +3698,11 @@
    "id": "7efb45774efb",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4483553692": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483553692",
      "source": "linkedin",
@@ -3624,7 +3733,7 @@
    "id": "7f10bcb5217b",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4477079785": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -3648,7 +3757,7 @@
     },
     "workday:ayvens:10042059": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "ayvens:10042059",
      "source": "workday",
@@ -3664,6 +3773,41 @@
    "status": "active",
    "title": "KYC Analyst"
   },
+  "7f496b40e8f0": {
+   "category": "Adjacent",
+   "city": "Romania",
+   "company": "Kelly Science, Engineering, Technology & Telecom",
+   "content_hash": "657f39e1716c8235",
+   "description": "Regulatory Affairs Documentation Specialist\n\nKelly Science, Engineering, Technology & Telecom | Romania\nContract: 12-month fixed-term contract, with the possibility of extension\nEmployment model: Full-time, via Kelly's outsourced service provider (FSP) model\nStart date: December ideally\n\nAbout the Opportunity:\n\nKelly is seeking a detail-oriented Regulatory Affairs Documentation Specialist to support a global medical technology organisation operating at the forefront of healthcare innovation. This is an excellent opportunity to contribute to regulatory operations within an international MedTech environment, supporting the documentation, publishing, tracking and maintenance activities required to bring medical technologies to market and maintain their regulatory compliance across multiple regions.\n\nWorking closely with Regulatory Affairs teams and cross-functional stakeholders, you will help ensure that regulatory submissions, product labelling and associated documentation are accurate, consistent, appropriately formatted and managed in accordance with applicable regulatory requirements and internal quality standards.\n\nThe position combines regulatory documentation, electronic document management, submission coordination and process improvement. It would suit someone who enjoys working in a structured, quality-driven environment and is comfortable managing multiple documentation activities, deadlines and stakeholders across an international organisation.\n\nAbout the Organisation:\n\nOur client is a globally recognised medical technology business operating across several major healthcare markets. The organisation develops and delivers technologies, medical devices and solutions designed to improve patient outcomes, support healthcare professionals and address complex clinical needs.\n\nWith an established international presence and a broad portfolio of healthcare technologies, the business operates within a highly regulated industry where product safety, quality, regulatory compliance and reliable documentation are essential. Its products and services support healthcare professionals and healthcare systems in delivering effective treatment and care to patients worldwide.\n\nThe organisation works across global and regional teams, bringing together regulatory, quality, engineering, clinical and commercial expertise to support product development, market access and ongoing product lifecycle management.\n\nThe Role:\n\nAs a Regulatory Affairs Documentation Specialist, you will provide operational and administrative support to global and regional Regulatory Affairs activities. Your primary responsibility will be to ensure that regulatory documentation and labelling-related materials are prepared, finalised, published, tracked and maintained to the required standards.\n\nYou will collaborate with Regulatory Affairs colleagues to prioritise incoming activities, coordinate routine submissions, maintain accurate documentation records and support consistency across regional processes. You will also contribute to the maintenance of regulatory strategies, approval trackers and reporting tools, helping teams monitor submission progress, market approvals and relevant regulatory milestones.\n\nThis role requires strong attention to detail, organisational skills and the ability to manage documentation in a controlled, regulated environment.\n\nKey Responsibilities:\n\nRegulatory Documentation and Submission Support\n• Prepare, coordinate, dispatch and file routine Regulatory Affairs documentation in accordance with established processes and applicable requirements.\n• Collaborate with Regulatory Affairs colleagues to prioritise, triage and coordinate routine regulatory submissions and labelling activities.\n• Finalise regulatory submissions and labelling documentation through editing, formatting and quality checks, ensuring compliance with current regulatory guidelines, internal procedures and document standards.\n• Compile, organise and maintain the documentation required to support regulatory submissions and product-related activities.\n• Coordinate the legalisation and apostille of regulatory documents required for Health Authority submissions, where applicable.\n• Support other global Regulatory Affairs administrative activities as required.\n\nDocument Publishing and Electronic Document Management\n• Publish, archive and upload regulatory documentation to electronic document management systems and other designated tools.\n• Collect, import, edit and create documents within electronic documentation storage and retrieval systems.\n• Establish, organise and maintain electronic filing structures for regional regulatory submissions and labelling documentation.\n• Support document migration, maintenance and retrieval to ensure regulatory records remain organised, accessible and current.\n• Prepare, maintain and update document templates, ensuring consistency with company formatting and design standards.\n• Perform operational document management activities, including scanning, printing, filing and maintaining submission components.\n• Route documentation through relevant Quality Management Systems, such as QUMAS or Agile, where required.\n• Assist with training materials and user training relating to electronic documentation systems and regulatory document preparation.\n\nRegulatory Strategy and Product Approval Tracking\n• Create, manage and maintain regulatory strategies within the designated regulatory management system (MDRIM) for new products, post-market changes and related regulatory activities.\n• Follow up with regional teams to ensure required information and responses are provided in a timely manner.\n• Maintain trackers covering regulatory strategies, applicable dates, submission milestones and market approval status.\n• Monitor approval status across impacted markets and ensure tracking information is accurate and up to date.\n• Process and track product release forms associated with product approvals, including post-approval labelling activities.\n• Compile, maintain and report submission-related metrics to support operational visibility and performance monitoring.\n\nProcess Consistency and Continuous Improvement\n• Support consistent documentation practices, templates and standards across the assigned region.\n• Collaborate with colleagues in other regions to promote alignment and consistency in regulatory documentation processes.\n• Identify opportunities to improve document management, tracking, reporting and administrative workflows.\n• Help ensure that regulatory records are maintained in line with established procedures, documentation standards and quality requirements.\n\nCandidate Requirements:\n\nWe are looking for a highly organised and detail-focused professional who can manage regulatory documentation accurately while working collaboratively with international teams.\n\nEssential or highly relevant experience:\n• Previous experience in Regulatory Affairs, regulatory documentation, document control, quality systems or a similar regulated administrative function.\n• Experience preparing, editing, formatting, reviewing or maintaining controlled documentation.\n• Familiarity with electronic document management systems, regulatory information systems or Quality Management Systems.\n• Strong organisational skills, with the ability to manage multiple activities, maintain trackers and meet deadlines.\n• Excellent attention to detail and a commitment to documentation accuracy, consistency and compliance.\n• Strong written communication skills and the ability to collaborate with stakeholders across functions and regions.\n• Good working knowledge of Microsoft Office applications, particularly Word and Excel.\n• A proactive, structured approach to problem-solving, follow-up and process improvement.\n\nDesirable experience:\n• Previous experience within the medical device or wider MedTech industry.\n• Exposure to regulatory submissions, product labelling, market approvals or post-market regulatory changes.\n• Familiarity with medical device regulatory frameworks, including the EU Medical Device Regulation (MDR).\n• Experience with systems such as QUMAS, Agile or MDRIM, or comparable regulatory and quality management platforms.\n• Experience supporting global or regional Regulatory Affairs teams in an international organisation.\n• Knowledge of document publishing, submission tracking, regulatory metrics or document lifecycle management.\n• Experience coordinating document legalisation or apostille processes.\n\nKey Skills and Competencies\n• Regulatory documentation and submission coordination\n• Document control and electronic document management\n• Quality systems and controlled documentation\n• Regulatory strategy and approval tracking\n• Product labelling and post-approval documentation\n• Data accuracy, reporting and submission metrics\n• Stakeholder coordination across regional and global teams\n• Process consistency and continuous improvement\n• Organisation, prioritisation and deadline management\n• Attention to detail and compliance-focused working practices\n\nWhat the Opportunity Offers\n• The opportunity to work within a globally established medical technology organisation.\n• Exposure to international Regulatory Affairs operations and product lifecycle activities.\n• Experience supporting regulatory documentation and approvals across multiple markets.\n• Collaboration with experienced regulatory and quality professionals.\n• An initial 12-month fixed-term contract, with the possibility of extension depending on project requirements and business needs.\n• Employment through Kelly's outsourced service provider (FSP) model, supporting a major healthcare organisation.\n\nInterested?\n\nIf you have experience in regulatory documentation, document control, quality systems or Regulatory Affairs support and are looking to develop your career within the MedTech sector, we would welcome the opportunity to speak with you.\n\nApply today to discuss the role, the project and how your experience could contribute to the delivery of high-quality regulatory operations.",
+   "extra": {
+    "employment_type": "Contract",
+    "seniority": "Mid-Senior level"
+   },
+   "fingerprint": "kelly science engineering technology telecom|regulatory affairs specialist|romania",
+   "first_seen": "2026-10-30T14:09:44+00:00",
+   "id": "7f496b40e8f0",
+   "is_core": false,
+   "last_changed": "2026-10-30T14:09:44+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
+   "listings": {
+    "linkedin:4484830846": {
+     "first_seen": "2026-10-30T14:09:44+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
+     "misses": 0,
+     "native_id": "4484830846",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/regulatory-affairs-specialist-at-kelly-science-engineering-technology-telecom-4484830846"
+    }
+   },
+   "location": "Romania",
+   "posted": "2026-10-30",
+   "primary": "linkedin:4484830846",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Regulatory Affairs Specialist"
+  },
   "810b3a58c993": {
    "category": "Compliance",
    "city": "Bucharest",
@@ -3676,11 +3820,11 @@
    "id": "810b3a58c993",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:workable:1d6caa00-9865-420f-a435-c2920e203166": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "workable:1d6caa00-9865-420f-a435-c2920e203166",
      "source": "ats",
@@ -3708,11 +3852,11 @@
    "id": "8146acb1ad14",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:greenhouse:okx:7984392003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7984392003",
      "source": "ats",
@@ -3747,6 +3891,7 @@
    "listings": {
     "linkedin:4453415895": {
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-30T07:07:43+00:00",
      "misses": 0,
      "native_id": "4453415895",
@@ -3775,11 +3920,11 @@
    "id": "81a6cbdbd763",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:workable:ae54ff75-321f-435b-bf1b-532d49d8ccfc": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "workable:ae54ff75-321f-435b-bf1b-532d49d8ccfc",
      "source": "ats",
@@ -3810,11 +3955,11 @@
    "id": "81bfc5d33ce2",
    "is_core": true,
    "last_changed": "2026-10-30T01:01:03+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484539788": {
      "first_seen": "2026-10-30T01:01:03+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484539788",
      "source": "linkedin",
@@ -3834,8 +3979,8 @@
    "category": "Adjacent",
    "city": "Bucharest",
    "company": "IQVIA",
-   "content_hash": "1a1caf6b503b4001",
-   "description": "",
+   "content_hash": "fde33339cf920f2c",
+   "description": "At IQVIA, our Global Regulatory Affairs team partners with pharmaceutical and biotechnology companies worldwide to navigate complex regulatory environments and accelerate access to innovative therapies.\n\nWe are seeking an experienced Regulatory Affairs professional with deep expertise in European regulatory affairs and biologic products. This role is ideal for a senior regulatory specialist who enjoys managing complex market applications, lifecycle management activities and post-marketing submissions while acting as a trusted advisor to customers and internal stakeholders.\n\nWhat You'll Do\n• Provide regulatory expertise for European market applications and post-marketing activities across the product lifecycle.\n• Support the development and execution of regulatory strategies for biologic products.\n• Prepare, coordinate and review regulatory submissions, including market applications, lifecycle management activities, labelling updates and CMC-related variations.\n• Support regulatory activities across Centralised, Decentralised, Mutual Recognition and national procedures.\n• Identify regulatory risks and provide practical recommendations to support successful project delivery.\n• Serve as a subject matter expert for post-marketing regulatory activities, including variations, renewals, maintenance activities and labelling changes.\n• Collaborate closely with CMC, clinical, safety, quality, labelling and project management stakeholders.\n• Participate in customer interactions, project meetings and governance discussions, providing clear regulatory guidance and recommendations.\n• Support continuous improvement initiatives and contribute to high-quality regulatory delivery across global programmes.\n• Ensure regulatory deliverables meet required quality, compliance and timeline expectations.\n\nWhat We're Looking For\n• Bachelor's degree in Life Sciences, Pharmacy, Biotechnology, Chemistry or another relevant scientific discipline.\n• At least 8 years of Regulatory Affairs experience.\n• Strong expertise in European regulatory requirements, procedures and submission pathways.\n• Proven experience supporting or managing market applications and post-marketing regulatory activities across the product lifecycle.\n• Strong knowledge of lifecycle management, variations, renewals and maintenance activities.\n• Experience managing labelling updates and CMC-related regulatory activities.\n• Experience working with biologic products is essential.\n• Ability to work independently as a regulatory subject matter expert within a matrixed and client-focused environment.\n• Excellent communication and stakeholder management skills.\n\nAdditional Experience That Will Help You Stand Out\n• Experience supporting complex European regulatory procedures.\n• Broad exposure to CMC regulatory activities.\n• Experience working within a CRO, consultancy or outsourced services environment.\n• Experience partnering with global cross-functional teams.\n• Customer-facing regulatory experience.\n• Experience supporting multiple products, markets or regulatory programmes simultaneously.\n\nWhy IQVIA?\nJoining IQVIA means becoming part of a global team of regulatory experts supporting the development and lifecycle management of medicines that improve patient outcomes around the world.\nIn this role, you'll have the opportunity to:\n• Build deep expertise in biologics and European regulatory affairs.\n• Work on complex regulatory programmes across multiple markets.\n• Partner with leading pharmaceutical and biotechnology companies.\n• Collaborate with global experts across regulatory, quality, safety, clinical and CMC functions.\n• Contribute to innovative regulatory solutions in a highly collaborative environment.\n• Progress toward Associate Director, senior SME and broader Global Regulatory Affairs leadership opportunities.\n\nIf you are passionate about European Regulatory Affairs, biologics and lifecycle management, we'd love to hear from you.\n\nIQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com\n\nIQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud. All information and credentials submitted in your application must be truthful and complete. Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law. We appreciate your honesty and professionalism.",
    "extra": {
     "multi_location": false,
     "posted_approx": "2026-10-16",
@@ -3846,11 +3991,11 @@
    "id": "82bac83329a6",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:iqvia:R1562528": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "iqvia:R1562528",
      "source": "workday",
@@ -3870,8 +4015,8 @@
    "category": "Data protection / DPO",
    "city": "Bucharest",
    "company": "Skilld by eJobs",
-   "content_hash": "2866e5a05db670ba",
-   "description": "",
+   "content_hash": "c9c946eb38148988",
+   "description": "Hi! We are Skilld by eJobs, and our mission is to connect great talent with great companies. Currently we are looking for a Lawyer specialized in Data Privacy & Technology to join a well-established law firm with a strong track record in the privacy and technology space.\n\nResponsibilities:\n\n• Advising clients on GDPR, privacy and technology law, including digital businesses, ad tech and new technologies;\n• Working on emerging digital regulations, including DSA, Data Act, AI Act and NIS2;\n• Advising on cybersecurity and security incidents, including regulatory implications and response;\n• Conducting legal research and drafting legal opinions, reports, contracts and client communications;\n• Working directly with clients and participating in negotiations and meetings across a wide range of industries;\n• Identifying legal and regulatory risks and providing clear, practical and commercially-oriented advice.\n\nQualifications:\n\n• Member of the Romanian Bar – mandatory;\n• 2–3 years of relevant professional experience in privacy, data protection, regulatory and/or technology law – mandatory;\n• Strong knowledge of GDPR and the broader EU data protection framework;\n• Excellent legal research, analytical and drafting skills;\n• Ability to understand complex legal issues and provide clear, pragmatic and commercially-oriented advice;\n• Excellent written and spoken Romanian and English;\n• Strong communication and interpersonal skills;\n• Ability to work independently while also being a collaborative team player.\n\nWhat we offer:\n\n• Appropriate remuneration, directly linked to performance through additional monthly bonuses;\n• The opportunity to be part of and grow together with one of the best privacy and technology law teams on the market, with proven professional track record.",
    "extra": {},
    "fingerprint": "skilld by ejobs|privacy lawyer|bucharest",
    "first_seen": "2026-10-29T15:23:53+00:00",
@@ -3903,8 +4048,8 @@
    "category": "Adjacent",
    "city": "Bucharest",
    "company": "CGI",
-   "content_hash": "6f9a80b5ec9197c6",
-   "description": "",
+   "content_hash": "a5bb2d819f750160",
+   "description": "Position Description\n\nThe Tech Lead is responsible for defining and implementing data protection solutions to safeguard sensitive information, support regulatory compliance, and strengthen the organization's security posture.\n\nYour future duties and responsibilities\n\n• Design and maintain data protection and encryption solutions.\n• Define and implement DLP and information protection policies.\n• Support compliance and regulatory requirements.\n• Conduct risk assessments and security reviews.\n• Manage secure communication and credential management tools.\n• Provide technical expertise on data classification and protection.\n• Coordinate security initiatives and remediation actions.\n• Promote best practices for data security and governance.\n\nRequired Qualifications To Be Successful In This Role\n\n• Strong expertise in Microsoft Purview DLP and Information Protection.\n• Experience with encryption and data protection technologies.\n• Knowledge of KeePass, KeePassXC, Signal, and similar solutions.\n• Familiarity with Stormshield security products.\n• Strong understanding of data governance and compliance.\n• Experience in cybersecurity and information protection programs.\n• Excellent analytical and communication skills.\n\nWhat you’ll find at CGI:\n\n• Financial Perks: Invest in your future with a share purchase plan co-funded by CGI, and the flexibility to cash in at any time\n• Full Healthcare Package: Take care of yourself and your family with our healthcare and dental subscription, and life insurance covering medical needs for both you and your children.\n• Convenient Online Platform: Explore the Benefit online platform, where you can easily book, get tickets, access online courses, receive meal vouchers, arrange medical services, and explore hobby facilities.\n• Continuous Learning: Shape your skills based on your interests through our internal Learning Platform: CGI Academia. Learn up to 9 different languages with goFLUENT on CGI Academia.\n• Mental Health Support: Benefit from our Member Assistance Program (MAP) - a confidential support service that helps you tackle professional and personal challenges at no cost to you.\n• Library at Office’s Doorstep: Immerse yourself in knowledge with Bookster, the first public modern library delivering books right to the company’s door.\n• Rewards for Referrals: Extend your network – refer your friends and earn a bonus through our rewarded referral program.\n• Volunteer Opportunities: Make a positive impact by enrolling in CGI for Good, our internal platform, participating in various volunteering activities.\n• Leave Policy: Enjoy between 21 to 24 days of leave, depending on your seniority\n• Accessible Office Location: Join us in Bucharest, at The Bridge Building, near Grozavesti metro station, away from the crowded areas, where you'll find a friendly working environment.\n• Flexible Work Setup: Enjoy the best of both advantages with our hybrid work model.\n\nTogether, as owners, let’s turn meaningful insights into action.\n\nLife at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…\n\nYou are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.\n\nYour work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.\n\nYou’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.\n\nThat same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.\n\nCome join our team—one of the largest IT and business consulting services firms in the world.",
    "extra": {},
    "fingerprint": "cgi|tech lead data protection|bucharest",
    "first_seen": "2026-10-29T15:23:53+00:00",
@@ -3944,11 +4089,11 @@
    "id": "8575a115b67e",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "banks:raiffeisen:3881": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "raiffeisen:3881",
      "source": "banks",
@@ -3986,11 +4131,11 @@
    "id": "8b83b10790e4",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4483858005": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483858005",
      "source": "linkedin",
@@ -4010,19 +4155,19 @@
    "category": "AML / KYC / FinCrime",
    "city": "Bucharest",
    "company": "Ayvens",
-   "content_hash": "8fbd49e7619aa9b0",
-   "description": "",
+   "content_hash": "274344d098c33ff5",
+   "description": "At Ayvens, progress starts with you.\n\nOur ambitions to shape the future of sustainable mobility are powered by our talent. Join us, and get better with every move.\n\nAreas Of Responsibilities Normative (Process Governance & Standards)\n\n• Lead the analysis, development, maintenance, continuous improvement of KYC operational norms, procedures, workflows, and standards in line with the Ayvens Normative and SG Code. \n• Own and maintain KYC process documentation, including procedures, work instructions, process maps, governance frameworks, and operational standards. \n• Act as the SME for KYC operational processes and provide guidance on compliance expectations, process changes, best practices and support efficiency. \n• Develop and deliver training to support consistent implementation of KYC requirements. \n• Design process swim lanes and process flows. \n• Provide guidance to LOD1 KYC stakeholders and the LOD1 Central team. \n\nTooling (Systems, Digitalization & Continuous Improvement)\n\n• Contribute to improving central tools. \n• Harmonize processes and practices through training, roll-outs on the central KYC tool, and tool enhancements. \n• Drive process optimization and continuous improvement initiatives through the identification of inefficiencies and implementation of enhancements. Support the development and implementation of digital solutions, tools, and systems to improve operational effectiveness. \n• Contribute to the automation of target processes (AI implementation on KYC topics such as screening hit automation, escalation automation, etc.). \n• Assist with digital solutions to enhance process effectiveness. \n• Collaborate closely with the Project Manager responsible for standardization to ensure business requirements, controls, and normative updates are appropriately reflected. \n• Testing activities: design test cases, perform testing in the central tool, and support entities during local testing. \n• Propose enhancements and discuss with Product team \n• Contribute to writing or write business requirements linked to Norms \n\nAd-hoc Requests / Project & Stakeholder Support\n\n• Prepare presentations and participate in governance committees and stakeholder meetings. \n• Collaborate closely with all Central LOD1 KYC stakeholders / Commerce Ops teams, LOD2 and D&IT. \n• Monitor progress, manage dependencies, and address blockers with relevant stakeholders. \n• Support strategic and regulatory initiatives requiring process expertise and operational guidance. \n• Other responsibilities as assigned. \n\nJob Requirements\n\n• Critical thinking \n• Proactively identifies inefficiencies and areas of improvements \n• Initiative and autonomy \n• Communication and interpersonal skills to engage with stakeholders at all levels. \n• University degree/diploma (e.g. in Law, Economics etc) \n• Knowledge of MS Office suite \n• Experience in the Finance and Banking industry environment is a plus \n• Fluent in English written and spoken \n• Any other language spoken is a plus. \n\nAs a member of our team, you will benefit from: \n\n• 25 days of annual leave; \n• 1 sick day/year; \n• 1 day off for your birthday; \n• Family Private healthcare subscription at Sanador/Regina Maria ; \n• Monthly budget in Benefit Platform; \n• Holiday gifts for Easter, Christmas through Benefits Platform; \n• Loyalty bonus at 3 and 5 years seniority in company; \n• Special events bonus (marriage, child birth, other); \n• Opportunities and trainings for ongoing professional growth and career advancement; \n• Hybrid work setup – 3 days/week in the office (Timpuri noi metro station); Discounts for dental care from Edent clinic; \n• Massage in the office on Tuesday and Wednesday.\n\nWhy Ayvens? \n\nWith over 3.1 million vehicles managed across more than 40 countries, we provide full-service leasing, flexible subscription services, fleet management services and multi-mobility solutions to customers of all sizes, including large corporates, SMEs, professionals, and private individuals. By leveraging our unique position to lead the way to net zero and further shape the digital transformation of the industry, we are well-positioned to meet the evolving mobility needs of our clients and provide them with the solutions they need to thrive.\n\nAt Ayvens, we believe that our success is driven by our commitment to customer satisfaction. Our team is dedicated to delivering innovative solutions and technology-enabled services that help our customers focus on their everyday business. We’re committed to sustainable mobility and have made it a core part of our strategy. In everything we do, we’re guided by the principles of authenticity, curiosity, commitment and collaboration. We aim to foster an organisation that's diverse in people and ideas, where everyone can thrive and be themselves, no matter who they are.\n\nJoin us on this exciting journey as we continue to enable the transformation towards large scale adoption of sustainable mobility and provide our customers with the solutions they need to succeed. Follow our page for the latest updates, news, and insights.",
    "extra": {},
    "fingerprint": "ayvens|kyc norms and processes expert|bucharest",
    "first_seen": "2026-10-29T15:23:53+00:00",
    "id": "8c73b676f653",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4481472131": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4481472131",
      "source": "linkedin",
@@ -4031,7 +4176,7 @@
     },
     "linkedin:4483728495": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483728495",
      "source": "linkedin",
@@ -4040,7 +4185,7 @@
     },
     "workday:ayvens:10042207": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "ayvens:10042207",
      "source": "workday",
@@ -4101,11 +4246,11 @@
    "id": "8de087e6c91b",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4479256808": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4479256808",
      "source": "linkedin",
@@ -4133,11 +4278,11 @@
    "id": "8e48f481b120",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "banks:libra:1481": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "libra:1481",
      "source": "banks",
@@ -4168,11 +4313,11 @@
    "id": "8ef49032d696",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4465775716": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4465775716",
      "source": "linkedin",
@@ -4212,11 +4357,11 @@
    "id": "8fa065f5308c",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:parexel:R0000047342": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "parexel:R0000047342",
      "source": "workday",
@@ -4246,11 +4391,11 @@
    "id": "92a35c45bf93",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:267037": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "267037",
      "source": "hipo",
@@ -4280,11 +4425,11 @@
    "id": "9325ad8002c2",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "banks:unicredit:117157": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "unicredit:117157",
      "source": "banks",
@@ -4324,11 +4469,11 @@
    "id": "934788f98902",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:parexel:R0000047191": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "parexel:R0000047191",
      "source": "workday",
@@ -4359,11 +4504,11 @@
    "id": "94510c00ff9c",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:lever:certik:0b497f25-210b-408e-b2c3-e005c841d867": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "lever:certik:0b497f25-210b-408e-b2c3-e005c841d867",
      "source": "ats",
@@ -4426,11 +4571,11 @@
    "id": "94ba7ae3690e",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:greenhouse:emag:5016243101": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "greenhouse:emag:5016243101",
      "source": "ats",
@@ -4439,7 +4584,7 @@
     },
     "linkedin:4483713822": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483713822",
      "source": "linkedin",
@@ -4505,11 +4650,11 @@
    "id": "97aee3ba90f6",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:265034": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "265034",
      "source": "hipo",
@@ -4541,11 +4686,11 @@
    "id": "97f8f2e1f079",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:genpact:JR10009696": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "genpact:JR10009696",
      "source": "workday",
@@ -4576,11 +4721,11 @@
    "id": "983a119cccbd",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4483868238": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483868238",
      "source": "linkedin",
@@ -4728,11 +4873,11 @@
    "id": "a1cd49321a34",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:parexel:R0000047194": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "parexel:R0000047194",
      "source": "workday",
@@ -4760,11 +4905,11 @@
    "id": "a22866d34fba",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:greenhouse:bybit:4856964101": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "greenhouse:bybit:4856964101",
      "source": "ats",
@@ -4792,11 +4937,11 @@
    "id": "a84c0a2630cc",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:greenhouse:okx:8016694003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8016694003",
      "source": "ats",
@@ -4826,11 +4971,11 @@
    "id": "a95e1ba0a9b3",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:271415": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "271415",
      "source": "hipo",
@@ -4858,11 +5003,11 @@
    "id": "aa0a8413f236",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:greenhouse:okx:7998993003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7998993003",
      "source": "ats",
@@ -4892,11 +5037,11 @@
    "id": "ad455b50c031",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272945": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272945",
      "source": "hipo",
@@ -4924,7 +5069,7 @@
    "id": "ad9200b31372",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4479419909": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -4938,7 +5083,7 @@
     },
     "linkedin:4484982553": {
      "first_seen": "2026-10-29T21:09:22+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484982553",
      "source": "linkedin",
@@ -5006,11 +5151,11 @@
    "id": "b244aae399f6",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:db:R0432064": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "db:R0432064",
      "source": "workday",
@@ -5075,11 +5220,11 @@
    "id": "b484890027f8",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4476575419": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4476575419",
      "source": "linkedin",
@@ -5110,11 +5255,11 @@
    "id": "b6501944296c",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4466192009": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4466192009",
      "source": "linkedin",
@@ -5142,11 +5287,11 @@
    "id": "b7c15d223cb8",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:teamtailor:worksterjobs:6673103": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "teamtailor:worksterjobs:6673103",
      "source": "ats",
@@ -5178,8 +5323,9 @@
    "listings": {
     "ats:workable:af67a0cd-e35c-4487-8715-28e54f3cb940": {
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-30T07:07:43+00:00",
-     "misses": 0,
+     "misses": 1,
      "native_id": "workable:af67a0cd-e35c-4487-8715-28e54f3cb940",
      "source": "ats",
      "status": "open",
@@ -5216,11 +5362,11 @@
    "id": "ba0e44242fe9",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:teamtailor:worksterjobs:6673100": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "teamtailor:worksterjobs:6673100",
      "source": "ats",
@@ -5281,11 +5427,11 @@
    "id": "bad4982dd52e",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:greenhouse:okx:8012599003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8012599003",
      "source": "ats",
@@ -5313,11 +5459,11 @@
    "id": "bc1193d0c473",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272925": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272925",
      "source": "hipo",
@@ -5391,11 +5537,11 @@
    "id": "bcc74427dfa8",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4483575218": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483575218",
      "source": "linkedin",
@@ -5425,11 +5571,11 @@
    "id": "bebdc305ab4d",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:271240": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "271240",
      "source": "hipo",
@@ -5492,11 +5638,11 @@
    "id": "c271ffc2d4cd",
    "is_core": true,
    "last_changed": "2026-10-29T21:09:22+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484999047": {
      "first_seen": "2026-10-29T21:09:22+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484999047",
      "source": "linkedin",
@@ -5524,7 +5670,7 @@
    "id": "c3c7d3caaee0",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4474344212": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -5538,7 +5684,7 @@
     },
     "sg:26000HPQ": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "26000HPQ",
      "source": "sg",
@@ -5569,11 +5715,11 @@
    "id": "c66d1785f9be",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272705": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272705",
      "source": "hipo",
@@ -5614,11 +5760,11 @@
    "id": "c7c3a5ee89b3",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:lever:coinspaid:92cdbe90-4d0d-4425-825b-8a48da6e04bc": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "lever:coinspaid:92cdbe90-4d0d-4425-825b-8a48da6e04bc",
      "source": "ats",
@@ -5682,11 +5828,11 @@
    "id": "c92cf200de8f",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:lever:viseven:31ca5e2a-280f-423a-88be-f458678d40e5": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "lever:viseven:31ca5e2a-280f-423a-88be-f458678d40e5",
      "source": "ats",
@@ -5727,11 +5873,11 @@
    "id": "ca700464633b",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484470288": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484470288",
      "source": "linkedin",
@@ -5775,11 +5921,11 @@
    "id": "cef565e5ddab",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:medtronic:R75511-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "medtronic:R75511-1",
      "source": "workday",
@@ -5807,11 +5953,11 @@
    "id": "d166cf866d4a",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484454491": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4484454491",
      "source": "linkedin",
@@ -5878,11 +6024,11 @@
    "id": "d2e3c577df5b",
    "is_core": false,
    "last_changed": "2026-10-29T15:58:29+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4481897090": {
      "first_seen": "2026-10-29T15:58:29+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4481897090",
      "source": "linkedin",
@@ -5910,7 +6056,7 @@
    "id": "d460a667babd",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4463352046": {
      "closed_at": "2026-10-30T07:07:43+00:00",
@@ -5935,7 +6081,7 @@
     },
     "linkedin:4483088011": {
      "first_seen": "2026-10-30T07:07:43+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483088011",
      "source": "linkedin",
@@ -5965,11 +6111,11 @@
    "id": "d6ee78455204",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272272": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272272",
      "source": "hipo",
@@ -6000,11 +6146,11 @@
    "id": "d7ec017db871",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4483137601": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483137601",
      "source": "linkedin",
@@ -6035,11 +6181,11 @@
    "id": "d807ff3c1307",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:lever:certik:195d8b69-830c-44f5-b8d3-61acce919766": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "lever:certik:195d8b69-830c-44f5-b8d3-61acce919766",
      "source": "ats",
@@ -6067,10 +6213,11 @@
    "id": "d8ae12623511",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4474341287": {
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4474341287",
@@ -6080,7 +6227,7 @@
     },
     "sg:26000HIE": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "26000HIE",
      "source": "sg",
@@ -6089,7 +6236,7 @@
     },
     "sg:26000KCF": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "26000KCF",
      "source": "sg",
@@ -6124,6 +6271,7 @@
    "listings": {
     "linkedin:4461304851": {
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4461304851",
@@ -6152,11 +6300,11 @@
    "id": "db70288b9656",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4482298315": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4482298315",
      "source": "linkedin",
@@ -6184,11 +6332,11 @@
    "id": "dc031993ce11",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:273119": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "273119",
      "source": "hipo",
@@ -6197,6 +6345,7 @@
     },
     "linkedin:4480259143": {
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4480259143",
@@ -6206,6 +6355,7 @@
     },
     "linkedin:4481767042": {
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4481767042",
@@ -6215,7 +6365,7 @@
     },
     "workday:ing:REQ-10123037-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10123037-1",
      "source": "workday",
@@ -6247,6 +6397,7 @@
    "listings": {
     "linkedin:4471999949": {
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4471999949",
@@ -6278,11 +6429,11 @@
    "id": "ddcf9dc9b97f",
    "is_core": false,
    "last_changed": "2026-10-29T15:58:29+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4482933972": {
      "first_seen": "2026-10-29T15:58:29+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4482933972",
      "source": "linkedin",
@@ -6312,11 +6463,11 @@
    "id": "df00e5b4c6f7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272399": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272399",
      "source": "hipo",
@@ -6347,11 +6498,11 @@
    "id": "df666da312f9",
    "is_core": false,
    "last_changed": "2026-10-29T15:58:29+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4455971964": {
      "first_seen": "2026-10-29T15:58:29+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4455971964",
      "source": "linkedin",
@@ -6382,11 +6533,11 @@
    "id": "df8329a15656",
    "is_core": true,
    "last_changed": "2026-10-29T15:58:29+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4481926754": {
      "first_seen": "2026-10-29T15:58:29+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4481926754",
      "source": "linkedin",
@@ -6435,11 +6586,11 @@
    "id": "e0bd0f6c0aa3",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:parexel:R0000041979": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "parexel:R0000041979",
      "source": "workday",
@@ -6471,6 +6622,7 @@
    "listings": {
     "linkedin:4473799265": {
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4473799265",
@@ -6502,11 +6654,11 @@
    "id": "e3a5550746b0",
    "is_core": false,
    "last_changed": "2026-10-29T15:58:29+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4454119605": {
      "first_seen": "2026-10-29T15:58:29+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4454119605",
      "source": "linkedin",
@@ -6534,10 +6686,11 @@
    "id": "e5c60aec9b76",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4482745131": {
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:58:29+00:00",
      "misses": 0,
      "native_id": "4482745131",
@@ -6547,7 +6700,7 @@
     },
     "linkedin:4483735022": {
      "first_seen": "2026-10-29T15:58:29+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483735022",
      "source": "linkedin",
@@ -6577,11 +6730,11 @@
    "id": "e71e680258d1",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:272846": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "272846",
      "source": "hipo",
@@ -6613,11 +6766,11 @@
    "id": "ec09e878eb31",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:iqvia:R1563120": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "iqvia:R1563120",
      "source": "workday",
@@ -6647,11 +6800,11 @@
    "id": "ec1adb9b6c26",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:smartrecruiters:Aumovio:744000138166004": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "smartrecruiters:Aumovio:744000138166004",
      "source": "ats",
@@ -6660,7 +6813,7 @@
     },
     "hipo:269979": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "269979",
      "source": "hipo",
@@ -6690,11 +6843,11 @@
    "id": "f025b861cd02",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "banks:signal:job-senior-compliance-officer": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "signal:job-senior-compliance-officer",
      "source": "banks",
@@ -6725,11 +6878,11 @@
    "id": "f1c233f441e1",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4483880095": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "4483880095",
      "source": "linkedin",
@@ -6760,11 +6913,11 @@
    "id": "f22ea08e0c52",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:lever:certik:f507fc48-77e7-4b1b-9a88-11e2b20fe21d": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "lever:certik:f507fc48-77e7-4b1b-9a88-11e2b20fe21d",
      "source": "ats",
@@ -6794,11 +6947,11 @@
    "id": "f373013cc079",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "banks:netopia:senior-legal-compliance-officer-wanted": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "netopia:senior-legal-compliance-officer-wanted",
      "source": "banks",
@@ -6828,11 +6981,11 @@
    "id": "f460effdd14d",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:271178": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "271178",
      "source": "hipo",
@@ -6864,11 +7017,11 @@
    "id": "f48ef367173f",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "workday:pwc:672154WD": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "pwc:672154WD",
      "source": "workday",
@@ -6903,6 +7056,7 @@
    "listings": {
     "linkedin:4453427790": {
      "first_seen": "2026-10-29T15:58:29+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-30T07:07:43+00:00",
      "misses": 0,
      "native_id": "4453427790",
@@ -6935,10 +7089,11 @@
    "id": "fa069f1bc4dd",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484990875": {
      "first_seen": "2026-10-29T21:09:22+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T21:09:22+00:00",
      "misses": 0,
      "native_id": "4484990875",
@@ -6948,7 +7103,7 @@
     },
     "sg:26000MIS": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "26000MIS",
      "source": "sg",
@@ -6979,10 +7134,11 @@
    "id": "faaf8392f6a7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4477285705": {
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4477285705",
@@ -6992,7 +7148,7 @@
     },
     "workday:accenture:R00352011": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "accenture:R00352011",
      "source": "workday",
@@ -7024,6 +7180,7 @@
    "listings": {
     "linkedin:4465681686": {
      "first_seen": "2026-10-29T15:23:53+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4465681686",
@@ -7052,11 +7209,11 @@
    "id": "fbc4fc0e29b3",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "ats:workable:a3b14af4-3bce-40ea-8428-cd2da77960e3": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "workable:a3b14af4-3bce-40ea-8428-cd2da77960e3",
      "source": "ats",
@@ -7088,10 +7245,11 @@
    "id": "fc2c8e650f7e",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "linkedin:4484715141": {
      "first_seen": "2026-10-29T15:58:29+00:00",
+     "last_checked": "2026-10-30T14:09:44+00:00",
      "last_seen": "2026-10-29T21:09:22+00:00",
      "misses": 0,
      "native_id": "4484715141",
@@ -7101,7 +7259,7 @@
     },
     "sg:26000MOP": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "26000MOP",
      "source": "sg",
@@ -7131,11 +7289,11 @@
    "id": "fd4b8ea8113a",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:269673": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "269673",
      "source": "hipo",
@@ -7165,11 +7323,11 @@
    "id": "fd6aef50346d",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:273461": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "273461",
      "source": "hipo",
@@ -7199,11 +7357,11 @@
    "id": "feef73ce2f43",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-30T07:07:43+00:00",
+   "last_seen": "2026-10-30T14:09:44+00:00",
    "listings": {
     "hipo:269980": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-10-30T07:07:43+00:00",
+     "last_seen": "2026-10-30T14:09:44+00:00",
      "misses": 0,
      "native_id": "269980",
      "source": "hipo",
@@ -7223,9 +7381,9 @@
  "meta": {
   "ai_baseline_done": true,
   "baseline_done": true,
-  "last_run": "2026-10-30T11:31:43+00:00",
+  "last_run": "2026-10-30T14:09:44+00:00",
   "pending_alerts": [],
-  "runs": 8
+  "runs": 9
  },
  "sources": {
   "ai_sweep": {
@@ -7237,24 +7395,24 @@
   },
   "ats": {
    "fail_streak": 0,
-   "last_attempt": "2026-10-30T07:07:43+00:00",
-   "last_count": 493,
+   "last_attempt": "2026-10-30T14:09:44+00:00",
+   "last_count": 494,
    "last_error": null,
-   "last_ok": "2026-10-30T07:07:43+00:00"
+   "last_ok": "2026-10-30T14:09:44+00:00"
   },
   "banks": {
    "fail_streak": 0,
-   "last_attempt": "2026-10-30T07:07:43+00:00",
-   "last_count": 297,
+   "last_attempt": "2026-10-30T14:09:44+00:00",
+   "last_count": 286,
    "last_error": null,
-   "last_ok": "2026-10-30T07:07:43+00:00"
+   "last_ok": "2026-10-30T14:09:44+00:00"
   },
   "hipo": {
    "fail_streak": 0,
-   "last_attempt": "2026-10-30T07:07:43+00:00",
+   "last_attempt": "2026-10-30T14:09:44+00:00",
    "last_count": 423,
    "last_error": null,
-   "last_ok": "2026-10-30T07:07:43+00:00"
+   "last_ok": "2026-10-30T14:09:44+00:00"
   },
   "juridice": {
    "fail_streak": 1,
@@ -7263,31 +7421,31 @@
   },
   "linkedin": {
    "fail_streak": 0,
-   "last_attempt": "2026-10-30T07:07:43+00:00",
-   "last_count": 230,
+   "last_attempt": "2026-10-30T14:09:44+00:00",
+   "last_count": 225,
    "last_error": null,
-   "last_ok": "2026-10-30T07:07:43+00:00"
+   "last_ok": "2026-10-30T14:09:44+00:00"
   },
   "posturi_gov": {
    "fail_streak": 0,
-   "last_attempt": "2026-10-30T07:07:43+00:00",
+   "last_attempt": "2026-10-30T14:09:44+00:00",
    "last_count": 0,
    "last_error": null,
-   "last_ok": "2026-10-30T07:07:43+00:00"
+   "last_ok": "2026-10-30T14:09:44+00:00"
   },
   "sg": {
    "fail_streak": 0,
-   "last_attempt": "2026-10-30T07:07:43+00:00",
-   "last_count": 85,
+   "last_attempt": "2026-10-30T14:09:44+00:00",
+   "last_count": 84,
    "last_error": null,
-   "last_ok": "2026-10-30T07:07:43+00:00"
+   "last_ok": "2026-10-30T14:09:44+00:00"
   },
   "workday": {
    "fail_streak": 0,
-   "last_attempt": "2026-10-30T07:07:43+00:00",
-   "last_count": 887,
+   "last_attempt": "2026-10-30T14:09:44+00:00",
+   "last_count": 884,
    "last_error": null,
-   "last_ok": "2026-10-30T07:07:43+00:00"
+   "last_ok": "2026-10-30T14:09:44+00:00"
   }
  }
 }
