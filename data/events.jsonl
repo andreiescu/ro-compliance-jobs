@@ -202,3 +202,5 @@
 {"ts": "2026-10-30T19:23:52+00:00", "job_id": "4c129aaf1777", "type": "NEW", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-10-30T23:47:46+00:00", "job_id": "bface55b624a", "type": "NEW", "diff": {}, "notified": true, "silent": false}
 {"ts": "2026-10-31T05:41:28+00:00", "job_id": "b145423aa873", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-10-31T17:45:07+00:00", "job_id": "03d67c31ce4f", "type": "UPDATED", "diff": {"title": ["Compliance Treasury Analyst", "Senior Cash Compliance Treasury Analyst"]}, "notified": false, "silent": false}
+{"ts": "2026-10-31T17:45:07+00:00", "job_id": "8afa4c562fae", "type": "NEW", "diff": {}, "notified": false, "silent": false}
