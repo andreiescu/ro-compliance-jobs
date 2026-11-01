@@ -7583,17 +7583,17 @@
  "meta": {
   "ai_baseline_done": true,
   "baseline_done": true,
-  "last_run": "2026-11-01T07:33:12+00:00",
+  "last_run": "2026-11-01T11:57:49+00:00",
   "pending_alerts": [],
-  "runs": 18
+  "runs": 19
  },
  "sources": {
   "ai_sweep": {
    "fail_streak": 0,
-   "last_attempt": "2026-10-31T11:02:13+00:00",
+   "last_attempt": "2026-11-01T11:57:49+00:00",
    "last_count": 0,
    "last_error": null,
-   "last_ok": "2026-10-31T11:02:13+00:00"
+   "last_ok": "2026-11-01T11:57:49+00:00"
   },
   "ats": {
    "fail_streak": 0,
