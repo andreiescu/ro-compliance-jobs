@@ -246,3 +246,6 @@
 {"ts": "2026-11-05T12:20:58+00:00", "job_id": "872306d84f49", "type": "NEW", "diff": {}, "notified": true, "silent": false}
 {"ts": "2026-11-05T12:20:58+00:00", "job_id": "350d14c7d36f", "type": "NEW", "diff": {}, "notified": true, "silent": false}
 {"ts": "2026-11-05T12:20:58+00:00", "job_id": "1536c5bb16cd", "type": "REACTIVATED", "diff": {"via": "ats"}, "notified": true, "silent": false}
+{"ts": "2026-11-05T20:41:51+00:00", "job_id": "8253cb9753d5", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-05T20:41:51+00:00", "job_id": "ea6314d0bf12", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-05T20:41:51+00:00", "job_id": "983a119cccbd", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
