@@ -5634,6 +5634,38 @@
    "status": "active",
    "title": "Senior Regulatory Affairs Associate - Safety Labelling (home or office based)"
   },
+  "934f8a83ca11": {
+   "category": "Compliance",
+   "city": "Remote - European Union",
+   "company": "HeadHunters Hub (for a UK-based payment service provider)",
+   "content_hash": "cb8159f7e5cac523",
+   "description": "Fully remote within the EU (Romania listed as eligible). Dual role supporting the MLRO and compliance team (KYC and due diligence, PEP/sanctions/adverse media screening, transaction monitoring, client risk assessments, compliance documentation) and acting as point of contact for corporate clients on onboarding. Requires 1+ year of hands-on compliance experience (fintech/payments preferred), AML and corporate onboarding knowledge, and fluent English and Russian. Listing valid through 2026-12-29.",
+   "extra": {},
+   "fingerprint": "headhunters for a uk based payment service provider|compliance account support officer eu|remote - european union",
+   "first_seen": "2026-11-07T11:52:02+00:00",
+   "id": "934f8a83ca11",
+   "is_core": true,
+   "last_changed": "2026-11-07T11:52:02+00:00",
+   "last_seen": "2026-11-07T11:52:02+00:00",
+   "listings": {
+    "ai_sweep:b0db20ce3ceb": {
+     "first_seen": "2026-11-07T11:52:02+00:00",
+     "last_seen": "2026-11-07T11:52:02+00:00",
+     "misses": 0,
+     "native_id": "b0db20ce3ceb",
+     "source": "ai_sweep",
+     "status": "open",
+     "url": "https://jobgether.com/offer/6ae32e7cd6c8b081a7902b7f-compliance-account-support-officer-eu"
+    }
+   },
+   "location": "Remote - European Union",
+   "posted": "2026-10-29",
+   "primary": "ai_sweep:b0db20ce3ceb",
+   "remote": true,
+   "remote_ro": true,
+   "status": "active",
+   "title": "Compliance & Account Support Officer (EU)"
+  },
   "94088e09da9e": {
    "category": "Adjacent",
    "city": "Bucharest",
@@ -9135,17 +9167,17 @@
  "meta": {
   "ai_baseline_done": true,
   "baseline_done": true,
-  "last_run": "2026-11-07T10:07:24+00:00",
+  "last_run": "2026-11-07T11:52:02+00:00",
   "pending_alerts": [],
-  "runs": 45
+  "runs": 46
  },
  "sources": {
   "ai_sweep": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-06T13:07:23+00:00",
-   "last_count": 0,
+   "last_attempt": "2026-11-07T11:52:02+00:00",
+   "last_count": 1,
    "last_error": null,
-   "last_ok": "2026-11-06T13:07:23+00:00"
+   "last_ok": "2026-11-07T11:52:02+00:00"
   },
   "ats": {
    "fail_streak": 0,
