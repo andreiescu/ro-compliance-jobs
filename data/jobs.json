@@ -1240,6 +1240,38 @@
    "status": "active",
    "title": "Cybersecurity Compliance Manager"
   },
+  "1eee0360d5c9": {
+   "category": "AML / KYC / FinCrime",
+   "city": "Bucharest",
+   "company": "Tech Rec (for a financial-sector client)",
+   "content_hash": "e0cfabd368613545",
+   "description": "Investigate suspicious financial activity and compliance breaches; analyse transactions and customer behaviour to detect possible fraud or money laundering; document findings in reports with risk assessments and recommended actions; work with legal, compliance and risk teams; liaise with external partners such as regulators and law enforcement; keep up with regulatory changes and fraud trends. German language required. Based in Bucharest, work from home allowed anywhere in Romania.",
+   "extra": {},
+   "fingerprint": "tech rec for a financial sector client|investigator analyst with german aml|bucharest",
+   "first_seen": "2026-11-08T12:04:27+00:00",
+   "id": "1eee0360d5c9",
+   "is_core": true,
+   "last_changed": "2026-11-08T12:04:27+00:00",
+   "last_seen": "2026-11-08T12:04:27+00:00",
+   "listings": {
+    "ai_sweep:92f57143e0b9": {
+     "first_seen": "2026-11-08T12:04:27+00:00",
+     "last_seen": "2026-11-08T12:04:27+00:00",
+     "misses": 0,
+     "native_id": "92f57143e0b9",
+     "source": "ai_sweep",
+     "status": "open",
+     "url": "https://www.careers-page.com/tech-rec/job/QWWVXYV6"
+    }
+   },
+   "location": "Bucharest, Romania",
+   "posted": null,
+   "primary": "ai_sweep:92f57143e0b9",
+   "remote": true,
+   "remote_ro": true,
+   "status": "active",
+   "title": "Investigator Analyst with German (AML)"
+  },
   "1f722a7fa4ed": {
    "category": "Compliance",
    "city": "Romania",
@@ -9282,17 +9314,17 @@
  "meta": {
   "ai_baseline_done": true,
   "baseline_done": true,
-  "last_run": "2026-11-08T07:22:26+00:00",
+  "last_run": "2026-11-08T12:04:27+00:00",
   "pending_alerts": [],
-  "runs": 50
+  "runs": 51
  },
  "sources": {
   "ai_sweep": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-07T11:52:02+00:00",
+   "last_attempt": "2026-11-08T12:04:27+00:00",
    "last_count": 1,
    "last_error": null,
-   "last_ok": "2026-11-07T11:52:02+00:00"
+   "last_ok": "2026-11-08T12:04:27+00:00"
   },
   "ats": {
    "fail_streak": 0,

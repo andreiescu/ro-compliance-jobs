@@ -273,3 +273,4 @@
 {"ts": "2026-11-08T07:22:26+00:00", "job_id": "1571924fe707", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-08T07:22:26+00:00", "job_id": "8cb282377f3b", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-08T07:22:26+00:00", "job_id": "fd4b8ea8113a", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-08T12:04:27+00:00", "job_id": "1eee0360d5c9", "type": "NEW", "diff": {}, "notified": true, "silent": false}
