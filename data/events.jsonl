@@ -295,3 +295,10 @@
 {"ts": "2026-11-10T09:50:42+00:00", "job_id": "48be97025229", "type": "UPDATED", "diff": {"title": ["Regulatory submission manager", "Regulatory affairs manager - (CTIS/Veeva/AI)"]}, "notified": false, "silent": false}
 {"ts": "2026-11-10T09:50:42+00:00", "job_id": "1b187b2d6488", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-10T13:40:38+00:00", "job_id": "dbff239b34f1", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-10T17:52:44+00:00", "job_id": "45791bd7f455", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-10T17:52:44+00:00", "job_id": "8765bff8553a", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-10T17:52:44+00:00", "job_id": "cd11012a48d7", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-10T17:52:44+00:00", "job_id": "e7dc33440868", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-10T17:52:44+00:00", "job_id": "fa8e40c299b5", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-10T17:52:44+00:00", "job_id": "92a35c45bf93", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-10T17:52:44+00:00", "job_id": "f373013cc079", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
