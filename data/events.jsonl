@@ -281,3 +281,10 @@
 {"ts": "2026-11-09T17:30:53+00:00", "job_id": "5262c8cb32c7", "type": "NEW", "diff": {}, "notified": true, "silent": false}
 {"ts": "2026-11-09T17:30:53+00:00", "job_id": "965dcc134efa", "type": "NEW", "diff": {}, "notified": true, "silent": false}
 {"ts": "2026-11-09T17:30:53+00:00", "job_id": "e71e680258d1", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-10T01:33:06+00:00", "job_id": "b0f097771b59", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-10T01:33:06+00:00", "job_id": "104c6ad36c18", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-10T01:33:06+00:00", "job_id": "0dd8bd395a39", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-10T01:33:06+00:00", "job_id": "443c33f0dddc", "type": "REACTIVATED", "diff": {"via": "hipo"}, "notified": true, "silent": false}
+{"ts": "2026-11-10T01:33:06+00:00", "job_id": "20c73c0c2ed1", "type": "REACTIVATED", "diff": {"via": "hipo"}, "notified": true, "silent": false}
+{"ts": "2026-11-10T01:33:06+00:00", "job_id": "53fbf4296fb0", "type": "REACTIVATED", "diff": {"via": "hipo"}, "notified": true, "silent": false}
+{"ts": "2026-11-10T01:33:06+00:00", "job_id": "501fbe6a05af", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
