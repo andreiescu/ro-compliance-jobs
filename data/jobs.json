@@ -8398,6 +8398,38 @@
    "status": "active",
    "title": "Compliance Engineer"
   },
+  "dbff239b34f1": {
+   "category": "Compliance",
+   "city": "Bucharest",
+   "company": "Huawei (Southeast European Rep Office)",
+   "content_hash": "0f726b52dcd6b006",
+   "description": "Compliance Officer in Huawei Europe's Legal & Compliance team, Bucharest. Reviews contracts and business arrangements for compliance risks; assesses business and sales projects, especially for anti-bribery and corruption and conflicts of interest; supports compliance monitoring, audits and risk assessments; helps prepare and deliver training and awareness programs; maintains compliance policies and follows up on action plans. Requirements: bachelor's degree in Law or related field, 3+ years of relevant experience, knowledge of anti-bribery, competition, financial, trade and third-party compliance, fluent English and Romanian. Full-time; applicants must be eligible to work and live in Bucharest.",
+   "extra": {},
+   "fingerprint": "huawei southeast european rep office|compliance officer|bucharest",
+   "first_seen": "2026-11-10T13:40:38+00:00",
+   "id": "dbff239b34f1",
+   "is_core": true,
+   "last_changed": "2026-11-10T13:40:38+00:00",
+   "last_seen": "2026-11-10T13:40:38+00:00",
+   "listings": {
+    "ai_sweep:dc1dd1d38cca": {
+     "first_seen": "2026-11-10T13:40:38+00:00",
+     "last_seen": "2026-11-10T13:40:38+00:00",
+     "misses": 0,
+     "native_id": "dc1dd1d38cca",
+     "source": "ai_sweep",
+     "status": "open",
+     "url": "https://huaweidusseldorf-1719303222.teamtailor.com/jobs/8160474-compliance-officer"
+    }
+   },
+   "location": "Bucharest, Romania",
+   "posted": null,
+   "primary": "ai_sweep:dc1dd1d38cca",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Compliance Officer"
+  },
   "dc031993ce11": {
    "category": "Data protection / DPO",
    "city": "Bucharest",
@@ -9670,17 +9702,17 @@
  "meta": {
   "ai_baseline_done": true,
   "baseline_done": true,
-  "last_run": "2026-11-10T09:50:42+00:00",
+  "last_run": "2026-11-10T13:40:38+00:00",
   "pending_alerts": [],
-  "runs": 59
+  "runs": 60
  },
  "sources": {
   "ai_sweep": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-09T14:09:19+00:00",
-   "last_count": 0,
+   "last_attempt": "2026-11-10T13:40:38+00:00",
+   "last_count": 1,
    "last_error": null,
-   "last_ok": "2026-11-09T14:09:19+00:00"
+   "last_ok": "2026-11-10T13:40:38+00:00"
   },
   "ats": {
    "fail_streak": 0,
