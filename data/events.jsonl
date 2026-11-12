@@ -309,3 +309,5 @@
 {"ts": "2026-11-11T14:29:48+00:00", "job_id": "5f4664395e6f", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-11T21:59:04+00:00", "job_id": "56daa936b4de", "type": "NEW", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-12T03:00:57+00:00", "job_id": "f6d1694af64e", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-12T11:07:15+00:00", "job_id": "89db4dc60bc2", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-12T11:07:15+00:00", "job_id": "c97adb7239c1", "type": "NEW", "diff": {}, "notified": false, "silent": false}
