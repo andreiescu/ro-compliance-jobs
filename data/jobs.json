@@ -10461,17 +10461,17 @@
  "meta": {
   "ai_baseline_done": true,
   "baseline_done": true,
-  "last_run": "2026-11-13T07:58:08+00:00",
+  "last_run": "2026-11-13T13:18:07+00:00",
   "pending_alerts": [],
-  "runs": 72
+  "runs": 73
  },
  "sources": {
   "ai_sweep": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-12T13:55:50+00:00",
+   "last_attempt": "2026-11-13T13:18:07+00:00",
    "last_count": 0,
    "last_error": null,
-   "last_ok": "2026-11-12T13:55:50+00:00"
+   "last_ok": "2026-11-13T13:18:07+00:00"
   },
   "ats": {
    "fail_streak": 0,
