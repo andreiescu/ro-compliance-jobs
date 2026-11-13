@@ -50,11 +50,11 @@
    "id": "011696fdc193",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:273376": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273376",
      "source": "hipo",
@@ -82,7 +82,7 @@
    "id": "02a00c1ddc8b",
    "is_core": true,
    "last_changed": "2026-11-06T17:32:20+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "banks:bcr:1455265533": {
      "first_seen": "2026-11-06T17:32:20+00:00",
@@ -95,7 +95,7 @@
     },
     "hipo:273798": {
      "first_seen": "2026-11-07T10:07:24+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273798",
      "source": "hipo",
@@ -126,11 +126,11 @@
    "id": "02fd265958f7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272759": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "272759",
      "source": "hipo",
@@ -159,7 +159,7 @@
     },
     "linkedin:4490342892": {
      "first_seen": "2026-11-12T18:57:54+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4490342892",
      "source": "linkedin",
@@ -233,7 +233,7 @@
    "id": "03bf78b2a285",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4484997746": {
      "first_seen": "2026-10-29T21:09:22+00:00",
@@ -247,7 +247,7 @@
     },
     "sg:26000MII": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "26000MII",
      "source": "sg",
@@ -438,7 +438,7 @@
    "listings": {
     "linkedin:4469744035": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-12T18:57:54+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4469744035",
@@ -470,11 +470,11 @@
    "id": "080e75d3cf6d",
    "is_core": false,
    "last_changed": "2026-11-13T00:24:01+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4490517907": {
      "first_seen": "2026-11-13T00:24:01+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4490517907",
      "source": "linkedin",
@@ -504,11 +504,11 @@
    "id": "0976483708dc",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272264": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "272264",
      "source": "hipo",
@@ -552,7 +552,7 @@
    "listings": {
     "linkedin:4481623385": {
      "first_seen": "2026-10-29T15:58:29+00:00",
-     "last_checked": "2026-11-12T18:57:54+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-10-29T21:09:22+00:00",
      "misses": 0,
      "native_id": "4481623385",
@@ -617,11 +617,11 @@
    "id": "0e249de014bc",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:271855": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "271855",
      "source": "hipo",
@@ -630,7 +630,7 @@
     },
     "hipo:273394": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273394",
      "source": "hipo",
@@ -887,13 +887,13 @@
    "id": "1536c5bb16cd",
    "is_core": true,
    "last_changed": "2026-11-05T12:20:58+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:lever:swissborg:0b18bb05-a97a-427a-9c8c-28245f106863": {
      "closed_at": "2026-10-30T14:09:44+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-10-30T14:09:44+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "lever:swissborg:0b18bb05-a97a-427a-9c8c-28245f106863",
      "source": "ats",
@@ -1050,12 +1050,12 @@
    "id": "18e63ef5fd16",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4482800025": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-13T07:58:08+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4482800025",
      "source": "linkedin",
@@ -1085,11 +1085,11 @@
    "id": "1935e8179840",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:271416": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "271416",
      "source": "hipo",
@@ -1266,7 +1266,7 @@
    "listings": {
     "linkedin:4484071830": {
      "first_seen": "2026-11-04T09:13:00+00:00",
-     "last_checked": "2026-11-12T18:57:54+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-11T06:18:30+00:00",
      "misses": 0,
      "native_id": "4484071830",
@@ -1295,12 +1295,12 @@
    "id": "1c970a78ff0c",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4455798557": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-12T03:00:57+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4455798557",
      "source": "linkedin",
@@ -1341,12 +1341,12 @@
    "id": "1eb1c0f29f46",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4453429805": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-12T11:07:15+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4453429805",
      "source": "linkedin",
@@ -1443,7 +1443,7 @@
    "id": "1f9866a41cce",
    "is_core": false,
    "last_changed": "2026-11-10T09:50:42+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272653": {
      "closed_at": "2026-11-07T02:49:58+00:00",
@@ -1458,7 +1458,7 @@
     },
     "hipo:273845": {
      "first_seen": "2026-11-10T09:50:42+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273845",
      "source": "hipo",
@@ -1488,13 +1488,13 @@
    "id": "20c73c0c2ed1",
    "is_core": true,
    "last_changed": "2026-11-10T01:33:06+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:273549": {
      "closed_at": "2026-11-08T23:45:13+00:00",
      "first_seen": "2026-10-30T07:07:43+00:00",
      "last_checked": "2026-11-08T23:45:13+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273549",
      "source": "hipo",
@@ -1529,6 +1529,7 @@
    "listings": {
     "linkedin:4488181544": {
      "first_seen": "2026-11-07T02:49:58+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-13T16:23:40+00:00",
      "misses": 0,
      "native_id": "4488181544",
@@ -1617,7 +1618,7 @@
    "id": "22afd7330fd9",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:smartrecruiters:Aumovio:744000142073842": {
      "closed_at": "2026-11-09T17:30:53+00:00",
@@ -1632,7 +1633,7 @@
     },
     "hipo:270549": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "270549",
      "source": "hipo",
@@ -1651,7 +1652,7 @@
     },
     "linkedin:4482940487": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-12T18:57:54+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-01T07:33:12+00:00",
      "misses": 0,
      "native_id": "4482940487",
@@ -1719,11 +1720,11 @@
    "id": "23a8437f5cb1",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4474327785": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-12T18:57:54+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4474327785",
@@ -1733,7 +1734,7 @@
     },
     "sg:26000HW1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "26000HW1",
      "source": "sg",
@@ -1765,7 +1766,7 @@
    "listings": {
     "linkedin:4482062127": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-12T18:57:54+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4482062127",
@@ -1798,7 +1799,7 @@
    "listings": {
     "linkedin:4478472624": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-12T18:57:54+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4478472624",
@@ -1827,12 +1828,12 @@
    "id": "28dd1234df19",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4471748853": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-11T14:29:48+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4471748853",
      "source": "linkedin",
@@ -1907,11 +1908,11 @@
    "id": "2b2225db08f7",
    "is_core": false,
    "last_changed": "2026-11-03T15:08:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:greenhouse:okx:8176146003": {
      "first_seen": "2026-11-03T15:08:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8176146003",
      "source": "ats",
@@ -1986,11 +1987,11 @@
    "id": "2c1cb22fd2bb",
    "is_core": true,
    "last_changed": "2026-11-12T18:57:54+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4490330461": {
      "first_seen": "2026-11-12T18:57:54+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4490330461",
      "source": "linkedin",
@@ -2020,11 +2021,11 @@
    "id": "2d0f17491417",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:273155": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273155",
      "source": "hipo",
@@ -2052,11 +2053,11 @@
    "id": "2e0a9a1a4c46",
    "is_core": true,
    "last_changed": "2026-11-02T23:32:03+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:greenhouse:okx:8014747003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8014747003",
      "source": "ats",
@@ -2087,12 +2088,12 @@
    "id": "2fcad853e91b",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4459960244": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-07T10:07:24+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4459960244",
      "source": "linkedin",
@@ -2301,11 +2302,11 @@
    "id": "351f69cbe650",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272724": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "272724",
      "source": "hipo",
@@ -2370,11 +2371,11 @@
    "id": "3625a2e7992a",
    "is_core": false,
    "last_changed": "2026-11-11T14:29:48+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4296087214": {
      "first_seen": "2026-11-11T14:29:48+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4296087214",
      "source": "linkedin",
@@ -2532,12 +2533,12 @@
    "id": "39f8d5bcac8c",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4462307528": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-08T07:22:26+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4462307528",
      "source": "linkedin",
@@ -2577,11 +2578,11 @@
    "id": "3c12e6c27c58",
    "is_core": true,
    "last_changed": "2026-11-12T18:57:54+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4489270746": {
      "first_seen": "2026-11-12T18:57:54+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4489270746",
      "source": "linkedin",
@@ -2735,11 +2736,11 @@
    "id": "4254f156cbc7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:greenhouse:okx:7996990003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7996990003",
      "source": "ats",
@@ -2767,11 +2768,11 @@
    "id": "43217bce7c33",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:workable:b3367389-67f6-402d-b608-b61b3e3de018": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "workable:b3367389-67f6-402d-b608-b61b3e3de018",
      "source": "ats",
@@ -2837,12 +2838,12 @@
    "id": "443c33f0dddc",
    "is_core": true,
    "last_changed": "2026-11-10T01:33:06+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:273532": {
      "closed_at": "2026-11-08T23:45:13+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-08T23:45:13+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-13T16:23:40+00:00",
      "misses": 0,
      "native_id": "273532",
@@ -2854,7 +2855,7 @@
      "closed_at": "2026-11-08T23:45:13+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-08T23:45:13+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273533",
      "source": "hipo",
@@ -2940,11 +2941,11 @@
    "id": "45791bd7f455",
    "is_core": true,
    "last_changed": "2026-11-10T17:52:44+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4487806617": {
      "first_seen": "2026-11-10T17:52:44+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4487806617",
      "source": "linkedin",
@@ -3050,11 +3051,11 @@
    "id": "490bb9b82a2c",
    "is_core": true,
    "last_changed": "2026-11-12T18:57:54+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4488521528": {
      "first_seen": "2026-11-12T18:57:54+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4488521528",
      "source": "linkedin",
@@ -3255,7 +3256,7 @@
    "listings": {
     "linkedin:4484158230": {
      "first_seen": "2026-10-30T01:01:03+00:00",
-     "last_checked": "2026-11-12T18:57:54+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-04T22:41:09+00:00",
      "misses": 0,
      "native_id": "4484158230",
@@ -3340,11 +3341,11 @@
    "id": "5262c8cb32c7",
    "is_core": true,
    "last_changed": "2026-11-09T17:30:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4487135824": {
      "first_seen": "2026-11-09T17:30:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4487135824",
      "source": "linkedin",
@@ -3410,13 +3411,13 @@
    "id": "53fbf4296fb0",
    "is_core": true,
    "last_changed": "2026-11-10T01:33:06+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:273548": {
      "closed_at": "2026-11-09T06:26:00+00:00",
      "first_seen": "2026-10-30T07:07:43+00:00",
      "last_checked": "2026-11-09T06:26:00+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273548",
      "source": "hipo",
@@ -3488,7 +3489,7 @@
    "listings": {
     "linkedin:4486371816": {
      "first_seen": "2026-11-04T17:16:55+00:00",
-     "last_checked": "2026-11-12T18:57:54+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-11T06:18:30+00:00",
      "misses": 0,
      "native_id": "4486371816",
@@ -3517,7 +3518,7 @@
    "id": "56daa936b4de",
    "is_core": false,
    "last_changed": "2026-11-11T21:59:04+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "banks:bcr:1456515433": {
      "first_seen": "2026-11-11T21:59:04+00:00",
@@ -3530,7 +3531,7 @@
     },
     "hipo:273918": {
      "first_seen": "2026-11-12T11:07:15+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273918",
      "source": "hipo",
@@ -3560,11 +3561,11 @@
    "id": "57e289e50e3e",
    "is_core": true,
    "last_changed": "2026-11-06T17:32:20+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:273765": {
      "first_seen": "2026-11-06T17:32:20+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273765",
      "source": "hipo",
@@ -3592,11 +3593,11 @@
    "id": "589c369af377",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:greenhouse:okx:8016752003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8016752003",
      "source": "ats",
@@ -3732,11 +3733,11 @@
    "id": "5c1f34999bcd",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:workable:19ba0dc1-d6de-47cc-89b6-146326e8d5fa": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "workable:19ba0dc1-d6de-47cc-89b6-146326e8d5fa",
      "source": "ats",
@@ -3788,6 +3789,41 @@
    "status": "active",
    "title": "Regulatory and Start Up Specialist - Romania"
   },
+  "5d7e41637512": {
+   "category": "Adjacent",
+   "city": "Bucharest",
+   "company": "BCR",
+   "content_hash": "832d7a8bd256d2d6",
+   "description": "About our team\nBCR is the place where you learn, grow, and contribute to shaping the future of banking. We are recognized as a school of excellence in banking, a top employer in the banking sector, and a team open to learning, where every colleague feels seen and valued.\nWe are an organization that values people and supports them in having a life that brings fulfillment, security, and balance.\n\nJoin the IT Governance Department as one of our IT Compliance and Risk Management - Expert and help strengthen the IT risk and compliance framework. You will work closely with IT, business, risk, and audit stakeholders to ensure compliance with regulatory requirements and support effective management of technology risks.\n\nHow you will contribute\nAs an IT Compliance & IT Risk Management Expert, you will play a key role in strengthening our organization’s risk and compliance framework. Your key responsibilities will include:\n• monitor and report on the progress of: IT audit & IT operational risk measures, IT Risk Scenarios;\n• act as SPOC for external audits related to IT area;\n• conducting and performing various types of 3rd party and IT risk assessments;\n• contribute to the implementation of regulatory requirements such as DORA and EBA Guidelines;\n• use your knowledge of AI tools (prompt-based interactions) in daily activities;\n• foster strong relationship with business, IT and risk functions within the Bank as well as with IT external auditors.\n\nWhat will help you be successful\n• 3+ years of experience in ICT, ideally in the banking & insurance area or\n• 3+ years of experience in internal or external IT Audit and/or IT risk management;\n• CRISC / CISA certification is a plus;\n• Strong knowledge of: BNR legislation on IT and security risks; EBA / ECB guidelines on ICT and security risk management; DORA framework; IT risk related frameworks and standards (e.g. ISO/IEC);\n• Proven experience in conducting IT or 3rd party risk assessments;\n• Understanding of data privacy and business continuity principles;\n• Ability to meet deadlines and deliver under pressure;\n• Analytical skills, communication skills, able to function effectively when working independently or in a team, as required by the tasks assigned;\n• Knowledge of AI tools and ability to effectively use prompt-based interactions in daily activities;\n• English language – advanced level;\n• University degree: technical / economic field.\n\nSounds like you’d be a good fit? Check out what we provide for our people\n• Monthly budget for flexible benefits through the Benefit Online platform;\n• 13th month salary;\n• Performance-based bonus;\n• Banking facilities, benefits for private pension and discounts on insurance policies;\n• Gifts for special occasions;\n• Vacation allowance;\n• Private medical services for you and your family;\n• Hybrid and flexible work schedule;\n• 1 month / per year of remote work from abroad (UE);\n• Up to 27 vacation days depending on your professional experience;\n• Extra 7 days off per year if you have used up your vacation days;\n• One day off for your birthday;\n• Wellbeing, personal and professional development programs, and platforms that allow you to learn anytime, anywhere, and from any device;\n• Subscription to Bookster.\n\nTo find out how BCR processes the personal data required in the recruitment process, please visit https://www.bcr.ro/ro/cariere/informare-candidati.",
+   "extra": {
+    "employment_type": "Full-time",
+    "seniority": "Mid-Senior level"
+   },
+   "fingerprint": "bcr|it compliance risk management expert|bucharest",
+   "first_seen": "2026-11-13T22:38:15+00:00",
+   "id": "5d7e41637512",
+   "is_core": false,
+   "last_changed": "2026-11-13T22:38:15+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
+   "listings": {
+    "linkedin:4490753773": {
+     "first_seen": "2026-11-13T22:38:15+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
+     "misses": 0,
+     "native_id": "4490753773",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/it-compliance-risk-management-expert-at-bcr-4490753773"
+    }
+   },
+   "location": "Bucharest, Romania",
+   "posted": "2026-11-13",
+   "primary": "linkedin:4490753773",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "IT Compliance & Risk Management Expert"
+  },
   "5e6f8724f448": {
    "category": "Adjacent",
    "city": "Bucharest",
@@ -3803,11 +3839,11 @@
    "id": "5e6f8724f448",
    "is_core": false,
    "last_changed": "2026-11-07T10:07:24+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4488705049": {
      "first_seen": "2026-11-07T10:07:24+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4488705049",
      "source": "linkedin",
@@ -3917,11 +3953,11 @@
    "id": "60feefe478f0",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:workable:3299d4ef-e6dd-4151-8efd-d86a1f9ed6e3": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "workable:3299d4ef-e6dd-4151-8efd-d86a1f9ed6e3",
      "source": "ats",
@@ -3953,7 +3989,7 @@
    "listings": {
     "linkedin:4459942330": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-05T12:20:58+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-13T16:23:40+00:00",
      "misses": 0,
      "native_id": "4459942330",
@@ -3984,11 +4020,11 @@
    "id": "626f81ae4577",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272449": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "272449",
      "source": "hipo",
@@ -4067,11 +4103,11 @@
    "id": "63f50943ce66",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272723": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "272723",
      "source": "hipo",
@@ -4081,7 +4117,7 @@
     "linkedin:4406729092": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-10T09:50:42+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4406729092",
      "source": "linkedin",
@@ -4156,11 +4192,11 @@
    "id": "659d0e8cd590",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:270032": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "270032",
      "source": "hipo",
@@ -4228,11 +4264,11 @@
    "id": "66c4410ce2b9",
    "is_core": false,
    "last_changed": "2026-11-10T09:50:42+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4487466361": {
      "first_seen": "2026-11-10T09:50:42+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4487466361",
      "source": "linkedin",
@@ -4339,7 +4375,7 @@
    "id": "6b476bb4c057",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4484703398": {
      "closed_at": "2026-11-11T06:18:30+00:00",
@@ -4364,7 +4400,7 @@
     },
     "sg:26000MSG": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "26000MSG",
      "source": "sg",
@@ -4523,12 +4559,12 @@
    "id": "6e101688ce25",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4477046848": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-10T23:21:58+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4477046848",
      "source": "linkedin",
@@ -4774,11 +4810,11 @@
    "id": "755c1cf97ad3",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:273219": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273219",
      "source": "hipo",
@@ -4844,11 +4880,11 @@
    "id": "7659c2c69b91",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272394": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "272394",
      "source": "hipo",
@@ -4919,6 +4955,7 @@
    "listings": {
     "linkedin:4487310530": {
      "first_seen": "2026-11-06T17:32:20+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-13T16:23:40+00:00",
      "misses": 0,
      "native_id": "4487310530",
@@ -5013,11 +5050,11 @@
    "id": "7b8acbb70871",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272715": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "272715",
      "source": "hipo",
@@ -5027,7 +5064,7 @@
     "linkedin:4443147086": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-07T02:49:58+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4443147086",
      "source": "linkedin",
@@ -5091,12 +5128,12 @@
    "id": "7c2d2e8a572b",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4472627009": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-12T11:07:15+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4472627009",
      "source": "linkedin",
@@ -5295,11 +5332,11 @@
    "id": "810b3a58c993",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:workable:1d6caa00-9865-420f-a435-c2920e203166": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "workable:1d6caa00-9865-420f-a435-c2920e203166",
      "source": "ats",
@@ -5327,11 +5364,11 @@
    "id": "8146acb1ad14",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:greenhouse:okx:7984392003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7984392003",
      "source": "ats",
@@ -5441,11 +5478,11 @@
    "id": "81a6cbdbd763",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:workable:ae54ff75-321f-435b-bf1b-532d49d8ccfc": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "workable:ae54ff75-321f-435b-bf1b-532d49d8ccfc",
      "source": "ats",
@@ -5480,7 +5517,7 @@
    "listings": {
     "linkedin:4484539788": {
      "first_seen": "2026-10-30T01:01:03+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-05T12:20:58+00:00",
      "misses": 0,
      "native_id": "4484539788",
@@ -5588,7 +5625,7 @@
    "listings": {
     "linkedin:4484659918": {
      "first_seen": "2026-11-03T15:08:53+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-09T17:30:53+00:00",
      "misses": 0,
      "native_id": "4484659918",
@@ -5651,12 +5688,12 @@
    "id": "854ea1458586",
    "is_core": false,
    "last_changed": "2026-11-13T16:23:40+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4480506306": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-07T02:49:58+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4480506306",
      "source": "linkedin",
@@ -5765,17 +5802,18 @@
    "first_seen": "2026-11-05T12:20:58+00:00",
    "id": "872306d84f49",
    "is_core": true,
-   "last_changed": "2026-11-05T12:20:58+00:00",
+   "last_changed": "2026-11-13T22:38:15+00:00",
    "last_seen": "2026-11-12T03:00:57+00:00",
    "listings": {
     "linkedin:4486577421": {
+     "closed_at": "2026-11-13T22:38:15+00:00",
      "first_seen": "2026-11-05T12:20:58+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-12T03:00:57+00:00",
      "misses": 0,
      "native_id": "4486577421",
      "source": "linkedin",
-     "status": "open",
+     "status": "closed",
      "url": "https://ro.linkedin.com/jobs/view/customer-onboarding-specialist-at-jobgether-4486577421"
     }
    },
@@ -5784,7 +5822,7 @@
    "primary": "linkedin:4486577421",
    "remote": false,
    "remote_ro": false,
-   "status": "active",
+   "status": "inactive",
    "title": "Customer Onboarding Specialist"
   },
   "8765bff8553a": {
@@ -5806,7 +5844,7 @@
    "listings": {
     "linkedin:4489493359": {
      "first_seen": "2026-11-10T17:52:44+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-10T23:21:58+00:00",
      "misses": 0,
      "native_id": "4489493359",
@@ -5838,11 +5876,11 @@
    "id": "89db4dc60bc2",
    "is_core": true,
    "last_changed": "2026-11-12T11:07:15+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4489088870": {
      "first_seen": "2026-11-12T11:07:15+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4489088870",
      "source": "linkedin",
@@ -5851,7 +5889,7 @@
     },
     "linkedin:4490302736": {
      "first_seen": "2026-11-12T11:07:15+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4490302736",
      "source": "linkedin",
@@ -6040,7 +6078,7 @@
    "listings": {
     "linkedin:4479256808": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-02T15:52:29+00:00",
      "misses": 0,
      "native_id": "4479256808",
@@ -6184,11 +6222,11 @@
    "id": "90a4895aafea",
    "is_core": false,
    "last_changed": "2026-11-10T23:21:58+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4489632734": {
      "first_seen": "2026-11-10T23:21:58+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4489632734",
      "source": "linkedin",
@@ -6402,11 +6440,11 @@
    "id": "94510c00ff9c",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:lever:certik:0b497f25-210b-408e-b2c3-e005c841d867": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "lever:certik:0b497f25-210b-408e-b2c3-e005c841d867",
      "source": "ats",
@@ -6470,11 +6508,11 @@
    "id": "94ba7ae3690e",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:greenhouse:emag:5016243101": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:emag:5016243101",
      "source": "ats",
@@ -6483,7 +6521,7 @@
     },
     "linkedin:4483713822": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-02T15:52:29+00:00",
      "misses": 0,
      "native_id": "4483713822",
@@ -6515,21 +6553,22 @@
    "id": "94c7af113a60",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4476907396": {
+     "closed_at": "2026-11-13T22:38:15+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4476907396",
      "source": "linkedin",
-     "status": "open",
+     "status": "closed",
      "url": "https://ro.linkedin.com/jobs/view/tax-compliance-specialist-at-hipo-ro-4476907396"
     },
     "linkedin:4489637425": {
      "first_seen": "2026-11-10T23:21:58+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4489637425",
      "source": "linkedin",
@@ -6560,11 +6599,11 @@
    "id": "965dcc134efa",
    "is_core": true,
    "last_changed": "2026-11-09T17:30:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4487926014": {
      "first_seen": "2026-11-09T17:30:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4487926014",
      "source": "linkedin",
@@ -6708,7 +6747,7 @@
    "listings": {
     "linkedin:4468161298": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-03T21:01:58+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-13T16:23:40+00:00",
      "misses": 0,
      "native_id": "4468161298",
@@ -6812,11 +6851,11 @@
    "id": "9b0007a746af",
    "is_core": false,
    "last_changed": "2026-11-10T23:21:58+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4489639879": {
      "first_seen": "2026-11-10T23:21:58+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4489639879",
      "source": "linkedin",
@@ -6994,11 +7033,11 @@
    "id": "a84c0a2630cc",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:greenhouse:okx:8016694003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8016694003",
      "source": "ats",
@@ -7028,11 +7067,11 @@
    "id": "a95e1ba0a9b3",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:271415": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "271415",
      "source": "hipo",
@@ -7060,11 +7099,11 @@
    "id": "aa0a8413f236",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:greenhouse:okx:7998993003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7998993003",
      "source": "ats",
@@ -7135,6 +7174,7 @@
    "listings": {
     "linkedin:4488406219": {
      "first_seen": "2026-11-07T02:49:58+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-13T16:23:40+00:00",
      "misses": 0,
      "native_id": "4488406219",
@@ -7201,11 +7241,11 @@
    "id": "ad455b50c031",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272945": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "272945",
      "source": "hipo",
@@ -7233,12 +7273,12 @@
    "id": "ad9200b31372",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4479419909": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-11T06:18:30+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4479419909",
      "source": "linkedin",
@@ -7247,7 +7287,7 @@
     },
     "linkedin:4484982553": {
      "first_seen": "2026-10-29T21:09:22+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-05T12:20:58+00:00",
      "misses": 0,
      "native_id": "4484982553",
@@ -7350,11 +7390,11 @@
    "id": "b145423aa873",
    "is_core": true,
    "last_changed": "2026-10-31T05:41:28+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:270110": {
      "first_seen": "2026-10-31T05:41:28+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "270110",
      "source": "hipo",
@@ -7374,7 +7414,7 @@
     },
     "linkedin:4487119224": {
      "first_seen": "2026-11-08T23:45:13+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4487119224",
      "source": "linkedin",
@@ -7479,7 +7519,7 @@
    "listings": {
     "linkedin:4476575419": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-04T09:13:00+00:00",
      "misses": 0,
      "native_id": "4476575419",
@@ -7544,11 +7584,11 @@
    "id": "b7c15d223cb8",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:teamtailor:worksterjobs:6673103": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "teamtailor:worksterjobs:6673103",
      "source": "ats",
@@ -7623,11 +7663,11 @@
    "id": "b8f593cd46df",
    "is_core": true,
    "last_changed": "2026-11-08T19:42:59+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4396378842": {
      "first_seen": "2026-11-08T19:42:59+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4396378842",
      "source": "linkedin",
@@ -7655,11 +7695,11 @@
    "id": "ba0e44242fe9",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:teamtailor:worksterjobs:6673100": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "teamtailor:worksterjobs:6673100",
      "source": "ats",
@@ -7756,11 +7796,11 @@
    "id": "bad4982dd52e",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:greenhouse:okx:8012599003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8012599003",
      "source": "ats",
@@ -7941,11 +7981,11 @@
    "id": "bebdc305ab4d",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:271240": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "271240",
      "source": "hipo",
@@ -7980,7 +8020,7 @@
    "listings": {
     "linkedin:4485122374": {
      "first_seen": "2026-10-30T23:47:46+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-06T17:32:20+00:00",
      "misses": 0,
      "native_id": "4485122374",
@@ -8125,11 +8165,11 @@
    "id": "c66d1785f9be",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272705": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "272705",
      "source": "hipo",
@@ -8139,7 +8179,7 @@
     "linkedin:4469777681": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-08T23:45:13+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4469777681",
      "source": "linkedin",
@@ -8170,11 +8210,11 @@
    "id": "c7517fb8dfca",
    "is_core": true,
    "last_changed": "2026-11-07T20:55:51+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4470500416": {
      "first_seen": "2026-11-07T20:55:51+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4470500416",
      "source": "linkedin",
@@ -8205,11 +8245,11 @@
    "id": "c7b86bfa30a4",
    "is_core": true,
    "last_changed": "2026-11-13T16:23:40+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4490727355": {
      "first_seen": "2026-11-13T16:23:40+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4490727355",
      "source": "linkedin",
@@ -8240,11 +8280,11 @@
    "id": "c7c3a5ee89b3",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:lever:coinspaid:92cdbe90-4d0d-4425-825b-8a48da6e04bc": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "lever:coinspaid:92cdbe90-4d0d-4425-825b-8a48da6e04bc",
      "source": "ats",
@@ -8397,7 +8437,7 @@
    "listings": {
     "linkedin:4484470288": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-04T09:13:00+00:00",
      "misses": 0,
      "native_id": "4484470288",
@@ -8429,11 +8469,11 @@
    "id": "cd11012a48d7",
    "is_core": true,
    "last_changed": "2026-11-10T17:52:44+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4489471774": {
      "first_seen": "2026-11-10T17:52:44+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4489471774",
      "source": "linkedin",
@@ -8514,7 +8554,7 @@
    "listings": {
     "linkedin:4484454491": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-04T09:13:00+00:00",
      "misses": 0,
      "native_id": "4484454491",
@@ -8543,11 +8583,11 @@
    "id": "d1ab3fb2cf1a",
    "is_core": true,
    "last_changed": "2026-11-13T07:58:08+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:greenhouse:okx:8203038003": {
      "first_seen": "2026-11-13T07:58:08+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8203038003",
      "source": "ats",
@@ -8672,7 +8712,7 @@
     },
     "linkedin:4483088011": {
      "first_seen": "2026-10-30T07:07:43+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-05T12:20:58+00:00",
      "misses": 0,
      "native_id": "4483088011",
@@ -8704,10 +8744,11 @@
    "id": "d4a662e7cdcb",
    "is_core": false,
    "last_changed": "2026-11-12T18:57:54+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4490378389": {
      "first_seen": "2026-11-12T18:57:54+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-13T16:23:40+00:00",
      "misses": 0,
      "native_id": "4490378389",
@@ -8715,9 +8756,18 @@
      "status": "open",
      "url": "https://ro.linkedin.com/jobs/view/regulatory-reporting-analyst-at-societe-generale-global-solution-centre-4490378389"
     },
+    "linkedin:4490745896": {
+     "first_seen": "2026-11-13T22:38:15+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
+     "misses": 0,
+     "native_id": "4490745896",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/regulatory-reporting-analyst-at-societe-generale-global-solution-centre-4490745896"
+    },
     "sg:2600097J": {
      "first_seen": "2026-11-12T18:57:54+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "2600097J",
      "source": "sg",
@@ -8726,7 +8776,7 @@
     },
     "sg:26000NPL": {
      "first_seen": "2026-11-13T16:23:40+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "26000NPL",
      "source": "sg",
@@ -8756,11 +8806,11 @@
    "id": "d6ee78455204",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272272": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "272272",
      "source": "hipo",
@@ -8791,7 +8841,7 @@
    "id": "d768a95586e2",
    "is_core": true,
    "last_changed": "2026-11-07T16:31:26+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4487605652": {
      "closed_at": "2026-11-13T16:23:40+00:00",
@@ -8806,7 +8856,7 @@
     },
     "linkedin:4489556935": {
      "first_seen": "2026-11-13T16:23:40+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4489556935",
      "source": "linkedin",
@@ -8841,7 +8891,7 @@
    "listings": {
     "linkedin:4483137601": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-06T09:26:41+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-13T16:23:40+00:00",
      "misses": 0,
      "native_id": "4483137601",
@@ -8873,11 +8923,11 @@
    "id": "d807ff3c1307",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:lever:certik:195d8b69-830c-44f5-b8d3-61acce919766": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "lever:certik:195d8b69-830c-44f5-b8d3-61acce919766",
      "source": "ats",
@@ -8905,7 +8955,7 @@
    "id": "d8ae12623511",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4474341287": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -8930,7 +8980,7 @@
     },
     "sg:26000KCF": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "26000KCF",
      "source": "sg",
@@ -9087,7 +9137,7 @@
    "listings": {
     "ai_sweep:dc1dd1d38cca": {
      "first_seen": "2026-11-10T13:40:38+00:00",
-     "last_checked": "2026-11-12T18:57:54+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-10T13:40:38+00:00",
      "misses": 0,
      "native_id": "dc1dd1d38cca",
@@ -9180,12 +9230,12 @@
    "id": "dc5fb64830dd",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4471999949": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-11T21:59:04+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4471999949",
      "source": "linkedin",
@@ -9251,11 +9301,11 @@
    "id": "df00e5b4c6f7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:272399": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "272399",
      "source": "hipo",
@@ -9442,6 +9492,41 @@
    "status": "active",
    "title": "Regulatory Affairs Consultant - CMC vax/bio (home or office based)"
   },
+  "e0e47261868a": {
+   "category": "Compliance",
+   "city": "Bucharest",
+   "company": "Scatec ASA",
+   "content_hash": "abd7572866637ed5",
+   "description": "Senior Compliance Officer\nBucharest\nAt Scatec, you get to work on something that matters. We develop, build, own, and operate utility scale renewable energy solutions that accelerate access to reliable and affordable clean energy. As part of a global and agile organization, you will work with skilled colleagues across functions and geographies, take real ownership, and contribute to a company driven by the vision of improving our future.\n\nAt the heart of everything we do is our belief that we bring the energy - the energy for change, connection, and growth. It shapes how we collaborate, innovate, and create impact together.\n\nIf you are looking for a role where your contribution is visible, your development matters, and your work supports a more sustainable future, Scatec may be the right place for you.\n\nWhy this role matters\nAs Senior Compliance Officer, you will help ensure that Scatec’s growth in Romania is built on integrity, transparency and responsible business practices. You will provide trusted local guidance across projects, investments and partnerships, helping teams identify and manage compliance risks early. Your contribution will protect our people, reputation and long-term ability to deliver renewable-energy projects that improve our future.\n\nWhat you’ll be doing:\n• Review and negotiate compliance provisions in contracts and other relevant agreements. \n• Support the monitoring of compliance requirements applicable to contractors, subcontractors, and other relevant third parties, and follow up on identified compliance gaps and mitigation actions. \n• Conduct/Coordinate Compliance Due Diligence in M&A transactions and other relevant investment opportunities. \n• Conduct compliance risk assessments for local projects and operations. \n• Conduct and coordinate Integrity Due Diligence related to projects, business partners, and other relevant third parties. \n• Monitor the implementation and effectiveness of the Compliance Program locally and support global Compliance monitoring activities. \n• Act as the local point of contact for compliance matters in Romania. \n• Represent Compliance in relevant local project and business meetings. \n• Conduct or support internal investigations, as required. \n• Contribute to the review and update of Compliance policies and procedures, when required. \n• Conduct local compliance training and communication activities. \n• Prepare and deliver compliance presentations related to projects and local operations. \n• Support Social Investment activities, ensuring that required Integrity Due Diligence is conducted and appropriate compliance clauses are implemented. \n\nWhat you bring\n• Bachelor’s or Master’s degree in Law, Business Administration, Finance, International Relations or a related field. \n• Relevant experience in compliance, legal, risk, internal audit, investigations or integrity due diligence, ideally within an international, regulated or project-based environment. \n• Strong understanding of anti-bribery and corruption, third-party risk management, sanctions, conflicts of interest and compliance-program principles. \n• Experience reviewing contractual compliance provisions and conducting risk assessments and due diligence processes. \n• Ability to handle sensitive matters with sound judgement, discretion, independence and a pragmatic, solution-oriented mindset. \n• Strong stakeholder-management and communication skills, with the confidence to advise colleagues at all levels of the organisation. \n• Ability to deliver clear training, presentations and compliance communications to varied audiences. \n• Fluent Romanian and English, both written and spoken. \n• Experience in renewables, energy, infrastructure, construction or M&A would be an advantage. \n\nWhat you’ll gain:\n• Professional growth through ownership, exposure, and meaningful contribution from day one \n• Hands-on experience in a role where the challenge is energizing, fast-moving, meaningful, and built on learning through doing. \n• Broader commercial understanding through close collaboration with cross-functional teams \n• Stronger financial, performance, and decision-support skills in a real-world context \n\nWhat it’s like to work at Scatec\nAt Scatec, we combine purpose with performance. We value responsibility, clarity, and collaboration and we encourage people to challenge existing ways of working, contribute ideas, and keep developing. You can expect an environment where people work together across disciplines and geographies, where good performance matters, and where you are trusted to take ownership without unnecessary hierarchy.\n\nIf you are motivated by analysis with purpose, commercial insight, and real operational impact, this could be a strong next step in your career.\nWhat we offer\nAt Scatec, you will be part of a company with a clear and ambitious purpose, working on renewable energy solutions that make a lasting difference. You will gain responsibility early, learn from experienced colleagues, and build your capabilities in a business that offers global exposure, strong development opportunities, and meaningful work in the energy transition.\n\nScatec is an equal opportunity employer. All qualified applicants will receive consideration for employment based on merit, competence, and business needs.\n\nWe review applications on an ongoing basis.",
+   "extra": {
+    "employment_type": "Full-time",
+    "seniority": "Not Applicable"
+   },
+   "fingerprint": "scatec asa|senior compliance officer|bucharest",
+   "first_seen": "2026-11-13T22:38:15+00:00",
+   "id": "e0e47261868a",
+   "is_core": true,
+   "last_changed": "2026-11-13T22:38:15+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
+   "listings": {
+    "linkedin:4490755742": {
+     "first_seen": "2026-11-13T22:38:15+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
+     "misses": 0,
+     "native_id": "4490755742",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/senior-compliance-officer-at-scatec-asa-4490755742"
+    }
+   },
+   "location": "Bucharest, Bucharest, Romania",
+   "posted": "2026-11-13",
+   "primary": "linkedin:4490755742",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Senior Compliance Officer"
+  },
   "e172e48ca194": {
    "category": "AML / KYC / FinCrime",
    "city": "Bucharest",
@@ -9523,12 +9608,12 @@
    "id": "e5c60aec9b76",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4482745131": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-12T03:00:57+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4482745131",
      "source": "linkedin",
@@ -9605,11 +9690,11 @@
    "id": "e7dc33440868",
    "is_core": true,
    "last_changed": "2026-11-10T17:52:44+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4470275337": {
      "first_seen": "2026-11-10T17:52:44+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4470275337",
      "source": "linkedin",
@@ -9641,7 +9726,7 @@
    "id": "ea6314d0bf12",
    "is_core": true,
    "last_changed": "2026-11-05T20:41:51+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4488014125": {
      "first_seen": "2026-11-06T09:26:41+00:00",
@@ -9655,7 +9740,7 @@
     },
     "sg:26000K2B": {
      "first_seen": "2026-11-05T20:41:51+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "26000K2B",
      "source": "sg",
@@ -9721,7 +9806,7 @@
    "id": "ec1adb9b6c26",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:smartrecruiters:Aumovio:744000138166004": {
      "closed_at": "2026-11-09T17:30:53+00:00",
@@ -9736,7 +9821,7 @@
     },
     "hipo:269979": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "269979",
      "source": "hipo",
@@ -9767,11 +9852,11 @@
    "id": "ed12128b705b",
    "is_core": false,
    "last_changed": "2026-11-10T09:50:42+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4480240885": {
      "first_seen": "2026-11-10T09:50:42+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4480240885",
      "source": "linkedin",
@@ -9872,11 +9957,11 @@
    "id": "f10f81229447",
    "is_core": false,
    "last_changed": "2026-11-13T16:23:40+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4453424785": {
      "first_seen": "2026-11-13T16:23:40+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4453424785",
      "source": "linkedin",
@@ -9943,11 +10028,11 @@
    "id": "f22ea08e0c52",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:lever:certik:f507fc48-77e7-4b1b-9a88-11e2b20fe21d": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "lever:certik:f507fc48-77e7-4b1b-9a88-11e2b20fe21d",
      "source": "ats",
@@ -10121,11 +10206,11 @@
    "id": "f6138a47738e",
    "is_core": true,
    "last_changed": "2026-11-12T18:57:54+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:273924": {
      "first_seen": "2026-11-12T18:57:54+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273924",
      "source": "hipo",
@@ -10229,11 +10314,11 @@
    "id": "fa069f1bc4dd",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4484990875": {
      "first_seen": "2026-10-29T21:09:22+00:00",
-     "last_checked": "2026-11-12T11:07:15+00:00",
+     "last_checked": "2026-11-13T22:38:15+00:00",
      "last_seen": "2026-11-05T12:20:58+00:00",
      "misses": 0,
      "native_id": "4484990875",
@@ -10243,7 +10328,7 @@
     },
     "sg:26000MIS": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "26000MIS",
      "source": "sg",
@@ -10271,11 +10356,11 @@
    "id": "fa8e40c299b5",
    "is_core": false,
    "last_changed": "2026-11-10T17:52:44+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:workable:517ddc9f-6f0c-41bb-ba11-e27ed64a4eaa": {
      "first_seen": "2026-11-10T17:52:44+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "workable:517ddc9f-6f0c-41bb-ba11-e27ed64a4eaa",
      "source": "ats",
@@ -10348,12 +10433,12 @@
    "id": "fbc4508499d7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "linkedin:4465681686": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-02T15:52:29+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "4465681686",
      "source": "linkedin",
@@ -10381,11 +10466,11 @@
    "id": "fbc4fc0e29b3",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "ats:workable:a3b14af4-3bce-40ea-8428-cd2da77960e3": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "workable:a3b14af4-3bce-40ea-8428-cd2da77960e3",
      "source": "ats",
@@ -10499,11 +10584,11 @@
    "id": "fd6aef50346d",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:273461": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "273461",
      "source": "hipo",
@@ -10533,11 +10618,11 @@
    "id": "feef73ce2f43",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-13T16:23:40+00:00",
+   "last_seen": "2026-11-13T22:38:15+00:00",
    "listings": {
     "hipo:269980": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-13T16:23:40+00:00",
+     "last_seen": "2026-11-13T22:38:15+00:00",
      "misses": 0,
      "native_id": "269980",
      "source": "hipo",
@@ -10557,9 +10642,9 @@
  "meta": {
   "ai_baseline_done": true,
   "baseline_done": true,
-  "last_run": "2026-11-13T16:23:40+00:00",
+  "last_run": "2026-11-13T22:38:15+00:00",
   "pending_alerts": [],
-  "runs": 74
+  "runs": 75
  },
  "sources": {
   "ai_sweep": {
@@ -10571,24 +10656,24 @@
   },
   "ats": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-13T16:23:40+00:00",
-   "last_count": 491,
+   "last_attempt": "2026-11-13T22:38:15+00:00",
+   "last_count": 490,
    "last_error": null,
-   "last_ok": "2026-11-13T16:23:40+00:00"
+   "last_ok": "2026-11-13T22:38:15+00:00"
   },
   "banks": {
-   "fail_streak": 0,
-   "last_attempt": "2026-11-13T16:23:40+00:00",
+   "fail_streak": 1,
+   "last_attempt": "2026-11-13T22:38:15+00:00",
    "last_count": 296,
-   "last_error": null,
+   "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://erstegroup-careers.com/bcr/search/?q=&startrow=0&locale=ro_RO'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
    "last_ok": "2026-11-13T16:23:40+00:00"
   },
   "hipo": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-13T16:23:40+00:00",
-   "last_count": 435,
+   "last_attempt": "2026-11-13T22:38:15+00:00",
+   "last_count": 406,
    "last_error": null,
-   "last_ok": "2026-11-13T16:23:40+00:00"
+   "last_ok": "2026-11-13T22:38:15+00:00"
   },
   "juridice": {
    "fail_streak": 1,
@@ -10597,30 +10682,30 @@
   },
   "linkedin": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-13T16:23:40+00:00",
+   "last_attempt": "2026-11-13T22:38:15+00:00",
    "last_count": 224,
    "last_error": null,
-   "last_ok": "2026-11-13T16:23:40+00:00"
+   "last_ok": "2026-11-13T22:38:15+00:00"
   },
   "posturi_gov": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-13T16:23:40+00:00",
+   "last_attempt": "2026-11-13T22:38:15+00:00",
    "last_count": 0,
    "last_error": null,
-   "last_ok": "2026-11-13T16:23:40+00:00"
+   "last_ok": "2026-11-13T22:38:15+00:00"
   },
   "sg": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-13T16:23:40+00:00",
+   "last_attempt": "2026-11-13T22:38:15+00:00",
    "last_count": 73,
    "last_error": null,
-   "last_ok": "2026-11-13T16:23:40+00:00"
+   "last_ok": "2026-11-13T22:38:15+00:00"
   },
   "workday": {
-   "fail_streak": 0,
-   "last_attempt": "2026-11-13T16:23:40+00:00",
+   "fail_streak": 1,
+   "last_attempt": "2026-11-13T22:38:15+00:00",
    "last_count": 864,
-   "last_error": null,
+   "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
    "last_ok": "2026-11-13T16:23:40+00:00"
   }
  }
