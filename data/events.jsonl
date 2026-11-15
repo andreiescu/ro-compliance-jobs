@@ -337,3 +337,4 @@
 {"ts": "2026-11-14T10:29:32+00:00", "job_id": "d8a263d472a5", "type": "NEW", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-14T10:29:32+00:00", "job_id": "fd6aef50346d", "type": "UPDATED", "diff": {"title": ["IT Risk & Compliance Security Specialist (Cybersecurity & IT Infrastructure Team) New", "IT Risk & Compliance Security Specialist (Cybersecurity & IT Infrastructure Team)"]}, "notified": false, "silent": false}
 {"ts": "2026-11-14T17:07:39+00:00", "job_id": "475d899948f1", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-15T01:56:16+00:00", "job_id": "320b319e0e5b", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
