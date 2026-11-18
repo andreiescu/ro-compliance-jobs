@@ -359,3 +359,9 @@
 {"ts": "2026-11-17T22:24:40+00:00", "job_id": "45791bd7f455", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-17T22:24:40+00:00", "job_id": "8765bff8553a", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-17T22:24:40+00:00", "job_id": "d7192c6d6d42", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-18T04:21:31+00:00", "job_id": "b859d1a78d3e", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-18T04:21:31+00:00", "job_id": "1430bb5b831b", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-18T04:21:31+00:00", "job_id": "56daa936b4de", "type": "UPDATED", "diff": {"location": ["Brasov, Romania", "Bucuresti, Romania"]}, "notified": false, "silent": false}
+{"ts": "2026-11-18T04:21:31+00:00", "job_id": "48be97025229", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-18T04:21:31+00:00", "job_id": "5c3bc39f161b", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-18T04:21:31+00:00", "job_id": "77bbe365990d", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
