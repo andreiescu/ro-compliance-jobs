@@ -11468,17 +11468,17 @@
  "meta": {
   "ai_baseline_done": true,
   "baseline_done": true,
-  "last_run": "2026-11-19T13:04:20+00:00",
+  "last_run": "2026-11-19T14:35:54+00:00",
   "pending_alerts": [],
-  "runs": 97
+  "runs": 98
  },
  "sources": {
   "ai_sweep": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-16T13:53:19+00:00",
+   "last_attempt": "2026-11-19T14:35:54+00:00",
    "last_count": 0,
    "last_error": null,
-   "last_ok": "2026-11-16T13:53:19+00:00"
+   "last_ok": "2026-11-19T14:35:54+00:00"
   },
   "ats": {
    "fail_streak": 0,
