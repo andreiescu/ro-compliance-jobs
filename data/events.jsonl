@@ -375,3 +375,4 @@
 {"ts": "2026-11-18T13:59:35+00:00", "job_id": "bebdc305ab4d", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-18T21:59:47+00:00", "job_id": "caf0c301fdc4", "type": "UPDATED", "diff": {"title": ["Payment & Fraud Data Analyst", "BI Payment & Fraud Analyst"]}, "notified": false, "silent": false}
 {"ts": "2026-11-18T21:59:47+00:00", "job_id": "788537fa51b5", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-19T03:28:16+00:00", "job_id": "947dd1c6a1e0", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
