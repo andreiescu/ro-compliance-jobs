@@ -376,3 +376,15 @@
 {"ts": "2026-11-18T21:59:47+00:00", "job_id": "caf0c301fdc4", "type": "UPDATED", "diff": {"title": ["Payment & Fraud Data Analyst", "BI Payment & Fraud Analyst"]}, "notified": false, "silent": false}
 {"ts": "2026-11-18T21:59:47+00:00", "job_id": "788537fa51b5", "type": "NEW", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-19T03:28:16+00:00", "job_id": "947dd1c6a1e0", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "6328bc9f637c", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "8209f37bfb28", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "82e1d61dd4a1", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "aeafab887a8e", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "bfd0c8d8c823", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "bb981c96d167", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "83f5c34b725e", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "7b12266a9dba", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "e0bd0f6c0aa3", "type": "UPDATED", "diff": {"title": ["Regulatory Affairs Consultant - CMC vax/bio (home or office based)", "Regulatory Affairs Consultant - CMC Biologics/Vaccines (Home or office based)"], "description": "changed"}, "notified": false, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "631e493e3efd", "type": "UPDATED", "diff": {"description": "changed"}, "notified": false, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "d8f26790201c", "type": "UPDATED", "diff": {"title": ["Senior Regulatory Affairs Manager - CMC bio/vax (various European locations - home or office based)", "Senior Regulatory Affairs Consultant - CMC bio/vax (various European locations - home or office based)"], "description": "changed"}, "notified": false, "silent": false}
+{"ts": "2026-11-19T21:35:58+00:00", "job_id": "cd11012a48d7", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
