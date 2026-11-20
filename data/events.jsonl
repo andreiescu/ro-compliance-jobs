@@ -388,3 +388,5 @@
 {"ts": "2026-11-19T21:35:58+00:00", "job_id": "631e493e3efd", "type": "UPDATED", "diff": {"description": "changed"}, "notified": false, "silent": false}
 {"ts": "2026-11-19T21:35:58+00:00", "job_id": "d8f26790201c", "type": "UPDATED", "diff": {"title": ["Senior Regulatory Affairs Manager - CMC bio/vax (various European locations - home or office based)", "Senior Regulatory Affairs Consultant - CMC bio/vax (various European locations - home or office based)"], "description": "changed"}, "notified": false, "silent": false}
 {"ts": "2026-11-19T21:35:58+00:00", "job_id": "cd11012a48d7", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-20T20:17:31+00:00", "job_id": "fd4b8ea8113a", "type": "REACTIVATED", "diff": {"via": "hipo"}, "notified": true, "silent": false}
+{"ts": "2026-11-20T20:17:31+00:00", "job_id": "c7c3a5ee89b3", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
