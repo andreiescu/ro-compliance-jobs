@@ -393,3 +393,10 @@
 {"ts": "2026-11-21T09:48:35+00:00", "job_id": "755c1cf97ad3", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-21T17:31:33+00:00", "job_id": "b244aae399f6", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-22T19:40:24+00:00", "job_id": "713cbd3f83ce", "type": "REACTIVATED", "diff": {"via": "linkedin"}, "notified": true, "silent": false}
+{"ts": "2026-11-23T21:26:01+00:00", "job_id": "304b3bd52ff4", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-23T21:26:01+00:00", "job_id": "9d75fe1fb888", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-23T21:26:01+00:00", "job_id": "1dfdf6b92f93", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-23T21:26:01+00:00", "job_id": "dbca63257e1c", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-23T21:26:01+00:00", "job_id": "1536c5bb16cd", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-23T21:26:01+00:00", "job_id": "1f722a7fa4ed", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-23T21:26:01+00:00", "job_id": "8e48f481b120", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
