@@ -51,11 +51,11 @@
    "id": "011696fdc193",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:273376": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "273376",
      "source": "hipo",
@@ -83,11 +83,11 @@
    "id": "02a00c1ddc8b",
    "is_core": true,
    "last_changed": "2026-11-06T17:32:20+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "banks:bcr:1455265533": {
      "first_seen": "2026-11-06T17:32:20+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "bcr:1455265533",
      "source": "banks",
@@ -96,7 +96,7 @@
     },
     "hipo:273798": {
      "first_seen": "2026-11-07T10:07:24+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "273798",
      "source": "hipo",
@@ -127,11 +127,11 @@
    "id": "02fd265958f7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:272759": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "272759",
      "source": "hipo",
@@ -170,7 +170,7 @@
     },
     "workday:ing:REQ-10122512": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10122512",
      "source": "workday",
@@ -369,11 +369,11 @@
    "id": "067d29ea7556",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:parexel:R0000046069": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "parexel:R0000046069",
      "source": "workday",
@@ -509,11 +509,11 @@
    "id": "0976483708dc",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:272264": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "272264",
      "source": "hipo",
@@ -522,7 +522,7 @@
     },
     "workday:ing:REQ-10122263": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10122263",
      "source": "workday",
@@ -622,11 +622,11 @@
    "id": "0e249de014bc",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:271855": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "271855",
      "source": "hipo",
@@ -635,7 +635,7 @@
     },
     "hipo:273394": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "273394",
      "source": "hipo",
@@ -654,7 +654,7 @@
     },
     "workday:ing:REQ-10121570": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10121570",
      "source": "workday",
@@ -663,7 +663,7 @@
     },
     "workday:ing:REQ-10123669": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10123669",
      "source": "workday",
@@ -778,11 +778,11 @@
    "id": "11dea86d0f11",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:genpact:JR10021487": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "genpact:JR10021487",
      "source": "workday",
@@ -791,7 +791,7 @@
     },
     "workday:genpact:JR10034785": {
      "first_seen": "2026-11-18T13:59:35+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "genpact:JR10034785",
      "source": "workday",
@@ -821,11 +821,11 @@
    "id": "1273b4fe0de9",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "banks:unicredit:117156": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "unicredit:117156",
      "source": "banks",
@@ -903,11 +903,11 @@
    "id": "14a2ca92f5fa",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:thermofisher:R-01351430": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "thermofisher:R-01351430",
      "source": "workday",
@@ -1278,13 +1278,13 @@
    "id": "1b187b2d6488",
    "is_core": false,
    "last_changed": "2026-11-13T16:23:40+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:thermofisher:R-01350715": {
      "closed_at": "2026-11-10T09:50:42+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-10T09:50:42+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "thermofisher:R-01350715",
      "source": "workday",
@@ -1299,6 +1299,38 @@
    "remote_ro": true,
    "status": "active",
    "title": "Principal Regulatory Affairs Specialist (Global Clinical Trial Applications)"
+  },
+  "1b6ae446201c": {
+   "category": "AML / KYC / FinCrime",
+   "city": "Bucharest",
+   "company": "ACCA Careers",
+   "content_hash": "c9b4a336aaea165f",
+   "description": "",
+   "extra": {},
+   "fingerprint": "acca careers|senior financial due diligence|bucharest",
+   "first_seen": "2026-11-25T12:57:46+00:00",
+   "id": "1b6ae446201c",
+   "is_core": true,
+   "last_changed": "2026-11-25T12:57:46+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
+   "listings": {
+    "linkedin:4494344225": {
+     "first_seen": "2026-11-25T12:57:46+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
+     "misses": 0,
+     "native_id": "4494344225",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/senior-financial-due-diligence-at-acca-careers-4494344225"
+    }
+   },
+   "location": "Bucharest, Bucharest, Romania",
+   "posted": "2026-11-24",
+   "primary": "linkedin:4494344225",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Senior Financial Due Diligence"
   },
   "1b89ad19ceca": {
    "category": "Adjacent",
@@ -1394,11 +1426,11 @@
    "id": "1dfdf6b92f93",
    "is_core": false,
    "last_changed": "2026-11-23T21:26:01+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4493615632": {
      "first_seen": "2026-11-23T21:26:01+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4493615632",
      "source": "linkedin",
@@ -1483,6 +1515,42 @@
    "status": "active",
    "title": "Investigator Analyst with German (AML)"
   },
+  "1f564cbed382": {
+   "category": "Compliance",
+   "city": "Bucharest",
+   "company": "ICON plc",
+   "content_hash": "b9d81512ad956244",
+   "description": "Senior Regulatory Affairs Specialist / Senior Study Start Up Specialist / Clinical Site Contracts & Submissions Specialist - Hybrid - RomaniaAt ICON Strategic Solutions, you will work in a sponsor-dedicated model, supported by ICON’s global expertise.\n\nAs the world’s largest FSP organisation, with over 90 sponsor partnerships, we offer stability, career development and a collaborative environment where your work contributes to the development of treatments that benefit patients worldwide.\n\nAs a Senior Study Start Up Associate at ICON, you will be working within a large-scale, fast-paced environment, supporting the Study Start Up Team Lead in developing and executing the plan for country and site distribution.\n\nWhat You Will Do:\nYou will lead on site start-up and activation tasks requiring technical depth, with a focus on quality and continuous improvement.\n\nKey responsibilities include:\n• Leading the preparation and submission of essential documents for regulatory approvals and site activation ( EU CTR).\n• Development, negotiation and completion of Clinical Trial Research Agreements\n• Oversees and tracks clinical research-related payments. Payment reconciliation at study close-out\n• Providing guidance and support to study teams and sites during the start-up phase, fostering effective communication and collaboration.\n• Staying current with industry regulations and trends to enhance start-up strategies and best practices.\n\nYour Profile:\n\nYou will have solid experience in EU CTR submission and country/site level budget & contract negotiation and execution, as well as site/vendor payments.\n\nRequired qualifications and experience:\n• Bachelor's degree in a relevant scientific discipline or healthcare-related field\n• Skilled knowledge of budget and contract negotiations, local regulatory environment and EU CTR submission and approval processes.\n• Extensive experience in study start-up activities within the clinical research industry\n• Excellent organizational skills and attention to detail\n• Strong communication and interpersonal skills\n• Comfortable with a hybrid schedule requiring 1–3 days per week in the office.\n\n#LI-DS1\n#LI-Hybrid\n\nEmployment with ICON is contingent upon having the legal right to work in the country where the role is based.\n\nRewards & Benefits\nICON offers a competitive and comprehensive total rewards package designed to support your health, wellbeing, and career development.\n\nBenefits may include:\n• Competitive base salary and performance related incentives\n• Health and wellbeing programmes including medical, dental, and vision coverage where applicable\n• Retirement and pension plans\n• Life assurance and disability coverage\n• Employee assistance programmes and wellbeing resources\n• Learning and development opportunities through structured training and career pathways\n\nBenefits may vary depending on role and location.\n\nVisit our careers site to read more about the benefits ICON offers.\n\nInclusion and Accessibility\nICON is an equal opportunity employer. We are committed to building an inclusive and accessible workplace where everyone feels valued and supported.\n\nIf you require reasonable accommodations during the recruitment process, please let us know or submit a request here.\n\nAre you a current ICON Employee? Please click here to apply",
+   "extra": {
+    "multi_location": false,
+    "posted_approx": "2026-11-25",
+    "posted_text": "Posted Today"
+   },
+   "fingerprint": "icon|regulatory start up senior associate|bucharest",
+   "first_seen": "2026-11-25T12:57:46+00:00",
+   "id": "1f564cbed382",
+   "is_core": true,
+   "last_changed": "2026-11-25T12:57:46+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
+   "listings": {
+    "workday:icon:JR165148": {
+     "first_seen": "2026-11-25T12:57:46+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
+     "misses": 0,
+     "native_id": "icon:JR165148",
+     "source": "workday",
+     "status": "open",
+     "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Romania-Bucharest/Regulatory---Start-Up-Senior-Associate_JR165148"
+    }
+   },
+   "location": "Romania, Bucharest",
+   "posted": "2026-11-25",
+   "primary": "workday:icon:JR165148",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Regulatory & Start-Up Senior Associate"
+  },
   "1f722a7fa4ed": {
    "category": "Compliance",
    "city": "Romania",
@@ -1533,7 +1601,7 @@
    "id": "1f9866a41cce",
    "is_core": false,
    "last_changed": "2026-11-10T09:50:42+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:272653": {
      "closed_at": "2026-11-07T02:49:58+00:00",
@@ -1548,7 +1616,7 @@
     },
     "hipo:273845": {
      "first_seen": "2026-11-10T09:50:42+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "273845",
      "source": "hipo",
@@ -1709,11 +1777,11 @@
    "id": "214f0f0f8f34",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:parexel:R0000039967": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "parexel:R0000039967",
      "source": "workday",
@@ -1744,7 +1812,7 @@
    "id": "22afd7330fd9",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:smartrecruiters:Aumovio:744000142073842": {
      "closed_at": "2026-11-09T17:30:53+00:00",
@@ -1759,7 +1827,7 @@
     },
     "hipo:270549": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "270549",
      "source": "hipo",
@@ -1846,7 +1914,7 @@
    "id": "23a8437f5cb1",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4474327785": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -1858,9 +1926,18 @@
      "status": "open",
      "url": "https://ro.linkedin.com/jobs/view/compliance-level-2-controller-at-societe-generale-global-solution-centre-romania-4474327785"
     },
+    "linkedin:4494124604": {
+     "first_seen": "2026-11-25T12:57:46+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
+     "misses": 0,
+     "native_id": "4494124604",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/compliance-level-2-controller-at-societe-generale-global-solution-centre-romania-4494124604"
+    },
     "sg:26000HW1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "26000HW1",
      "source": "sg",
@@ -2070,11 +2147,11 @@
    "id": "2b2225db08f7",
    "is_core": false,
    "last_changed": "2026-11-03T15:08:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:greenhouse:okx:8176146003": {
      "first_seen": "2026-11-03T15:08:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8176146003",
      "source": "ats",
@@ -2184,11 +2261,11 @@
    "id": "2d0f17491417",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:273155": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "273155",
      "source": "hipo",
@@ -2216,11 +2293,11 @@
    "id": "2e0a9a1a4c46",
    "is_core": true,
    "last_changed": "2026-11-02T23:32:03+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:greenhouse:okx:8014747003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8014747003",
      "source": "ats",
@@ -2255,7 +2332,7 @@
    "listings": {
     "linkedin:4459960244": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-16T20:31:27+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4459960244",
@@ -2287,11 +2364,11 @@
    "id": "304b3bd52ff4",
    "is_core": true,
    "last_changed": "2026-11-23T21:26:01+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4494032207": {
      "first_seen": "2026-11-23T21:26:01+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4494032207",
      "source": "linkedin",
@@ -2323,11 +2400,11 @@
    "id": "31655a7911c3",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:iqvia:R1562529-2": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "iqvia:R1562529-2",
      "source": "workday",
@@ -2623,7 +2700,7 @@
    "listings": {
     "linkedin:4296087214": {
      "first_seen": "2026-11-11T14:29:48+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-18T04:21:31+00:00",
      "misses": 0,
      "native_id": "4296087214",
@@ -2655,12 +2732,12 @@
    "id": "363dcf145d46",
    "is_core": false,
    "last_changed": "2026-11-02T15:52:29+00:00",
-   "last_seen": "2026-11-08T23:45:13+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4439257386": {
      "first_seen": "2026-11-02T15:52:29+00:00",
      "last_checked": "2026-11-22T19:40:24+00:00",
-     "last_seen": "2026-11-08T23:45:13+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4439257386",
      "source": "linkedin",
@@ -2669,7 +2746,7 @@
     }
    },
    "location": "Bucharest, Bucharest, Romania",
-   "posted": "2026-11-02",
+   "posted": "2026-11-24",
    "primary": "linkedin:4439257386",
    "remote": false,
    "remote_ro": false,
@@ -2756,11 +2833,11 @@
    "id": "3766ff7d7c13",
    "is_core": false,
    "last_changed": "2026-11-17T22:24:40+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:parexel:R0000048008": {
      "first_seen": "2026-11-17T22:24:40+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "parexel:R0000048008",
      "source": "workday",
@@ -2790,16 +2867,18 @@
    "first_seen": "2026-11-17T13:25:49+00:00",
    "id": "378203824819",
    "is_core": false,
-   "last_changed": "2026-11-17T13:25:49+00:00",
+   "last_changed": "2026-11-25T12:57:46+00:00",
    "last_seen": "2026-11-23T21:26:01+00:00",
    "listings": {
     "linkedin:4490420038": {
+     "closed_at": "2026-11-25T12:57:46+00:00",
      "first_seen": "2026-11-17T13:25:49+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4490420038",
      "source": "linkedin",
-     "status": "open",
+     "status": "closed",
      "url": "https://ro.linkedin.com/jobs/view/senior-governance-risk-and-compliance-grc-specialist-at-jobgether-4490420038"
     }
    },
@@ -2808,7 +2887,7 @@
    "primary": "linkedin:4490420038",
    "remote": false,
    "remote_ro": false,
-   "status": "active",
+   "status": "inactive",
    "title": "Senior Governance, Risk, and Compliance (GRC) Specialist"
   },
   "3944a2fc8465": {
@@ -2873,11 +2952,11 @@
    "id": "39f8d5bcac8c",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4462307528": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-15T09:26:04+00:00",
      "misses": 0,
      "native_id": "4462307528",
@@ -2887,7 +2966,7 @@
     },
     "workday:pwc:759940WD": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "pwc:759940WD",
      "source": "workday",
@@ -2918,12 +2997,12 @@
    "id": "3c12e6c27c58",
    "is_core": true,
    "last_changed": "2026-11-12T18:57:54+00:00",
-   "last_seen": "2026-11-19T03:28:16+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4489270746": {
      "first_seen": "2026-11-12T18:57:54+00:00",
      "last_checked": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-19T03:28:16+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4489270746",
      "source": "linkedin",
@@ -2932,7 +3011,7 @@
     }
    },
    "location": "Bucharest Metropolitan Area",
-   "posted": "2026-11-12",
+   "posted": "2026-11-24",
    "primary": "linkedin:4489270746",
    "remote": false,
    "remote_ro": false,
@@ -2962,11 +3041,11 @@
    "id": "3cdeec624533",
    "is_core": false,
    "last_changed": "2026-11-16T09:44:14+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:parexel:R0000047944": {
      "first_seen": "2026-11-16T09:44:14+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "parexel:R0000047944",
      "source": "workday",
@@ -3001,6 +3080,7 @@
    "listings": {
     "linkedin:4490474062": {
      "first_seen": "2026-11-17T22:24:40+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4490474062",
@@ -3091,7 +3171,7 @@
    "listings": {
     "linkedin:4482508784": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-04T09:13:00+00:00",
      "misses": 0,
      "native_id": "4482508784",
@@ -3127,7 +3207,7 @@
    "listings": {
     "linkedin:4487047679": {
      "first_seen": "2026-11-04T01:22:47+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-09T17:30:53+00:00",
      "misses": 0,
      "native_id": "4487047679",
@@ -3156,11 +3236,11 @@
    "id": "4254f156cbc7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:greenhouse:okx:7996990003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7996990003",
      "source": "ats",
@@ -3188,11 +3268,11 @@
    "id": "43217bce7c33",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:workable:b3367389-67f6-402d-b608-b61b3e3de018": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "workable:b3367389-67f6-402d-b608-b61b3e3de018",
      "source": "ats",
@@ -3223,17 +3303,26 @@
    "id": "436369c3a82d",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-10-29T15:23:53+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4482028407": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4482028407",
      "source": "linkedin",
      "status": "open",
      "url": "https://ro.linkedin.com/jobs/view/legal-advisor-data-regulatory-at-ramboll-4482028407"
+    },
+    "linkedin:4494429496": {
+     "first_seen": "2026-11-25T12:57:46+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
+     "misses": 0,
+     "native_id": "4494429496",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/legal-advisor-data-regulatory-at-ramboll-4494429496"
     }
    },
    "location": "Bucharest, Bucharest, Romania",
@@ -3307,7 +3396,7 @@
    "id": "455b43120a0e",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4446466803": {
      "first_seen": "2026-10-29T15:58:29+00:00",
@@ -3321,7 +3410,7 @@
     },
     "workday:novartis:REQ-10083473-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "novartis:REQ-10083473-1",
      "source": "workday",
@@ -3330,7 +3419,7 @@
     },
     "workday:novartis:REQ-10089814-1": {
      "first_seen": "2026-11-03T21:01:58+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "novartis:REQ-10089814-1",
      "source": "workday",
@@ -3606,12 +3695,12 @@
    "id": "4c129aaf1777",
    "is_core": true,
    "last_changed": "2026-10-30T19:23:52+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4466229386": {
      "first_seen": "2026-10-30T19:23:52+00:00",
      "last_checked": "2026-11-18T21:59:47+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4466229386",
      "source": "linkedin",
@@ -3639,7 +3728,7 @@
    "id": "4c5c5ed70396",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4483806826": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -3653,7 +3742,7 @@
     },
     "workday:accenture:14842769": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "accenture:14842769",
      "source": "workday",
@@ -3719,6 +3808,41 @@
    "status": "active",
    "title": "Human Rights and Sustainability Compliance"
   },
+  "4e701999b555": {
+   "category": "Adjacent",
+   "city": "Bucharest",
+   "company": "Romstal",
+   "content_hash": "41ee0dfddefd3f93",
+   "description": "La Romstal gestionăm o gamă variată de echipamente de instalații, iar portofoliul nostru continuă să se extindă. Pentru ca fiecare produs nou să ajungă pe piață în deplină siguranță și conformitate, ne mărim echipa cu un Product Compliance & Certification Specialist. \n\nVei lucra la intersecția dintre tehnic, legislație și achiziții, având rolul de a te asigura că echipamentele au documentația completă și respectă toate cerințele legale în vigoare. \n\nCe vei face în acest rol:\n\n• Vei stabili și actualiza matricea de cerințe legislative și tehnice pe categorii de produs (marcaj CE – joasă tensiune, compatibilitate electromagnetică, echipamente sub presiune, aparate pe gaz, ecodesign, produse pentru construcții; contact cu apa potabilă; ISCIR; RoHS/REACH, WEEE, CBAM, EUDR). \n• Vei verifica documentația tehnică a furnizorilor încă din faza de ofertare (RFQ), evaluând certificatele și rapoartele de testare. \n• Vei întocmi și gestiona dosarele tehnice și declarațiile de conformitate pentru produsele comercializate sub brand propriu, inclusiv verificarea etichetelor, marcajelor și instrucțiunilor de utilizare. \n• Vei coordona procesele de testare și certificare în relația cu laboratoarele acreditate și organismele notificate din Europa și Asia. \n• Vei gestiona obținerea și reînnoirea avizelor locale necesare (apă potabilă, ISCIR, agremente tehnice), direct sau în colaborare cu consultanți specializați. \n• Vei monitoriza modificările legislative (UE și România) și vei oferi suport de specialitate echipelor de Achiziții, Product Management și clienților din proiecte. \n\nCe căutăm:\n\n• Studii superioare tehnice (instalații, electrotehnică, mecanică, chimie sau domenii similare). \n• Minimum 3–5 ani de experiență în certificare, conformitate produse, asigurarea calității sau într-un laborator de încercări, de preferat pe echipamente termice, sanitare, pompe, HVAC sau electrice. \n• Cunoașterea solidă a cadrului legislativ UE (marcaj CE, organisme notificate, dosar tehnic) și a reglementărilor naționale (ISCIR, avize pentru apă potabilă). \n• Limba engleză la nivel avansat, scris și vorbit. \n• Rigoare, autonomie, abilități excelente de organizare și orientare spre identificarea de soluții concrete. \n• Disponibilitate pentru deplasări la furnizori și laboratoare, inclusiv la nivel internațional. \n\nCe îți oferim:\n\n• Un rol nou, cu impact direct în dezvoltarea gamei de produse a unui lider regional, cu contract pe perioadă nedeterminată și program cu normă întreagă. \n• Pachet complet de beneficii și bonus anual raportat la performanță. \n• Acces la cursuri de specializare și deplasări profesionale la furnizori și laboratoare internaționale.",
+   "extra": {
+    "employment_type": "Full-time",
+    "seniority": "Mid-Senior level"
+   },
+   "fingerprint": "romstal|product compliance certification specialist|bucharest",
+   "first_seen": "2026-11-25T12:57:46+00:00",
+   "id": "4e701999b555",
+   "is_core": false,
+   "last_changed": "2026-11-25T12:57:46+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
+   "listings": {
+    "linkedin:4493012865": {
+     "first_seen": "2026-11-25T12:57:46+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
+     "misses": 0,
+     "native_id": "4493012865",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/product-compliance-certification-specialist-at-romstal-4493012865"
+    }
+   },
+   "location": "Bucharest, Romania",
+   "posted": "2026-11-24",
+   "primary": "linkedin:4493012865",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Product Compliance & Certification Specialist"
+  },
   "501fbe6a05af": {
    "category": "AML / KYC / FinCrime",
    "city": "Bucharest",
@@ -3782,7 +3906,7 @@
    "listings": {
     "linkedin:4487135824": {
      "first_seen": "2026-11-09T17:30:53+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-16T09:44:14+00:00",
      "misses": 0,
      "native_id": "4487135824",
@@ -3814,11 +3938,11 @@
    "id": "53ebe2398ef6",
    "is_core": true,
    "last_changed": "2026-10-30T14:09:44+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:274363": {
      "first_seen": "2026-11-23T09:03:48+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "274363",
      "source": "hipo",
@@ -3828,7 +3952,7 @@
     "linkedin:4483441760": {
      "first_seen": "2026-10-30T14:09:44+00:00",
      "last_checked": "2026-11-18T21:59:47+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4483441760",
      "source": "linkedin",
@@ -3965,11 +4089,11 @@
    "id": "56daa936b4de",
    "is_core": false,
    "last_changed": "2026-11-18T04:21:31+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "banks:bcr:1456515433": {
      "first_seen": "2026-11-11T21:59:04+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "bcr:1456515433",
      "source": "banks",
@@ -3978,7 +4102,7 @@
     },
     "hipo:273918": {
      "first_seen": "2026-11-12T11:07:15+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "273918",
      "source": "hipo",
@@ -4008,11 +4132,11 @@
    "id": "57e289e50e3e",
    "is_core": true,
    "last_changed": "2026-11-06T17:32:20+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:273765": {
      "first_seen": "2026-11-06T17:32:20+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "273765",
      "source": "hipo",
@@ -4040,11 +4164,11 @@
    "id": "589c369af377",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:greenhouse:okx:8016752003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8016752003",
      "source": "ats",
@@ -4076,11 +4200,11 @@
    "id": "5a5ac8c8a6a0",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:lseg:R0120643-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "lseg:R0120643-1",
      "source": "workday",
@@ -4191,11 +4315,11 @@
    "id": "5c1f34999bcd",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:workable:19ba0dc1-d6de-47cc-89b6-146326e8d5fa": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "workable:19ba0dc1-d6de-47cc-89b6-146326e8d5fa",
      "source": "ats",
@@ -4226,8 +4350,8 @@
    "first_seen": "2026-10-29T15:23:53+00:00",
    "id": "5c3bc39f161b",
    "is_core": true,
-   "last_changed": "2026-11-18T04:21:31+00:00",
-   "last_seen": "2026-11-17T03:55:32+00:00",
+   "last_changed": "2026-11-25T12:57:46+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:iqvia:R1571534": {
      "closed_at": "2026-11-18T04:21:31+00:00",
@@ -4238,6 +4362,15 @@
      "source": "workday",
      "status": "closed",
      "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bucuresti-Romania/Regulatory-and-Start-Up-Specialist---Romania_R1571534"
+    },
+    "workday:iqvia:R1580016-1": {
+     "first_seen": "2026-11-25T12:57:46+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
+     "misses": 0,
+     "native_id": "iqvia:R1580016-1",
+     "source": "workday",
+     "status": "open",
+     "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bucuresti-Romania/Regulatory-and-Start-Up-Specialist---Romania_R1580016-1"
     }
    },
    "location": "Bucuresti, Romania",
@@ -4245,7 +4378,7 @@
    "primary": "workday:iqvia:R1571534",
    "remote": false,
    "remote_ro": false,
-   "status": "inactive",
+   "status": "active",
    "title": "Regulatory and Start Up Specialist - Romania"
   },
   "5d7e41637512": {
@@ -4415,11 +4548,11 @@
    "id": "60feefe478f0",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:workable:3299d4ef-e6dd-4151-8efd-d86a1f9ed6e3": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "workable:3299d4ef-e6dd-4151-8efd-d86a1f9ed6e3",
      "source": "ats",
@@ -4482,11 +4615,11 @@
    "id": "626f81ae4577",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:272449": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "272449",
      "source": "hipo",
@@ -4530,11 +4663,11 @@
    "id": "631e493e3efd",
    "is_core": false,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:parexel:R0000041583": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "parexel:R0000041583",
      "source": "workday",
@@ -4565,11 +4698,11 @@
    "id": "6328bc9f637c",
    "is_core": true,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4492429290": {
      "first_seen": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4492429290",
      "source": "linkedin",
@@ -4693,11 +4826,11 @@
    "id": "659d0e8cd590",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:270032": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "270032",
      "source": "hipo",
@@ -4798,11 +4931,11 @@
    "id": "67f907d35e15",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4483235545": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-17T13:25:49+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4483235545",
@@ -4812,7 +4945,7 @@
     },
     "workday:accenture:R00366771-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "accenture:R00366771-1",
      "source": "workday",
@@ -4982,12 +5115,12 @@
    "id": "6c8c6a632e52",
    "is_core": false,
    "last_changed": "2026-10-30T14:09:44+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4485328063": {
      "first_seen": "2026-10-30T14:09:44+00:00",
      "last_checked": "2026-11-19T03:28:16+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4485328063",
      "source": "linkedin",
@@ -5018,7 +5151,7 @@
    "id": "6d459d0fcec3",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4381438733": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -5032,7 +5165,7 @@
     },
     "workday:pwc:710636WD-3": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "pwc:710636WD-3",
      "source": "workday",
@@ -5067,7 +5200,7 @@
    "listings": {
     "linkedin:4477046848": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-18T04:21:31+00:00",
      "misses": 0,
      "native_id": "4477046848",
@@ -5087,7 +5220,7 @@
     },
     "linkedin:4484638552": {
      "first_seen": "2026-11-03T15:08:53+00:00",
-     "last_checked": "2026-11-16T02:06:43+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4484638552",
@@ -5116,7 +5249,7 @@
    "id": "6e6a5e47494b",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4474707944": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -5130,7 +5263,7 @@
     },
     "workday:zentiva:R2469667": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "zentiva:R2469667",
      "source": "workday",
@@ -5160,7 +5293,7 @@
    "first_seen": "2026-11-02T23:32:03+00:00",
    "id": "713cbd3f83ce",
    "is_core": true,
-   "last_changed": "2026-11-22T19:40:24+00:00",
+   "last_changed": "2026-11-25T12:57:46+00:00",
    "last_seen": "2026-11-23T21:26:01+00:00",
    "listings": {
     "linkedin:4484364972": {
@@ -5186,12 +5319,14 @@
      "url": "https://ro.linkedin.com/jobs/view/safety-and-compliance-manager-at-ras-technic-4487890589"
     },
     "linkedin:4491966194": {
+     "closed_at": "2026-11-25T12:57:46+00:00",
      "first_seen": "2026-11-22T19:40:24+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4491966194",
      "source": "linkedin",
-     "status": "open",
+     "status": "closed",
      "url": "https://ro.linkedin.com/jobs/view/safety-and-compliance-manager-at-ras-technic-4491966194"
     }
    },
@@ -5200,7 +5335,7 @@
    "primary": "linkedin:4484364972",
    "remote": false,
    "remote_ro": false,
-   "status": "active",
+   "status": "inactive",
    "title": "Safety and Compliance Manager"
   },
   "71c9aa0f3dcf": {
@@ -5361,11 +5496,11 @@
    "id": "7596954606a9",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:genpact:JR10021497": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "genpact:JR10021497",
      "source": "workday",
@@ -5395,11 +5530,11 @@
    "id": "7659c2c69b91",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:272394": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "272394",
      "source": "hipo",
@@ -5536,11 +5671,11 @@
    "id": "788537fa51b5",
    "is_core": false,
    "last_changed": "2026-11-18T21:59:47+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4492071285": {
      "first_seen": "2026-11-18T21:59:47+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4492071285",
      "source": "linkedin",
@@ -5568,12 +5703,12 @@
    "id": "7b02d31e4243",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-07T10:07:24+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4431885172": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-19T03:28:16+00:00",
-     "last_seen": "2026-11-07T10:07:24+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4431885172",
      "source": "linkedin",
@@ -5582,7 +5717,7 @@
     }
    },
    "location": "Romania",
-   "posted": "2026-10-31",
+   "posted": "2026-11-24",
    "primary": "linkedin:4431885172",
    "remote": false,
    "remote_ro": false,
@@ -5603,11 +5738,11 @@
    "id": "7b12266a9dba",
    "is_core": false,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:274208": {
      "first_seen": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "274208",
      "source": "hipo",
@@ -5635,11 +5770,11 @@
    "id": "7b8acbb70871",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:272715": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "272715",
      "source": "hipo",
@@ -5885,17 +6020,18 @@
    "first_seen": "2026-10-30T14:09:44+00:00",
    "id": "7f496b40e8f0",
    "is_core": false,
-   "last_changed": "2026-10-30T14:09:44+00:00",
+   "last_changed": "2026-11-25T12:57:46+00:00",
    "last_seen": "2026-11-06T09:26:41+00:00",
    "listings": {
     "linkedin:4484830846": {
+     "closed_at": "2026-11-25T12:57:46+00:00",
      "first_seen": "2026-10-30T14:09:44+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-06T09:26:41+00:00",
      "misses": 0,
      "native_id": "4484830846",
      "source": "linkedin",
-     "status": "open",
+     "status": "closed",
      "url": "https://ro.linkedin.com/jobs/view/regulatory-affairs-specialist-at-kelly-science-engineering-technology-telecom-4484830846"
     }
    },
@@ -5904,7 +6040,7 @@
    "primary": "linkedin:4484830846",
    "remote": false,
    "remote_ro": false,
-   "status": "active",
+   "status": "inactive",
    "title": "Regulatory Affairs Specialist"
   },
   "810b3a58c993": {
@@ -5919,11 +6055,11 @@
    "id": "810b3a58c993",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:workable:1d6caa00-9865-420f-a435-c2920e203166": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "workable:1d6caa00-9865-420f-a435-c2920e203166",
      "source": "ats",
@@ -5951,11 +6087,11 @@
    "id": "8146acb1ad14",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:greenhouse:okx:7984392003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7984392003",
      "source": "ats",
@@ -5987,7 +6123,7 @@
    "id": "817c5d7ab071",
    "is_core": true,
    "last_changed": "2026-11-04T17:16:55+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4486545004": {
      "first_seen": "2026-11-04T22:41:09+00:00",
@@ -6001,7 +6137,7 @@
     },
     "workday:pwc:772405WD": {
      "first_seen": "2026-11-04T17:16:55+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "pwc:772405WD",
      "source": "workday",
@@ -6065,11 +6201,11 @@
    "id": "81a6cbdbd763",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:workable:ae54ff75-321f-435b-bf1b-532d49d8ccfc": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "workable:ae54ff75-321f-435b-bf1b-532d49d8ccfc",
      "source": "ats",
@@ -6133,11 +6269,11 @@
    "id": "8209f37bfb28",
    "is_core": true,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4492510058": {
      "first_seen": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4492510058",
      "source": "linkedin",
@@ -6172,7 +6308,7 @@
    "listings": {
     "linkedin:4487758890": {
      "first_seen": "2026-11-05T20:41:51+00:00",
-     "last_checked": "2026-11-16T20:31:27+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4487758890",
@@ -6205,11 +6341,11 @@
    "id": "82bac83329a6",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:iqvia:R1562528": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "iqvia:R1562528",
      "source": "workday",
@@ -6240,11 +6376,11 @@
    "id": "82e1d61dd4a1",
    "is_core": true,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4491641360": {
      "first_seen": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4491641360",
      "source": "linkedin",
@@ -6276,11 +6412,11 @@
    "id": "83f5c34b725e",
    "is_core": true,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "sg:26000IUZ": {
      "first_seen": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "26000IUZ",
      "source": "sg",
@@ -6359,6 +6495,7 @@
     },
     "linkedin:4491797615": {
      "first_seen": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4491797615",
@@ -6420,11 +6557,11 @@
    "id": "8575a115b67e",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "banks:raiffeisen:3881": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "raiffeisen:3881",
      "source": "banks",
@@ -6487,6 +6624,41 @@
    "remote_ro": false,
    "status": "inactive",
    "title": "Expert conformitate senior – AML/CFT & Sanctions"
+  },
+  "86c45b05231d": {
+   "category": "AML / KYC / FinCrime",
+   "city": "Bucharest",
+   "company": "DALS Games",
+   "content_hash": "b015e837f676b957",
+   "description": "Hybrid (Bucharest) · Full-time or part-time\n\nDALS develops B2B software products. This role is for our RegTech product: software that helps obliged non-financial entities in Romania (real estate agents, accountants, notaries and others) meet their AML/CFT obligations. We are looking for a Russian-speaking lawyer to make sure our product follows the law.\n\nWhat you will do:\n• Review how our product applies Law 129/2019, ONPCSB requirements, Law 70/2015 (cash payment limits) and international sanctions rules, and point out where it is wrong.\n• Answer practical questions on customer due diligence, beneficial ownership, PEP and sanctions screening, suspicious transaction reporting and record keeping for different types of obliged entities.\n• Help us prepare for Regulation (EU) 2024/1624 (AMLR), applicable from 10 July 2027.\n• Review Romanian-language client documents and dossier templates.\n• Work directly with the product team.\n\nRequirements:\n• Law degree and hands-on AML/CFT experience in Romania (law firm, compliance role or obliged entity).\n• Good knowledge of Law 129/2019 and related secondary rules.\n• Fluent Russian (mandatory), fluent Romanian, working English.\n\nNice to have:\n• Experience with non-financial obliged entities (DNFBPs), sector rules of CECCAR or UNNPR, sanctions compliance.\n\nWe offer:\n• Full-time or part-time, hybrid in Bucharest.\n• Direct influence on a product used by compliance teams.",
+   "extra": {
+    "employment_type": "Full-time",
+    "seniority": "Entry level"
+   },
+   "fingerprint": "dals games|anti money laundering specialist|bucharest",
+   "first_seen": "2026-11-25T12:57:46+00:00",
+   "id": "86c45b05231d",
+   "is_core": true,
+   "last_changed": "2026-11-25T12:57:46+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
+   "listings": {
+    "linkedin:3541413801": {
+     "first_seen": "2026-11-25T12:57:46+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
+     "misses": 0,
+     "native_id": "3541413801",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/anti-money-laundering-specialist-at-dals-games-3541413801"
+    }
+   },
+   "location": "Bucharest, Romania",
+   "posted": "2026-11-24",
+   "primary": "linkedin:3541413801",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Anti-Money Laundering Specialist"
   },
   "872306d84f49": {
    "category": "AML / KYC / FinCrime",
@@ -6690,7 +6862,7 @@
    "id": "8c73b676f653",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4481472131": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -6715,7 +6887,7 @@
     "workday:ayvens:10042207": {
      "closed_at": "2026-11-07T10:07:24+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "ayvens:10042207",
      "source": "workday",
@@ -6892,11 +7064,11 @@
    "id": "8fa065f5308c",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:parexel:R0000047342": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "parexel:R0000047342",
      "source": "workday",
@@ -6998,11 +7170,11 @@
    "id": "9325ad8002c2",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "banks:unicredit:117157": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "unicredit:117157",
      "source": "banks",
@@ -7042,11 +7214,11 @@
    "id": "934788f98902",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:parexel:R0000047191": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "parexel:R0000047191",
      "source": "workday",
@@ -7147,11 +7319,11 @@
    "id": "94510c00ff9c",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:lever:certik:0b497f25-210b-408e-b2c3-e005c841d867": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "lever:certik:0b497f25-210b-408e-b2c3-e005c841d867",
      "source": "ats",
@@ -7217,7 +7389,7 @@
    "id": "94abeaee6705",
    "is_core": false,
    "last_changed": "2026-11-18T13:59:35+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4491868806": {
      "first_seen": "2026-11-18T21:59:47+00:00",
@@ -7231,7 +7403,7 @@
     },
     "workday:philips:593707-1": {
      "first_seen": "2026-11-18T13:59:35+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "philips:593707-1",
      "source": "workday",
@@ -7262,11 +7434,11 @@
    "id": "94ba7ae3690e",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:greenhouse:emag:5016243101": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "greenhouse:emag:5016243101",
      "source": "ats",
@@ -7358,7 +7530,7 @@
    "listings": {
     "linkedin:4487926014": {
      "first_seen": "2026-11-09T17:30:53+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-16T09:44:14+00:00",
      "misses": 0,
      "native_id": "4487926014",
@@ -7427,11 +7599,11 @@
    "id": "97f8f2e1f079",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:genpact:JR10009696": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "genpact:JR10009696",
      "source": "workday",
@@ -7535,12 +7707,12 @@
    "id": "990b62201908",
    "is_core": true,
    "last_changed": "2026-11-06T17:32:20+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4487308159": {
      "first_seen": "2026-11-06T17:32:20+00:00",
      "last_checked": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4487308159",
      "source": "linkedin",
@@ -7575,7 +7747,7 @@
    "listings": {
     "linkedin:4479119498": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4479119498",
@@ -7643,11 +7815,11 @@
    "id": "9d75fe1fb888",
    "is_core": true,
    "last_changed": "2026-11-23T21:26:01+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4492602844": {
      "first_seen": "2026-11-23T21:26:01+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4492602844",
      "source": "linkedin",
@@ -7678,20 +7850,22 @@
    "id": "9f59e5309b6c",
    "is_core": false,
    "last_changed": "2026-11-18T13:59:35+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4491808653": {
+     "closed_at": "2026-11-25T12:57:46+00:00",
      "first_seen": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4491808653",
      "source": "linkedin",
-     "status": "open",
+     "status": "closed",
      "url": "https://ro.linkedin.com/jobs/view/medical-device-quality-regulatory-lead-at-luxoft-4491808653"
     },
     "linkedin:4492477720": {
      "first_seen": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4492477720",
      "source": "linkedin",
@@ -7767,11 +7941,11 @@
    "id": "a1cd49321a34",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:parexel:R0000047194": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "parexel:R0000047194",
      "source": "workday",
@@ -7939,11 +8113,11 @@
    "id": "aa0a8413f236",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:greenhouse:okx:7998993003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7998993003",
      "source": "ats",
@@ -8046,12 +8220,12 @@
    "id": "aca13a23ca41",
    "is_core": true,
    "last_changed": "2026-10-30T19:23:52+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4466232292": {
      "first_seen": "2026-10-30T19:23:52+00:00",
      "last_checked": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4466232292",
      "source": "linkedin",
@@ -8081,11 +8255,11 @@
    "id": "ad455b50c031",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:272945": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "272945",
      "source": "hipo",
@@ -8159,11 +8333,11 @@
    "id": "aeafab887a8e",
    "is_core": true,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4491634629": {
      "first_seen": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4491634629",
      "source": "linkedin",
@@ -8198,7 +8372,7 @@
    "listings": {
     "linkedin:4489134999": {
      "first_seen": "2026-11-10T01:33:06+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-10T17:52:44+00:00",
      "misses": 0,
      "native_id": "4489134999",
@@ -8230,12 +8404,12 @@
    "id": "b108a49e5c75",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4438722532": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-18T21:59:47+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4438722532",
      "source": "linkedin",
@@ -8268,12 +8442,14 @@
    "last_seen": "2026-11-25T02:27:57+00:00",
    "listings": {
     "hipo:270110": {
+     "closed_at": "2026-11-25T12:57:46+00:00",
      "first_seen": "2026-10-31T05:41:28+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-25T02:27:57+00:00",
      "misses": 0,
      "native_id": "270110",
      "source": "hipo",
-     "status": "open",
+     "status": "closed",
      "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270110/Vodafone-Romania/Junior-Counselor,-Data-Privacy"
     },
     "linkedin:4483940725": {
@@ -8392,7 +8568,7 @@
    "id": "b484890027f8",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4476575419": {
      "closed_at": "2026-11-23T21:26:01+00:00",
@@ -8407,7 +8583,7 @@
     },
     "linkedin:4492062137": {
      "first_seen": "2026-11-18T21:59:47+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4492062137",
      "source": "linkedin",
@@ -8474,12 +8650,12 @@
    "id": "b768dc45b0c6",
    "is_core": false,
    "last_changed": "2026-11-18T13:59:35+00:00",
-   "last_seen": "2026-11-19T03:28:16+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4492009552": {
      "first_seen": "2026-11-18T13:59:35+00:00",
      "last_checked": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-19T03:28:16+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4492009552",
      "source": "linkedin",
@@ -8488,7 +8664,7 @@
     }
    },
    "location": "Romania",
-   "posted": "2026-11-18",
+   "posted": "2026-11-23",
    "primary": "linkedin:4492009552",
    "remote": false,
    "remote_ro": false,
@@ -8507,11 +8683,11 @@
    "id": "b7c15d223cb8",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:teamtailor:worksterjobs:6673103": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "teamtailor:worksterjobs:6673103",
      "source": "ats",
@@ -8546,6 +8722,7 @@
    "listings": {
     "linkedin:4490816773": {
      "first_seen": "2026-11-18T04:21:31+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4490816773",
@@ -8589,7 +8766,7 @@
     },
     "linkedin:4481552754": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4481552754",
@@ -8654,11 +8831,11 @@
    "id": "ba0e44242fe9",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:teamtailor:worksterjobs:6673100": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "teamtailor:worksterjobs:6673100",
      "source": "ats",
@@ -8755,11 +8932,11 @@
    "id": "bad4982dd52e",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:greenhouse:okx:8012599003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8012599003",
      "source": "ats",
@@ -8790,11 +8967,11 @@
    "id": "bb981c96d167",
    "is_core": false,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4492705263": {
      "first_seen": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4492705263",
      "source": "linkedin",
@@ -8822,13 +8999,13 @@
    "id": "bc1193d0c473",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:272925": {
      "closed_at": "2026-11-08T07:22:26+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-08T07:22:26+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "272925",
      "source": "hipo",
@@ -8837,7 +9014,7 @@
     },
     "linkedin:4478107117": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4478107117",
@@ -8940,12 +9117,12 @@
    "id": "bce83a406032",
    "is_core": false,
    "last_changed": "2026-11-02T15:52:29+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4469152255": {
      "first_seen": "2026-11-02T15:52:29+00:00",
      "last_checked": "2026-11-18T21:59:47+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4469152255",
      "source": "linkedin",
@@ -9012,12 +9189,12 @@
    "id": "bface55b624a",
    "is_core": true,
    "last_changed": "2026-10-30T23:47:46+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4485122374": {
      "first_seen": "2026-10-30T23:47:46+00:00",
      "last_checked": "2026-11-18T04:21:31+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4485122374",
      "source": "linkedin",
@@ -9048,11 +9225,11 @@
    "id": "bfd0c8d8c823",
    "is_core": false,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4491385632": {
      "first_seen": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4491385632",
      "source": "linkedin",
@@ -9184,17 +9361,18 @@
    "first_seen": "2026-10-29T15:23:53+00:00",
    "id": "c3c7d3caaee0",
    "is_core": true,
-   "last_changed": "2026-10-29T15:23:53+00:00",
+   "last_changed": "2026-11-25T12:57:46+00:00",
    "last_seen": "2026-11-11T14:29:48+00:00",
    "listings": {
     "linkedin:4474344212": {
+     "closed_at": "2026-11-25T12:57:46+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-10-29T15:23:53+00:00",
      "misses": 0,
      "native_id": "4474344212",
      "source": "linkedin",
-     "status": "open",
+     "status": "closed",
      "url": "https://ro.linkedin.com/jobs/view/chief-data-office-protection-analyst-at-societe-generale-global-solution-centre-romania-4474344212"
     },
     "sg:26000HPQ": {
@@ -9214,8 +9392,43 @@
    "primary": "linkedin:4474344212",
    "remote": false,
    "remote_ro": false,
-   "status": "active",
+   "status": "inactive",
    "title": "Chief Data Office Protection Analyst"
+  },
+  "c5c49b237bac": {
+   "category": "Adjacent",
+   "city": "Bucharest",
+   "company": "Extia",
+   "content_hash": "0ccc4f6373de6f61",
+   "description": "📣 Would you like to join a company that puts people at the heart of its concerns? We are waiting for you! Since 2007, Extia, an IT consulting company, has been offering a unique approach in its field by combining well-being at work and performance.\n\nOur philosophy at Extia is “First who, then what\", so let's go for it!\n\n🚀First who?\n\n• Analytical and detail-oriented, you bring rigor, precision, and critical thinking to everything you do\n• You have excellent communication skills and thrive on cooperation and team spirit\n• Proactive and results-driven, you have the capacity to lead or participate in projects, assimilate industry best practices, and deliver within deadlines\n\nThis role is hybrid, 2 days/week from the office in Bucharest.\n\n🚀Then what?\n\nBusiness Analyst with a strong background in Financial & Regulatory Reporting, with the following tasks:\n\n• Understand business requirements in the financial area and specific regulatory reporting field, and perform the business analysis phase for regulatory reporting updates or new reports\n• Perform financial analysis on various reports (assets, liabilities, including liquidity reports) and analyze data sets to identify mismatches or propose new controls for granular data reconciliation\n• Design AS IS and TO BE processes based on proposed solutions\n• Build IT specification documentation in accordance with financial analysis to enhance existing tools or create new IT tools supporting regulatory report delivery\n• Clarify and validate business requirements, interact with development teams for proper implementation, and build test cases and test scenarios\n• Support regulatory reporting production and follow-up actions across the group (on a solo or consolidated basis) and act as Accounting Consistency Credit Risk support analyst\n• Perform production assistance tasks, operational controls, and data quality assessments (logging data mismatches to improve Credit Risk Data Quality) as part of the project stabilization phase\n• Declare and anticipate operational risk events on production during stabilization and project support activities\n• Provide clear, concise status reports for operational and management teams, and propose action plans for continuous improvement and process simplification\n\nRequired skills & qualifications:\n\n• Min. 4 years of experience in the banking field, with hands-on implementation of regulatory reporting projects (Basel 3, IFRS, Controlling, Reporting on loans, Administration of loans and guarantees, Credit Risk, FINREP, COREP, AnaCredit)\n• Qualifying experience in accounting or financial audit with a focus on regulatory reporting and analytics (preferably in financial services/banking or consultancy)\n• Proven experience performing business analysis and financial analysis in the regulatory reporting area\n• Previous exposure to the IT field, with a solid understanding of IT architectures, complex system interactions, and interdependencies\n• Advanced English language skills and advanced Excel knowledge\n• French language skills, a Master's degree in Banking and Finance, and BABOK or ITIL certifications are a plus\n\n🚀 Do you recognize yourself in the \"Who\" and represent the \"What\"? Apply and let's talk!",
+   "extra": {
+    "employment_type": "Full-time",
+    "seniority": "Mid-Senior level"
+   },
+   "fingerprint": "extia|business analyst regulatory reporting|bucharest",
+   "first_seen": "2026-11-25T12:57:46+00:00",
+   "id": "c5c49b237bac",
+   "is_core": false,
+   "last_changed": "2026-11-25T12:57:46+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
+   "listings": {
+    "linkedin:4492693456": {
+     "first_seen": "2026-11-25T12:57:46+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
+     "misses": 0,
+     "native_id": "4492693456",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/business-analyst-regulatory-reporting-at-extia-4492693456"
+    }
+   },
+   "location": "Bucharest, Romania",
+   "posted": "2026-11-24",
+   "primary": "linkedin:4492693456",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Business Analyst Regulatory Reporting"
   },
   "c66d1785f9be": {
    "category": "Compliance",
@@ -9232,11 +9445,11 @@
    "id": "c66d1785f9be",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:272705": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "272705",
      "source": "hipo",
@@ -9405,6 +9618,41 @@
    "status": "inactive",
    "title": "Analyste AML FOA - CDD 2 years"
   },
+  "c919a0e7eb8f": {
+   "category": "Data protection / DPO",
+   "city": "Cluj-Napoca",
+   "company": "MyData-TRUST - Data Protection & Privacy for Life Sciences",
+   "content_hash": "4a93bf78774319bc",
+   "description": "Data Protection Manager Associate – MyData-TRUST\n\nMyData-TRUST is looking for a motivated Data Protection Manager Associate (DPMA) to join our multidisciplinary team of data protection lawyers, IT specialists, and clinical professionals. You will contribute to delivering high-quality data privacy services to Life Sciences clients while developing your expertise in data privacy.\n\nKey Responsibilities:\n• Support the delivery of services and deliverables to clients in line with Work Orders.\n• Assist in project management activities for assigned clients and projects.\n• Serve as a point of contact for clients regarding data privacy queries, concerns, and requests.\n• Participate in client meetings and prepare accurate meeting minutes.\n• Gather necessary information and review documentation to ensure proper service delivery.\n• Provide data privacy advice, consulting with team members when necessary.\n• Participate in internal and approved external training sessions to enhance knowledge of data privacy.\n• Stay up-to-date with the latest developments in data privacy.\n• Maintain timely and accurate timesheets.\n\nRequired Skills & Competencies:\n• Leadership & Team Collaboration: Actively contribute to team goals, support colleagues, and build positive relationships internally and with clients.\n• Customer Orientation: Engage professionally with clients, gathering information and adapting communication to various audiences. Ensure client satisfaction while following established procedures.\n• Organization & Result Oriented: Independently manage and execute assigned tasks accurately and on time. Understand MDT’s processes and roles to deliver services efficiently.\n• Expertise & Knowledge Development: Apply data privacy standards under guidance, develop knowledge in Life Sciences or in other areas of interest, and contribute to company-level initiatives such as Knowledge Management, research projects, ...\n• Interpersonal Skills: Communicate clearly and reliably with clients and colleagues. Demonstrate active listening, respect cultural and professional differences, and build trust.\n• Openness & Adaptability: Show willingness to learn, adapt to new environments, receive feedback constructively, and proactively improve skills through training and learning.\n• Language & Communication: Excellent written and verbal communication in English. Knowledge of German and French is a plus. Ability to adapt communication style to diverse audiences.\n\nQualifications:\n\n• Education or experience in the life sciences field and a keen interest in GDPR and data protection.\n• Experience in GDPR and data protection and a keen interest in life sciences field.\n• Any certification in the life sciences/Data Protection field is an asset.\n\nWhat We Offer:\n• Permanent contract with a competitive salary package.\n• Flexible and innovative company culture.\n• International exposure and professional training opportunities in data privacy.\n\nImportant Note:\nThe official and exclusive ways to submit your application are:\n• Applying directly through LinkedIn\n• Applying as instructed on our webpage: https://www.mydata-trust.com/job-archives/spontaneous-application/\nThird parties are not authorized to process applications related to this announcement, and any applications submitted through third parties will not be considered.\n\nWe are committed to being a fully inclusive employer. We welcome applications from all qualified candidates, regardless of gender, age, ethnicity, sexual orientation, disability, or background.",
+   "extra": {
+    "employment_type": "Full-time",
+    "seniority": "Entry level"
+   },
+   "fingerprint": "mydata trust data protection privacy for life sciences|data protection manager junior role|cluj-napoca",
+   "first_seen": "2026-11-25T12:57:46+00:00",
+   "id": "c919a0e7eb8f",
+   "is_core": true,
+   "last_changed": "2026-11-25T12:57:46+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
+   "listings": {
+    "linkedin:4494609494": {
+     "first_seen": "2026-11-25T12:57:46+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
+     "misses": 0,
+     "native_id": "4494609494",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/data-protection-manager-junior-role-at-mydata-trust-data-protection-privacy-for-life-sciences-4494609494"
+    }
+   },
+   "location": "Cluj-Napoca, Cluj, Romania",
+   "posted": "2026-11-25",
+   "primary": "linkedin:4494609494",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Data Protection Manager (Junior role)"
+  },
   "c92cf200de8f": {
    "category": "Compliance",
    "city": "Bucharest",
@@ -9472,7 +9720,7 @@
    "listings": {
     "linkedin:4488286545": {
      "first_seen": "2026-11-12T11:07:15+00:00",
-     "last_checked": "2026-11-18T13:59:35+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-12T11:07:15+00:00",
      "misses": 0,
      "native_id": "4488286545",
@@ -9560,6 +9808,41 @@
    "remote_ro": false,
    "status": "active",
    "title": "BI Payment & Fraud Analyst"
+  },
+  "cc46c2f54bf3": {
+   "category": "Compliance",
+   "city": "Bucharest",
+   "company": "COSCO SHIPPING Europe",
+   "content_hash": "23da56e8c25e836e",
+   "description": "Thanks to its complete global service network, COSCO SHIPPING has become a top international brand. The upstream- and downstream links along the industry chain, such as shipping, terminals, logistics, shipping finance, ship repair and shipbuilding, have formed a sound industrial structure. The Corporation has invested in 56 terminals, including 49 container terminals, all over the world.\n\nCOSCO SHIPPING Lines (Romania) is looking for a Legal, Compliance & Corporate Governance Specialist (m/f/d) to join our team in Bucharest.\n\nThe role will support the company in commercial legal matters, compliance and corporate governance, ensuring the accuracy and contractual protection of the company’s interests while maintaining close communication with Headquarters and external legal counsel.\n\nKey Responsibilities\n• Review commercial contracts and contractual provisions, ensuring accuracy, legal compliance, and protection of the company’s interests.\n• Provide internal guidance on the interpretation of contractual clauses and day-to-day legal matters.\n• Prepare legal analyses, information notes, and opinions for company management and internal departments.\n• Coordinate contractual and commercial claims, document potential disputes, and support amicable resolutions or escalation to external counsel.\n• Manage relationships with external law firms (including documentation for debt recovery and other legal matters) and monitor the status of court cases.\n• Maintain centralized contract records and electronic contract databases for customers and suppliers.\n• Draft, update, and roll out internal policies and procedures, including corporate governance and Group compliance requirements.\n• Manage whistleblowing channels, support internal investigations, and follow up on corrective actions.\n• Support internal and external audits, facilitate the circulation of requested documentation, and monitor the implementation of audit recommendations.\n• Support certification/recertification processes and handle required communications with relevant authorities.\n• Liaise with the Commercial Department of COSCO SHIPPING Lines Headquarters regarding overdue containers arriving in the Port of Constanța and support solutions for their return to the transport cycle.\n• Support the overall maintenance and development of the company’s corporate governance and compliance framework.\n\nRequirements\n• University degree in Law.\n• 3–5 years of relevant experience in legal, compliance, and/or corporate governance.\n• Solid knowledge of commercial contracts and corporate/commercial law.\n• Experience in contract review, legal documentation, and cooperation with external legal counsel.\n• Good understanding of compliance frameworks, internal policies, and procedures.\n• Experience with audits, certifications, or international companies is an advantage.\n• Advanced English, both written and spoken.\n• Strong analytical, organizational, and communication skills, with high attention to detail and integrity.\n\nWe are looking for a structured and responsible professional with strong analytical skills, attention to detail, sound judgment and the ability to collaborate effectively across departments, with Headquarters and external advisors.\nIf you are interested in developing your career in an international shipping and logistics environment, we would be pleased to hear from you.\n\nOur Values – PANDA\nAt COSCO SHIPPING we believe that professional success starts with strong values. We are looking for a colleague who embodies our PANDA Values:\nP – Professional\n A – Positive Attitude\n N – Negotiation & Collaboration Skills\n D – Dauntless (courage to embrace challenges and drive change)\n A – Accountable\n\nBy joining us, you will contribute to a culture built on Collaboration, Shared Responsibility and Shared Growth, while supporting the financial integrity and operational excellence of COSCO SHIPPING.\n\nWhat We Offer\n• Agreed salary always paid on time\n• Meal vouchers of RON 45/day\n• Voluntary pension contribution (RON 150/month) after probation\n• Private healthcare subscription\n• Enhanced annual leave entitlement based on total years of service\n• Performance-related bonuses\n• Training opportunities and team events\n• Exposure to an international and multicultural working environment\n• \n#COSCOSHIPPING #COSCOSHIPPINGRomania #Hiring #Legal #Compliance #CorporateGovernance #Maritime #Shipping #Logistics #Bucharest",
+   "extra": {
+    "employment_type": "Full-time",
+    "seniority": "Associate"
+   },
+   "fingerprint": "cosco shipping europe|legal compliance corporate governance specialist|bucharest",
+   "first_seen": "2026-11-25T12:57:46+00:00",
+   "id": "cc46c2f54bf3",
+   "is_core": true,
+   "last_changed": "2026-11-25T12:57:46+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
+   "listings": {
+    "linkedin:4494139597": {
+     "first_seen": "2026-11-25T12:57:46+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
+     "misses": 0,
+     "native_id": "4494139597",
+     "source": "linkedin",
+     "status": "open",
+     "url": "https://ro.linkedin.com/jobs/view/legal-compliance-corporate-governance-specialist-m-f-d-at-cosco-shipping-europe-4494139597"
+    }
+   },
+   "location": "Bucharest, Bucharest, Romania",
+   "posted": "2026-11-24",
+   "primary": "linkedin:4494139597",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Legal, Compliance & Corporate Governance Specialist (m/f/d)"
   },
   "cd11012a48d7": {
    "category": "Compliance",
@@ -9695,12 +9978,12 @@
    "id": "d166cf866d4a",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4484454491": {
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-18T04:21:31+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4484454491",
      "source": "linkedin",
@@ -9728,11 +10011,11 @@
    "id": "d1ab3fb2cf1a",
    "is_core": true,
    "last_changed": "2026-11-16T09:44:14+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:greenhouse:okx:8203038003": {
      "first_seen": "2026-11-13T07:58:08+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8203038003",
      "source": "ats",
@@ -9889,7 +10172,7 @@
    "id": "d4a662e7cdcb",
    "is_core": false,
    "last_changed": "2026-11-12T18:57:54+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4490378389": {
      "first_seen": "2026-11-12T18:57:54+00:00",
@@ -9924,7 +10207,7 @@
     },
     "sg:26000NPL": {
      "first_seen": "2026-11-13T16:23:40+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "26000NPL",
      "source": "sg",
@@ -9954,11 +10237,11 @@
    "id": "d6ee78455204",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:272272": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "272272",
      "source": "hipo",
@@ -10109,11 +10392,11 @@
    "id": "d807ff3c1307",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:lever:certik:195d8b69-830c-44f5-b8d3-61acce919766": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "lever:certik:195d8b69-830c-44f5-b8d3-61acce919766",
      "source": "ats",
@@ -10256,11 +10539,11 @@
    "id": "d8f26790201c",
    "is_core": false,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:parexel:R0000047663": {
      "first_seen": "2026-11-03T15:08:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "parexel:R0000047663",
      "source": "workday",
@@ -10360,11 +10643,11 @@
    "id": "dbca63257e1c",
    "is_core": false,
    "last_changed": "2026-11-23T21:26:01+00:00",
-   "last_seen": "2026-11-23T21:26:01+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4492388682": {
      "first_seen": "2026-11-23T21:26:01+00:00",
-     "last_seen": "2026-11-23T21:26:01+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "4492388682",
      "source": "linkedin",
@@ -10396,7 +10679,7 @@
    "listings": {
     "ai_sweep:dc1dd1d38cca": {
      "first_seen": "2026-11-10T13:40:38+00:00",
-     "last_checked": "2026-11-24T06:02:07+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-10T13:40:38+00:00",
      "misses": 0,
      "native_id": "dc1dd1d38cca",
@@ -10425,7 +10708,7 @@
    "id": "dc031993ce11",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:273119": {
      "closed_at": "2026-11-11T06:18:30+00:00",
@@ -10440,7 +10723,7 @@
     },
     "hipo:273991": {
      "first_seen": "2026-11-17T03:55:32+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "273991",
      "source": "hipo",
@@ -10481,6 +10764,7 @@
     },
     "linkedin:4491737065": {
      "first_seen": "2026-11-17T22:24:40+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4491737065",
@@ -10500,7 +10784,7 @@
     },
     "workday:ing:REQ-10124713-1": {
      "first_seen": "2026-11-16T20:31:27+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10124713-1",
      "source": "workday",
@@ -10599,11 +10883,11 @@
    "id": "df00e5b4c6f7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:272399": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "272399",
      "source": "hipo",
@@ -10780,11 +11064,11 @@
    "id": "e0bd0f6c0aa3",
    "is_core": false,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:parexel:R0000041979": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "parexel:R0000041979",
      "source": "workday",
@@ -11036,7 +11320,7 @@
    "id": "ea6314d0bf12",
    "is_core": true,
    "last_changed": "2026-11-05T20:41:51+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "linkedin:4488014125": {
      "first_seen": "2026-11-06T09:26:41+00:00",
@@ -11050,7 +11334,7 @@
     },
     "sg:26000K2B": {
      "first_seen": "2026-11-05T20:41:51+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "26000K2B",
      "source": "sg",
@@ -11082,11 +11366,11 @@
    "id": "ec09e878eb31",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:iqvia:R1563120": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "iqvia:R1563120",
      "source": "workday",
@@ -11116,7 +11400,7 @@
    "id": "ec1adb9b6c26",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:smartrecruiters:Aumovio:744000138166004": {
      "closed_at": "2026-11-09T17:30:53+00:00",
@@ -11131,7 +11415,7 @@
     },
     "hipo:269979": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "269979",
      "source": "hipo",
@@ -11197,11 +11481,11 @@
    "id": "f025b861cd02",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "banks:signal:job-senior-compliance-officer": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "signal:job-senior-compliance-officer",
      "source": "banks",
@@ -11340,11 +11624,11 @@
    "id": "f22ea08e0c52",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:lever:certik:f507fc48-77e7-4b1b-9a88-11e2b20fe21d": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "lever:certik:f507fc48-77e7-4b1b-9a88-11e2b20fe21d",
      "source": "ats",
@@ -11448,11 +11732,11 @@
    "id": "f48ef367173f",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "workday:pwc:672154WD": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "pwc:672154WD",
      "source": "workday",
@@ -11518,11 +11802,11 @@
    "id": "f6138a47738e",
    "is_core": true,
    "last_changed": "2026-11-12T18:57:54+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:273924": {
      "first_seen": "2026-11-12T18:57:54+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "273924",
      "source": "hipo",
@@ -11670,11 +11954,11 @@
    "id": "fa8e40c299b5",
    "is_core": false,
    "last_changed": "2026-11-10T17:52:44+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:workable:517ddc9f-6f0c-41bb-ba11-e27ed64a4eaa": {
      "first_seen": "2026-11-10T17:52:44+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "workable:517ddc9f-6f0c-41bb-ba11-e27ed64a4eaa",
      "source": "ats",
@@ -11752,7 +12036,7 @@
    "listings": {
     "linkedin:4465681686": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_checked": "2026-11-15T17:11:09+00:00",
+     "last_checked": "2026-11-25T12:57:46+00:00",
      "last_seen": "2026-11-23T21:26:01+00:00",
      "misses": 0,
      "native_id": "4465681686",
@@ -11781,11 +12065,11 @@
    "id": "fbc4fc0e29b3",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "ats:workable:a3b14af4-3bce-40ea-8428-cd2da77960e3": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "workable:a3b14af4-3bce-40ea-8428-cd2da77960e3",
      "source": "ats",
@@ -11863,13 +12147,13 @@
    "id": "fd4b8ea8113a",
    "is_core": true,
    "last_changed": "2026-11-20T20:17:31+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:269673": {
      "closed_at": "2026-11-08T07:22:26+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-08T07:22:26+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "269673",
      "source": "hipo",
@@ -11899,11 +12183,11 @@
    "id": "fd6aef50346d",
    "is_core": false,
    "last_changed": "2026-11-14T10:29:32+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:273461": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "273461",
      "source": "hipo",
@@ -11933,11 +12217,11 @@
    "id": "feef73ce2f43",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-25T02:27:57+00:00",
+   "last_seen": "2026-11-25T12:57:46+00:00",
    "listings": {
     "hipo:269980": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-25T02:27:57+00:00",
+     "last_seen": "2026-11-25T12:57:46+00:00",
      "misses": 0,
      "native_id": "269980",
      "source": "hipo",
@@ -11957,9 +12241,9 @@
  "meta": {
   "ai_baseline_done": true,
   "baseline_done": true,
-  "last_run": "2026-11-25T02:27:57+00:00",
+  "last_run": "2026-11-25T12:57:46+00:00",
   "pending_alerts": [],
-  "runs": 120
+  "runs": 121
  },
  "sources": {
   "ai_sweep": {
@@ -11971,24 +12255,24 @@
   },
   "ats": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-25T02:27:57+00:00",
-   "last_count": 454,
+   "last_attempt": "2026-11-25T12:57:46+00:00",
+   "last_count": 455,
    "last_error": null,
-   "last_ok": "2026-11-25T02:27:57+00:00"
+   "last_ok": "2026-11-25T12:57:46+00:00"
   },
   "banks": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-25T02:27:57+00:00",
-   "last_count": 293,
+   "last_attempt": "2026-11-25T12:57:46+00:00",
+   "last_count": 290,
    "last_error": null,
-   "last_ok": "2026-11-25T02:27:57+00:00"
+   "last_ok": "2026-11-25T12:57:46+00:00"
   },
   "hipo": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-25T02:27:57+00:00",
-   "last_count": 418,
+   "last_attempt": "2026-11-25T12:57:46+00:00",
+   "last_count": 460,
    "last_error": null,
-   "last_ok": "2026-11-25T02:27:57+00:00"
+   "last_ok": "2026-11-25T12:57:46+00:00"
   },
   "juridice": {
    "fail_streak": 1,
@@ -11996,32 +12280,32 @@
    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://cariere.juridice.ro/wp-json/wp/v2/posts?search=compliance&after=2026-08-15T00%3A00%3A00&per_page=100&page=1&_fields=id%2Cdate%2Clink%2Ctitle%2Ccontent'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "linkedin": {
-   "fail_streak": 3,
-   "last_attempt": "2026-11-25T02:27:57+00:00",
+   "fail_streak": 0,
+   "last_attempt": "2026-11-25T12:57:46+00:00",
    "last_count": 214,
-   "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=compliance&location=Romania&f_TPR=r604800&sortBy=DD&start=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
-   "last_ok": "2026-11-23T21:26:01+00:00"
+   "last_error": null,
+   "last_ok": "2026-11-25T12:57:46+00:00"
   },
   "posturi_gov": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-25T02:27:57+00:00",
+   "last_attempt": "2026-11-25T12:57:46+00:00",
    "last_count": 0,
    "last_error": null,
-   "last_ok": "2026-11-25T02:27:57+00:00"
+   "last_ok": "2026-11-25T12:57:46+00:00"
   },
   "sg": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-25T02:27:57+00:00",
-   "last_count": 82,
+   "last_attempt": "2026-11-25T12:57:46+00:00",
+   "last_count": 83,
    "last_error": null,
-   "last_ok": "2026-11-25T02:27:57+00:00"
+   "last_ok": "2026-11-25T12:57:46+00:00"
   },
   "workday": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-25T02:27:57+00:00",
-   "last_count": 865,
+   "last_attempt": "2026-11-25T12:57:46+00:00",
+   "last_count": 874,
    "last_error": null,
-   "last_ok": "2026-11-25T02:27:57+00:00"
+   "last_ok": "2026-11-25T12:57:46+00:00"
   }
  }
 }
