@@ -421,3 +421,9 @@
 {"ts": "2026-11-25T22:33:32+00:00", "job_id": "ba52df898c7a", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-26T05:05:25+00:00", "job_id": "647122fce6c1", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-26T05:05:25+00:00", "job_id": "71c9aa0f3dcf", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-26T15:17:19+00:00", "job_id": "518e75bd0d0b", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-26T15:17:19+00:00", "job_id": "c7b86bfa30a4", "type": "UPDATED", "diff": {"title": ["Ofițer principal de conformitate (Ref:r7XRa)", "Ofițer Conformitate (Ref:r7XRa)"]}, "notified": false, "silent": false}
+{"ts": "2026-11-26T15:17:19+00:00", "job_id": "ea704724ea4c", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-26T15:17:19+00:00", "job_id": "366f8878fbdc", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-26T15:17:19+00:00", "job_id": "84e8e5bb1e7e", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-26T15:17:19+00:00", "job_id": "f025b861cd02", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
