@@ -427,3 +427,11 @@
 {"ts": "2026-11-26T15:17:19+00:00", "job_id": "366f8878fbdc", "type": "NEW", "diff": {}, "notified": false, "silent": false}
 {"ts": "2026-11-26T15:17:19+00:00", "job_id": "84e8e5bb1e7e", "type": "NEW", "diff": {}, "notified": true, "silent": false}
 {"ts": "2026-11-26T15:17:19+00:00", "job_id": "f025b861cd02", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-27T18:59:15+00:00", "job_id": "8ea893db937e", "type": "NEW", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-27T18:59:15+00:00", "job_id": "0941ac763316", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-27T18:59:15+00:00", "job_id": "e225bcf19a64", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-27T18:59:15+00:00", "job_id": "a967a4ebc4e3", "type": "NEW", "diff": {}, "notified": true, "silent": false}
+{"ts": "2026-11-27T18:59:15+00:00", "job_id": "4254f156cbc7", "type": "UPDATED", "diff": {"title": ["OEML - Senior Compliance Analyst", "OEM - Senior Compliance Analyst"]}, "notified": false, "silent": false}
+{"ts": "2026-11-27T18:59:15+00:00", "job_id": "8fa065f5308c", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-27T18:59:15+00:00", "job_id": "934788f98902", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}
+{"ts": "2026-11-27T18:59:15+00:00", "job_id": "a1cd49321a34", "type": "DEACTIVATED", "diff": {}, "notified": false, "silent": false}

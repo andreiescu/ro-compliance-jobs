@@ -83,11 +83,11 @@
    "id": "02a00c1ddc8b",
    "is_core": true,
    "last_changed": "2026-11-06T17:32:20+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "banks:bcr:1455265533": {
      "first_seen": "2026-11-06T17:32:20+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "bcr:1455265533",
      "source": "banks",
@@ -127,7 +127,7 @@
    "id": "02fd265958f7",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "hipo:272759": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -171,7 +171,7 @@
     },
     "workday:ing:REQ-10122512": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10122512",
      "source": "workday",
@@ -370,11 +370,11 @@
    "id": "067d29ea7556",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:parexel:R0000046069": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "parexel:R0000046069",
      "source": "workday",
@@ -496,6 +496,42 @@
    "status": "active",
    "title": "Research Engineer, Privacy and Anonymization (Singapore Time)"
   },
+  "0941ac763316": {
+   "category": "Data protection / DPO",
+   "city": "Bucharest",
+   "company": "ING Hubs Romania",
+   "content_hash": "751d74c27645a308",
+   "description": ".",
+   "extra": {
+    "multi_location": false,
+    "posted_approx": "2026-11-27",
+    "posted_text": "Posted Today"
+   },
+   "fingerprint": "ing|senior data protection expert 1|bucharest",
+   "first_seen": "2026-11-27T18:59:15+00:00",
+   "id": "0941ac763316",
+   "is_core": true,
+   "last_changed": "2026-11-27T18:59:15+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
+   "listings": {
+    "workday:ing:REQ-10125437": {
+     "first_seen": "2026-11-27T18:59:15+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
+     "misses": 0,
+     "native_id": "ing:REQ-10125437",
+     "source": "workday",
+     "status": "open",
+     "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Bucharest---Dacia-One/Senior-Data-Protection-Expert-1_REQ-10125437"
+    }
+   },
+   "location": "Bucharest - Dacia One, Romania",
+   "posted": "2026-11-27",
+   "primary": "workday:ing:REQ-10125437",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Senior Data Protection Expert-1"
+  },
   "0976483708dc": {
    "category": "Compliance",
    "city": "Bucharest",
@@ -510,7 +546,7 @@
    "id": "0976483708dc",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "hipo:272264": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -523,7 +559,7 @@
     },
     "workday:ing:REQ-10122263": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10122263",
      "source": "workday",
@@ -623,7 +659,7 @@
    "id": "0e249de014bc",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "hipo:271855": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -655,7 +691,7 @@
     },
     "workday:ing:REQ-10121570": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10121570",
      "source": "workday",
@@ -664,7 +700,7 @@
     },
     "workday:ing:REQ-10123669": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10123669",
      "source": "workday",
@@ -779,11 +815,11 @@
    "id": "11dea86d0f11",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:genpact:JR10021487": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "genpact:JR10021487",
      "source": "workday",
@@ -792,7 +828,7 @@
     },
     "workday:genpact:JR10034785": {
      "first_seen": "2026-11-18T13:59:35+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "genpact:JR10034785",
      "source": "workday",
@@ -822,11 +858,11 @@
    "id": "1273b4fe0de9",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "banks:unicredit:117156": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "unicredit:117156",
      "source": "banks",
@@ -904,11 +940,11 @@
    "id": "14a2ca92f5fa",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:thermofisher:R-01351430": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "thermofisher:R-01351430",
      "source": "workday",
@@ -1279,13 +1315,13 @@
    "id": "1b187b2d6488",
    "is_core": false,
    "last_changed": "2026-11-13T16:23:40+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:thermofisher:R-01350715": {
      "closed_at": "2026-11-10T09:50:42+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_checked": "2026-11-10T09:50:42+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "thermofisher:R-01350715",
      "source": "workday",
@@ -1532,11 +1568,11 @@
    "id": "1f564cbed382",
    "is_core": true,
    "last_changed": "2026-11-25T12:57:46+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:icon:JR165148": {
      "first_seen": "2026-11-25T12:57:46+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "icon:JR165148",
      "source": "workday",
@@ -1778,11 +1814,11 @@
    "id": "214f0f0f8f34",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:parexel:R0000039967": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "parexel:R0000039967",
      "source": "workday",
@@ -1915,7 +1951,7 @@
    "id": "23a8437f5cb1",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4474327785": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -1938,7 +1974,7 @@
     },
     "sg:26000HW1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "26000HW1",
      "source": "sg",
@@ -2149,11 +2185,11 @@
    "id": "2b2225db08f7",
    "is_core": false,
    "last_changed": "2026-11-03T15:08:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:greenhouse:okx:8176146003": {
      "first_seen": "2026-11-03T15:08:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8176146003",
      "source": "ats",
@@ -2295,11 +2331,11 @@
    "id": "2e0a9a1a4c46",
    "is_core": true,
    "last_changed": "2026-11-02T23:32:03+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:greenhouse:okx:8014747003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8014747003",
      "source": "ats",
@@ -2402,11 +2438,11 @@
    "id": "31655a7911c3",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:iqvia:R1562529-2": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "iqvia:R1562529-2",
      "source": "workday",
@@ -2870,11 +2906,11 @@
    "id": "3766ff7d7c13",
    "is_core": false,
    "last_changed": "2026-11-17T22:24:40+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:parexel:R0000048008": {
      "first_seen": "2026-11-17T22:24:40+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "parexel:R0000048008",
      "source": "workday",
@@ -2989,7 +3025,7 @@
    "id": "39f8d5bcac8c",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4462307528": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -3003,7 +3039,7 @@
     },
     "workday:pwc:759940WD": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "pwc:759940WD",
      "source": "workday",
@@ -3113,11 +3149,11 @@
    "id": "3cdeec624533",
    "is_core": false,
    "last_changed": "2026-11-16T09:44:14+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:parexel:R0000047944": {
      "first_seen": "2026-11-16T09:44:14+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "parexel:R0000047944",
      "source": "workday",
@@ -3300,19 +3336,19 @@
    "category": "Compliance",
    "city": "Remote - EMEA",
    "company": "OKX",
-   "content_hash": "ab6d1cac08fb1fe8",
+   "content_hash": "db083a729f4189f0",
    "description": "Who We Are\n\nAt OKX, we believe crypto will help reshape the future and contribute to greater individual freedom.\n\nOKX is a leading crypto exchange and the developer of OKX Wallet, giving millions of customers access to crypto trading and decentralised applications. OKX is also trusted by institutions seeking secure access to crypto markets and is supported by its Proof of Reserves programme.\n\nAcross our global offices, we are united by three core principles: We Before Me, Do the Right Thing, and Get Things Done. These values shape how we work and help us create a collaborative, rewarding and diverse environment for every OK-er.\n\nAbout the Team\n\nThe Compliance function is responsible for promoting a strong compliance culture and supporting the safe, sustainable growth of OKX. We are a team of risk-minded problem solvers who advise the business on regulatory obligations, conduct expectations and enterprise risks.\n\nOKX Europe Markets Limited operates within a significant EU regulatory perimeter as a MiFID II investment firm authorised under the Investment Services Act (Cap. 370), providing dealing on own account and execution of orders on behalf of clients on a matched-principal basis, together with trustee, custodian and nominee services, across the EEA on a cross-border services passport. Our product range includes crypto-asset perpetuals and expiry futures, single stock and ETF-linked futures, commodity futures and crypto-asset options, and is expanding into money market fund and structured product offerings.\n\nAbout the Opportunity\n\nAs the Senior Compliance Analyst for OKX Europe Markets Limited, you will deliver the day-to-day operational compliance work of a fast-growing MiFID II investment firm: financial promotions review, complaints administration, regulatory and trade reporting support, monitoring testing and the firm's regulatory registers.\n\nThis is a high-volume, execution-focused role. The function reviews in the order of seventeen pieces of marketing and promotional material each week and handles around five new complaints each week, both scaling with a client base that is growing towards 100,000 users, alongside recurring regulatory reporting, token-listing and licence-extension assessments and compliance monitoring testing. You will be the person who keeps that machinery running accurately and on time.\n\nYou will gain broad exposure to MFSA supervision and EU financial services regulation, and direct visibility of how a MiFID II derivatives business is controlled in practice.\n\nThe position reports to the Deputy Head of Compliance, with a secondary reporting line to the Head of Compliance and MLRO, OKX Europe Markets Limited.\n\nWhat You'll Be Doing\n\nYou will:\n\n• \nReview client-facing marketing material and financial promotions for compliance with MiFID II fair, clear and not misleading standards and the MFSA advertisement rules, across paid and organic social, email, landing pages, banners, push notifications, video and KOL briefs, and prepare them for approval by the Deputy Head of Compliance or the Head of Compliance.\n\n• \nMaintain the advertisement and marketing approval register, tracking each item from submission through amendment to approval, and supporting notifications to the MFSA where required.\n\n• \nAdminister the end-to-end complaints process: logging and triage, investigation, preparation of customer responses within regulatory deadlines, remediation follow-up and escalation of significant or recurring issues to the Deputy Head of Compliance.\n\n• \nProduce complaints management information, root-cause and trend analysis to support the function's reporting to senior management, the Risk, Compliance and Audit Committee and the Board.\n\n• \nSupport trade and transaction reporting obligations, including data collection and validation, regulatory return preparation, review and sign-off coordination, submission and evidence retention.\n\n• \nConduct scheduled and ad-hoc testing under the Compliance Monitoring Programme, document findings, track remediation actions to closure and maintain the monitoring calendar.\n\n• \nPrepare token-listing and licence-extension assessments and supporting documentation for review, and support new product and feature compliance reviews and local launch sign-off.\n\n• \nMaintain the firm's core regulatory registers — regulatory correspondence, breaches, advertisements and the regulatory obligation register — ensuring an accurate, audit-ready flow of information to the MFSA and internal stakeholders.\n\n• \nDraft and update compliance policies, procedures and entity-specific addenda for review and approval, in line with regulatory developments.\n\n• \nSupport regulatory-change horizon scanning, recording applicable changes against the obligation register and flagging implementation requirements.\n\n• \nHandle first-line queries on compliance and AML/CFT matters, escalating appropriately, and support responses to legal, regulatory and law-enforcement requests.\n\n• \nSupport the retained AML/CFT work of the entity, including quality assurance sampling, high-risk onboarding and client-classification approvals, and internal and external audit support.\n\n• \nSupport the preparation of compliance reports and Board and committee materials, and other materials required by internal stakeholders.\n\n• \nWork closely with teams such as Data, Engineering, Finance, Legal, Marketing, Product and Risk to embed an effective compliance framework aligned with MFSA and EU standards.\n\nWhat We Look For in You\n\n• \nPrior experience in a compliance, legal, regulatory or regulatory-operations role within financial services, investment firms, fintech or the crypto-asset sector.\n\n• \nSound understanding of the MFSA regulatory framework, MiFID II conduct-of-business requirements and EU financial services regulation.\n\n• \nDemonstrable ability to handle a high, recurring caseload to deadline without loss of quality, and to prioritise between competing regulatory deadlines.\n\n• \nHigh attention to detail, with the ability to maintain accurate, complete and audit-ready records and registers.\n\n• \nStrong analytical ability, with the capacity to assess regulatory obligations against material or a process, identify gaps and produce well-reasoned written analysis.\n\n• \nClear written and verbal communication skills, including the ability to convey compliance requirements to non-specialist colleagues and to draft customer-facing responses.\n\n• \nStrong organisational skills, able to manage multiple concurrent workstreams and meet regulatory deadlines.\n\n• \nComfortable operating with limited supervision, exercising judgement within a defined framework and escalating appropriately.\n\n• \nA bachelor's degree in law, finance, business administration or a related field, or equivalent professional experience.\n\n• \nProfessional fluency in English.\n\nNice to Have\n\n• \nExperience reviewing or approving financial promotions or marketing material in a regulated firm.\n\n• \nExperience administering a regulated complaints process.\n\n• \nExperience with trade or transaction reporting, or with compliance monitoring and control testing.\n\n• \nExperience working in Malta or with the Malta Financial Services Authority.\n\n• \nFamiliarity with derivatives conduct topics such as leverage and margin, appropriateness and suitability, client categorisation and best execution.\n\n• \nA relevant professional qualification from the International Compliance Association, ACAMS or an equivalent body, or progress towards one.\n\n• \nKnowledge of and genuine enthusiasm for the crypto and digital-assets industry.\n\nPerks & Benefits\n\n• \nCompetitive total compensation package.\n\n• \nLearning and development programmes and an education subsidy.\n\n• \nTeam-building programmes and company events.\n\n• \nWellness and meal allowances.\n\n• \nComprehensive healthcare schemes for employees and dependants.\n\n• \nAdditional benefits that we would be pleased to discuss during the recruitment process.\n\nOKX Statement\n\nOKX is committed to providing equal employment opportunities regardless of race, colour, genetic information, creed, religion, sex, sexual orientation, gender identity, lawful alien status, national origin, age, marital status, non-job-related physical or mental disability, protected veteran status, or any other characteristic protected by applicable law.\n\nNotice:\n\nAll official OKX vacancies are published on this website. While roles may appear on selected third-party platforms from time to time, information on other sites may be inaccurate or outdated. If in doubt, please apply directly through our official careers website.\n\nInformation collected and processed as part of the recruitment process of any job application you choose to submit is subject to OKX's Candidate Privacy Notice.",
    "extra": {},
    "fingerprint": "okx|oeml senior compliance analyst|remote - emea",
    "first_seen": "2026-10-29T15:23:53+00:00",
    "id": "4254f156cbc7",
    "is_core": true,
-   "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_changed": "2026-11-27T18:59:15+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:greenhouse:okx:7996990003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7996990003",
      "source": "ats",
@@ -3326,7 +3362,7 @@
    "remote": true,
    "remote_ro": true,
    "status": "active",
-   "title": "OEML - Senior Compliance Analyst"
+   "title": "OEM - Senior Compliance Analyst"
   },
   "43217bce7c33": {
    "category": "AML / KYC / FinCrime",
@@ -3340,11 +3376,11 @@
    "id": "43217bce7c33",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:workable:b3367389-67f6-402d-b608-b61b3e3de018": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "workable:b3367389-67f6-402d-b608-b61b3e3de018",
      "source": "ats",
@@ -3468,7 +3504,7 @@
    "id": "455b43120a0e",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4446466803": {
      "first_seen": "2026-10-29T15:58:29+00:00",
@@ -3482,7 +3518,7 @@
     },
     "workday:novartis:REQ-10083473-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "novartis:REQ-10083473-1",
      "source": "workday",
@@ -3491,7 +3527,7 @@
     },
     "workday:novartis:REQ-10089814-1": {
      "first_seen": "2026-11-03T21:01:58+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "novartis:REQ-10089814-1",
      "source": "workday",
@@ -3800,7 +3836,7 @@
    "id": "4c5c5ed70396",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4483806826": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -3814,7 +3850,7 @@
     },
     "workday:accenture:14842769": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "accenture:14842769",
      "source": "workday",
@@ -4196,11 +4232,11 @@
    "id": "56daa936b4de",
    "is_core": false,
    "last_changed": "2026-11-18T04:21:31+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "banks:bcr:1456515433": {
      "first_seen": "2026-11-11T21:59:04+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "bcr:1456515433",
      "source": "banks",
@@ -4271,11 +4307,11 @@
    "id": "589c369af377",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:greenhouse:okx:8016752003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8016752003",
      "source": "ats",
@@ -4307,11 +4343,11 @@
    "id": "5a5ac8c8a6a0",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:lseg:R0120643-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "lseg:R0120643-1",
      "source": "workday",
@@ -4422,11 +4458,11 @@
    "id": "5c1f34999bcd",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:workable:19ba0dc1-d6de-47cc-89b6-146326e8d5fa": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "workable:19ba0dc1-d6de-47cc-89b6-146326e8d5fa",
      "source": "ats",
@@ -4458,7 +4494,7 @@
    "id": "5c3bc39f161b",
    "is_core": true,
    "last_changed": "2026-11-25T12:57:46+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:iqvia:R1571534": {
      "closed_at": "2026-11-18T04:21:31+00:00",
@@ -4472,7 +4508,7 @@
     },
     "workday:iqvia:R1580016-1": {
      "first_seen": "2026-11-25T12:57:46+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "iqvia:R1580016-1",
      "source": "workday",
@@ -4655,11 +4691,11 @@
    "id": "60feefe478f0",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:workable:3299d4ef-e6dd-4151-8efd-d86a1f9ed6e3": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "workable:3299d4ef-e6dd-4151-8efd-d86a1f9ed6e3",
      "source": "ats",
@@ -4770,11 +4806,11 @@
    "id": "631e493e3efd",
    "is_core": false,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:parexel:R0000041583": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "parexel:R0000041583",
      "source": "workday",
@@ -5040,7 +5076,7 @@
    "id": "67f907d35e15",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4483235545": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -5054,7 +5090,7 @@
     },
     "workday:accenture:R00366771-1": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "accenture:R00366771-1",
      "source": "workday",
@@ -5260,7 +5296,7 @@
    "id": "6d459d0fcec3",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4381438733": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -5274,7 +5310,7 @@
     },
     "workday:pwc:710636WD-3": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "pwc:710636WD-3",
      "source": "workday",
@@ -5358,7 +5394,7 @@
    "id": "6e6a5e47494b",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4474707944": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -5372,7 +5408,7 @@
     },
     "workday:zentiva:R2469667": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "zentiva:R2469667",
      "source": "workday",
@@ -5606,11 +5642,11 @@
    "id": "7596954606a9",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:genpact:JR10021497": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "genpact:JR10021497",
      "source": "workday",
@@ -6166,11 +6202,11 @@
    "id": "810b3a58c993",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:workable:1d6caa00-9865-420f-a435-c2920e203166": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "workable:1d6caa00-9865-420f-a435-c2920e203166",
      "source": "ats",
@@ -6198,11 +6234,11 @@
    "id": "8146acb1ad14",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:greenhouse:okx:7984392003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7984392003",
      "source": "ats",
@@ -6234,7 +6270,7 @@
    "id": "817c5d7ab071",
    "is_core": true,
    "last_changed": "2026-11-04T17:16:55+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4486545004": {
      "first_seen": "2026-11-04T22:41:09+00:00",
@@ -6248,7 +6284,7 @@
     },
     "workday:pwc:772405WD": {
      "first_seen": "2026-11-04T17:16:55+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "pwc:772405WD",
      "source": "workday",
@@ -6312,11 +6348,11 @@
    "id": "81a6cbdbd763",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:workable:ae54ff75-321f-435b-bf1b-532d49d8ccfc": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "workable:ae54ff75-321f-435b-bf1b-532d49d8ccfc",
      "source": "ats",
@@ -6452,11 +6488,11 @@
    "id": "82bac83329a6",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:iqvia:R1562528": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "iqvia:R1562528",
      "source": "workday",
@@ -6523,11 +6559,11 @@
    "id": "83f5c34b725e",
    "is_core": true,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "sg:26000IUZ": {
      "first_seen": "2026-11-19T21:35:58+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "26000IUZ",
      "source": "sg",
@@ -6703,11 +6739,11 @@
    "id": "8575a115b67e",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "banks:raiffeisen:3881": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "raiffeisen:3881",
      "source": "banks",
@@ -7009,7 +7045,7 @@
    "id": "8c73b676f653",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4481472131": {
      "first_seen": "2026-10-29T15:23:53+00:00",
@@ -7034,7 +7070,7 @@
     "workday:ayvens:10042207": {
      "closed_at": "2026-11-07T10:07:24+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "ayvens:10042207",
      "source": "workday",
@@ -7151,6 +7187,60 @@
    "status": "inactive",
    "title": "AML Compliance Officer"
   },
+  "8ea893db937e": {
+   "category": "Adjacent",
+   "city": "Romania",
+   "company": "Société Générale Global Solution Centre",
+   "content_hash": "3d36a79bf9477b08",
+   "description": "Responsible of the implementation of processes within Regulatory team and the production of reports on a solo or on a consolidated basis for Societe Generale Group.\n\nSpecifically, you will be required to:\n• Responsible of the production of regulatory reports on a standalone / consolidated basis for Societe Generale Group such as COREP, FINREP, LCR, NSFR and any other related regulatory topics;\n\n• Follow-up and update process procedure validated internally;\n\n• Regulatory reporting follow-up in order to streamline regulatory reporting production throughout the group;\n\n• Perform production tasks and operational controls allocated by supervisor;\n\n• Declare any operational risk events occuring and anticipate risks on production;\n\n• Participate to implementation of global accounting standards in the Shared Service Center (e.g. IFRS9 impact on regulatory reports);\n\n• Continuous improvement of the activities: participate to the implementation of regulatory needs directly in link with project teams",
+   "extra": {
+    "contract": "Permanent contract",
+    "expires": "2027-02-26",
+    "family": "Finance"
+   },
+   "fingerprint": "societe generale|regulatory reporting analyst|romania",
+   "first_seen": "2026-11-27T18:59:15+00:00",
+   "id": "8ea893db937e",
+   "is_core": false,
+   "last_changed": "2026-11-27T18:59:15+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
+   "listings": {
+    "sg:503": {
+     "first_seen": "2026-11-27T18:59:15+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
+     "misses": 0,
+     "native_id": "503",
+     "source": "sg",
+     "status": "open",
+     "url": "https://careers.societegenerale.com/en/job-offers/regulatory-reporting-analyst-503-en"
+    },
+    "sg:510": {
+     "first_seen": "2026-11-27T18:59:15+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
+     "misses": 0,
+     "native_id": "510",
+     "source": "sg",
+     "status": "open",
+     "url": "https://careers.societegenerale.com/en/job-offers/regulatory-reporting-analyst-510-en"
+    },
+    "sg:520": {
+     "first_seen": "2026-11-27T18:59:15+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
+     "misses": 0,
+     "native_id": "520",
+     "source": "sg",
+     "status": "open",
+     "url": "https://careers.societegenerale.com/en/job-offers/regulatory-reporting-analyst-520-en"
+    }
+   },
+   "location": "Romania",
+   "posted": "2026-11-27",
+   "primary": "sg:510",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Regulatory Reporting Analyst"
+  },
   "8ef49032d696": {
    "category": "Data protection / DPO",
    "city": "Bucharest",
@@ -7210,16 +7300,17 @@
    "first_seen": "2026-10-29T15:23:53+00:00",
    "id": "8fa065f5308c",
    "is_core": false,
-   "last_changed": "2026-10-29T15:23:53+00:00",
+   "last_changed": "2026-11-27T18:59:15+00:00",
    "last_seen": "2026-11-26T15:17:19+00:00",
    "listings": {
     "workday:parexel:R0000047342": {
+     "closed_at": "2026-11-27T18:59:15+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_seen": "2026-11-26T15:17:19+00:00",
-     "misses": 2,
+     "misses": 3,
      "native_id": "parexel:R0000047342",
      "source": "workday",
-     "status": "open",
+     "status": "closed",
      "url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/Romania-Remote/XMLNAME--Senior--Regulatory-Affairs-Associate---Labelling--home-or-office-based-_R0000047342"
     }
    },
@@ -7228,7 +7319,7 @@
    "primary": "workday:parexel:R0000047342",
    "remote": true,
    "remote_ro": true,
-   "status": "active",
+   "status": "inactive",
    "title": "(Senior) Regulatory Affairs Associate - Labelling (home or office based)"
   },
   "90a4895aafea": {
@@ -7317,11 +7408,11 @@
    "id": "9325ad8002c2",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "banks:unicredit:117157": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "unicredit:117157",
      "source": "banks",
@@ -7360,16 +7451,17 @@
    "first_seen": "2026-10-29T15:23:53+00:00",
    "id": "934788f98902",
    "is_core": false,
-   "last_changed": "2026-10-29T15:23:53+00:00",
+   "last_changed": "2026-11-27T18:59:15+00:00",
    "last_seen": "2026-11-26T15:17:19+00:00",
    "listings": {
     "workday:parexel:R0000047191": {
+     "closed_at": "2026-11-27T18:59:15+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_seen": "2026-11-26T15:17:19+00:00",
-     "misses": 2,
+     "misses": 3,
      "native_id": "parexel:R0000047191",
      "source": "workday",
-     "status": "open",
+     "status": "closed",
      "url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/Romania-Remote/Senior-Regulatory-Affairs-Associate---Safety-Labelling--home-or-office-based-_R0000047191"
     }
    },
@@ -7378,7 +7470,7 @@
    "primary": "workday:parexel:R0000047191",
    "remote": true,
    "remote_ro": true,
-   "status": "active",
+   "status": "inactive",
    "title": "Senior Regulatory Affairs Associate - Safety Labelling (home or office based)"
   },
   "934f8a83ca11": {
@@ -7502,11 +7594,11 @@
    "id": "94510c00ff9c",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:lever:certik:0b497f25-210b-408e-b2c3-e005c841d867": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "lever:certik:0b497f25-210b-408e-b2c3-e005c841d867",
      "source": "ats",
@@ -7572,7 +7664,7 @@
    "id": "94abeaee6705",
    "is_core": false,
    "last_changed": "2026-11-18T13:59:35+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4491868806": {
      "first_seen": "2026-11-18T21:59:47+00:00",
@@ -7586,7 +7678,7 @@
     },
     "workday:philips:593707-1": {
      "first_seen": "2026-11-18T13:59:35+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "philips:593707-1",
      "source": "workday",
@@ -7617,11 +7709,11 @@
    "id": "94ba7ae3690e",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:greenhouse:emag:5016243101": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:emag:5016243101",
      "source": "ats",
@@ -7782,11 +7874,11 @@
    "id": "97f8f2e1f079",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:genpact:JR10009696": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "genpact:JR10009696",
      "source": "workday",
@@ -7927,11 +8019,11 @@
    "id": "995bc545c42b",
    "is_core": true,
    "last_changed": "2026-11-25T22:33:32+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "sg:399": {
      "first_seen": "2026-11-25T22:33:32+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "399",
      "source": "sg",
@@ -8159,16 +8251,17 @@
    "first_seen": "2026-10-29T15:23:53+00:00",
    "id": "a1cd49321a34",
    "is_core": false,
-   "last_changed": "2026-10-29T15:23:53+00:00",
+   "last_changed": "2026-11-27T18:59:15+00:00",
    "last_seen": "2026-11-26T15:17:19+00:00",
    "listings": {
     "workday:parexel:R0000047194": {
+     "closed_at": "2026-11-27T18:59:15+00:00",
      "first_seen": "2026-10-29T15:23:53+00:00",
      "last_seen": "2026-11-26T15:17:19+00:00",
-     "misses": 2,
+     "misses": 3,
      "native_id": "parexel:R0000047194",
      "source": "workday",
-     "status": "open",
+     "status": "closed",
      "url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/Serbia-Remote/Senior-Regulatory-Affairs-Associate---Artwork-Coordinator--home-or-office-based-_R0000047194"
     }
    },
@@ -8177,7 +8270,7 @@
    "primary": "workday:parexel:R0000047194",
    "remote": true,
    "remote_ro": true,
-   "status": "active",
+   "status": "inactive",
    "title": "Senior Regulatory Affairs Associate - Artwork Coordinator (home or office based)"
   },
   "a22866d34fba": {
@@ -8320,6 +8413,42 @@
    "status": "inactive",
    "title": "Trade Compliance Transformation Senior Specialist"
   },
+  "a967a4ebc4e3": {
+   "category": "Compliance",
+   "city": "Bucharest",
+   "company": "IQVIA",
+   "content_hash": "8a8002c87b09bf1a",
+   "description": "We are looking for an experienced Regulatory Affairs Manager – EU CMC Lead to provide regulatory CMC leadership across complex client programs. In this role, you will lead CMC regulatory activities from planning through delivery, working with cross-functional and global teams including Regulatory CMC colleagues, Technical SMEs, dossier authors and submission teams. You will provide regulatory guidance, coordinate key deliverables and timelines, manage risks, and act as a trusted regulatory partner to clients. You will also contribute to new business opportunities, supporting proposals, client presentations and bid defenses from a Regulatory CMC perspective.\n\nKey Responsibilities: \n\n• Lead the planning and delivery of complex CMC regulatory activities across products, dossiers and markets.\n• Provide regulatory CMC guidance on dossier requirements, CTD/Module 3 content and Health Authority expectations.\n• Review CMC documentation from development, manufacturing and technical teams from a regulatory perspective.\n• Coordinate CMC deliverables, timelines, dependencies, risks and responses to Health Authority questions.\n• Lead cross-functional teams in a matrix environment, ensuring clear responsibilities, priorities and accountability.\n• Facilitate CMC project meetings, document reviews and resolution of technical and regulatory comments.\n• Act as a key client-facing Regulatory CMC contact, providing clear updates and regulatory recommendations.\n• Translate client requirements into practical delivery plans, timelines and resource needs.\n• Support RFPs, proposals, scope development, resource estimates, client presentations and bid defenses.\n• Proactively identify project, quality, capacity and timeline risks and develop appropriate mitigation plans.\n• Provide guidance and support to less-experienced team members.\n• Support effective use of regulatory document-management systems, including Veeva Regulatory Vault.\n\nQualifications: \n\n• Degree in Pharmacy, Chemistry, Pharmaceutical Sciences, Biotechnology or another relevant scientific discipline.\n• Typically 5+ years of Regulatory Affairs/CMC experience, including responsibility for complex CMC activities.\n• Strong knowledge of EU CMC regulatory requirements, MAA dossier structures, CTD and Module 3.\n• Experience supporting regulatory dossiers and responses to Health Authority questions.\n• Good understanding of pharmaceutical manufacturing, controls and their regulatory implications.\n• Demonstrated experience leading projects and cross-functional teams in a matrix environment.\n• Strong project-management, planning, risk-management and problem-solving skills.\n• Strong client-facing communication and stakeholder-management skills.\n• Experience supporting proposals, RFPs, new business opportunities, client presentations or bid defenses is highly desirable.\n• Experience with regulatory document-management systems; Veeva Regulatory Vault experience is an advantage.\n• Ability to manage multiple projects and priorities while working effectively across global teams.\n\nIQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com\n\nIQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud. All information and credentials submitted in your application must be truthful and complete. Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law. We appreciate your honesty and professionalism.",
+   "extra": {
+    "multi_location": false,
+    "posted_approx": "2026-11-27",
+    "posted_text": "Posted Today"
+   },
+   "fingerprint": "iqvia|regulatory manager cmc|bucharest",
+   "first_seen": "2026-11-27T18:59:15+00:00",
+   "id": "a967a4ebc4e3",
+   "is_core": true,
+   "last_changed": "2026-11-27T18:59:15+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
+   "listings": {
+    "workday:iqvia:R1582632": {
+     "first_seen": "2026-11-27T18:59:15+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
+     "misses": 0,
+     "native_id": "iqvia:R1582632",
+     "source": "workday",
+     "status": "open",
+     "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bucuresti-Romania/Regulatory-Manager--CMC_R1582632"
+    }
+   },
+   "location": "Bucuresti, Romania",
+   "posted": "2026-11-27",
+   "primary": "workday:iqvia:R1582632",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Regulatory Manager, CMC"
+  },
   "aa0a8413f236": {
    "category": "Compliance",
    "city": "Remote - EMEA",
@@ -8332,11 +8461,11 @@
    "id": "aa0a8413f236",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:greenhouse:okx:7998993003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:7998993003",
      "source": "ats",
@@ -8903,11 +9032,11 @@
    "id": "b7c15d223cb8",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:teamtailor:worksterjobs:6673103": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "teamtailor:worksterjobs:6673103",
      "source": "ats",
@@ -9051,11 +9180,11 @@
    "id": "ba0e44242fe9",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:teamtailor:worksterjobs:6673100": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "teamtailor:worksterjobs:6673100",
      "source": "ats",
@@ -9153,11 +9282,11 @@
    "id": "bad4982dd52e",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:greenhouse:okx:8012599003": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8012599003",
      "source": "ats",
@@ -10233,11 +10362,11 @@
    "id": "d1ab3fb2cf1a",
    "is_core": true,
    "last_changed": "2026-11-16T09:44:14+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:greenhouse:okx:8203038003": {
      "first_seen": "2026-11-13T07:58:08+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "greenhouse:okx:8203038003",
      "source": "ats",
@@ -10394,7 +10523,7 @@
    "id": "d4a662e7cdcb",
    "is_core": false,
    "last_changed": "2026-11-12T18:57:54+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4490378389": {
      "first_seen": "2026-11-12T18:57:54+00:00",
@@ -10429,7 +10558,7 @@
     },
     "sg:26000NPL": {
      "first_seen": "2026-11-13T16:23:40+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "26000NPL",
      "source": "sg",
@@ -10614,11 +10743,11 @@
    "id": "d807ff3c1307",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:lever:certik:195d8b69-830c-44f5-b8d3-61acce919766": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "lever:certik:195d8b69-830c-44f5-b8d3-61acce919766",
      "source": "ats",
@@ -10761,11 +10890,11 @@
    "id": "d8f26790201c",
    "is_core": false,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:parexel:R0000047663": {
      "first_seen": "2026-11-03T15:08:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "parexel:R0000047663",
      "source": "workday",
@@ -10901,7 +11030,7 @@
    "listings": {
     "ai_sweep:dc1dd1d38cca": {
      "first_seen": "2026-11-10T13:40:38+00:00",
-     "last_checked": "2026-11-26T15:17:19+00:00",
+     "last_checked": "2026-11-27T18:59:15+00:00",
      "last_seen": "2026-11-10T13:40:38+00:00",
      "misses": 0,
      "native_id": "dc1dd1d38cca",
@@ -10930,7 +11059,7 @@
    "id": "dc031993ce11",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "hipo:273119": {
      "closed_at": "2026-11-11T06:18:30+00:00",
@@ -11007,7 +11136,7 @@
     },
     "workday:ing:REQ-10124713-1": {
      "first_seen": "2026-11-16T20:31:27+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "ing:REQ-10124713-1",
      "source": "workday",
@@ -11288,11 +11417,11 @@
    "id": "e0bd0f6c0aa3",
    "is_core": false,
    "last_changed": "2026-11-19T21:35:58+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:parexel:R0000041979": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "parexel:R0000041979",
      "source": "workday",
@@ -11376,6 +11505,42 @@
    "remote_ro": false,
    "status": "active",
    "title": "Financial Crime Intelligence Officer"
+  },
+  "e225bcf19a64": {
+   "category": "Compliance",
+   "city": "Bucharest",
+   "company": "IQVIA",
+   "content_hash": "4828bf3f2761e3d4",
+   "description": "We are looking for a Regulatory Affairs CMC Specialist to support the coordination and delivery of CMC regulatory dossiers and responses to Health Authority questions across multiple countries. You will work closely with Regulatory CMC colleagues, Technical SMEs, dossier authors and submission teams to coordinate deliverables, monitor timelines and ensure regulatory documentation is reviewed, approved and delivered on time.\n\nKey Responsibilities\n\n• Coordinate CMC regulatory dossier activities and responses to Health Authority questions across multiple countries.\n• Track deliverables, response documents, timelines, dependencies and completion status.\n• Provide regular project updates to internal and external stakeholders.\n• Coordinate with Technical SMEs, Regulatory CMC teams and submission colleagues to ensure timely delivery of required documentation.\n• Lead regular tracking meetings and follow up on actions, outstanding documents and deadlines.\n• Coordinate document review and approval processes, including review timelines and comment resolution.\n• Manage regulatory documentation within Veeva Regulatory Vault.\n• Proactively identify potential timeline, documentation or delivery risks and escalate as appropriate.\n• Support Technical CMC teams in interpreting and applying CMC regulatory requirements.\n• Review CMC documentation provided by development and technical teams from a regulatory perspective.\n• Support broader Regulatory CMC activities required for dossier preparation and delivery.\n\nQualifications\n\n• Minimum 3 years of relevant experience in Regulatory Affairs, CMC or a related pharmaceutical environment.\n• Experience coordinating projects or regulatory deliverables within a CMC environment.\n• Good understanding of NDA/MAA dossier structures and CTD format.\n• Understanding of pharmaceutical manufacturing and control principles.\n• Degree in a relevant scientific or technical discipline.\n• Strong organizational, project coordination and stakeholder-management skills.\n• Ability to manage multiple activities, priorities and deadlines independently.\n• Strong communication skills and ability to work effectively across global and cross-functional teams.\n• Experience with regulatory document-management systems, particularly Veeva Regulatory Vault, is an advantage.\n\nIQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com\n\nIQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud. All information and credentials submitted in your application must be truthful and complete. Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law. We appreciate your honesty and professionalism.",
+   "extra": {
+    "multi_location": false,
+    "posted_approx": "2026-11-27",
+    "posted_text": "Posted Today"
+   },
+   "fingerprint": "iqvia|regulatory specialist cmc|bucharest",
+   "first_seen": "2026-11-27T18:59:15+00:00",
+   "id": "e225bcf19a64",
+   "is_core": true,
+   "last_changed": "2026-11-27T18:59:15+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
+   "listings": {
+    "workday:iqvia:R1582645-1": {
+     "first_seen": "2026-11-27T18:59:15+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
+     "misses": 0,
+     "native_id": "iqvia:R1582645-1",
+     "source": "workday",
+     "status": "open",
+     "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bucuresti-Romania/Regulatory-Specialist--CMC_R1582645-1"
+    }
+   },
+   "location": "Bucuresti, Romania",
+   "posted": "2026-11-27",
+   "primary": "workday:iqvia:R1582645-1",
+   "remote": false,
+   "remote_ro": false,
+   "status": "active",
+   "title": "Regulatory Specialist, CMC"
   },
   "e3a5550746b0": {
    "category": "Adjacent",
@@ -11544,7 +11709,7 @@
    "id": "ea6314d0bf12",
    "is_core": true,
    "last_changed": "2026-11-05T20:41:51+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "linkedin:4488014125": {
      "first_seen": "2026-11-06T09:26:41+00:00",
@@ -11558,7 +11723,7 @@
     },
     "sg:26000K2B": {
      "first_seen": "2026-11-05T20:41:51+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "26000K2B",
      "source": "sg",
@@ -11625,11 +11790,11 @@
    "id": "ec09e878eb31",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:iqvia:R1563120": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "iqvia:R1563120",
      "source": "workday",
@@ -11885,11 +12050,11 @@
    "id": "f22ea08e0c52",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:lever:certik:f507fc48-77e7-4b1b-9a88-11e2b20fe21d": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "lever:certik:f507fc48-77e7-4b1b-9a88-11e2b20fe21d",
      "source": "ats",
@@ -11993,11 +12158,11 @@
    "id": "f48ef367173f",
    "is_core": false,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "workday:pwc:672154WD": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "pwc:672154WD",
      "source": "workday",
@@ -12215,11 +12380,11 @@
    "id": "fa8e40c299b5",
    "is_core": false,
    "last_changed": "2026-11-10T17:52:44+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:workable:517ddc9f-6f0c-41bb-ba11-e27ed64a4eaa": {
      "first_seen": "2026-11-10T17:52:44+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "workable:517ddc9f-6f0c-41bb-ba11-e27ed64a4eaa",
      "source": "ats",
@@ -12326,11 +12491,11 @@
    "id": "fbc4fc0e29b3",
    "is_core": true,
    "last_changed": "2026-10-29T15:23:53+00:00",
-   "last_seen": "2026-11-27T08:30:04+00:00",
+   "last_seen": "2026-11-27T18:59:15+00:00",
    "listings": {
     "ats:workable:a3b14af4-3bce-40ea-8428-cd2da77960e3": {
      "first_seen": "2026-10-29T15:23:53+00:00",
-     "last_seen": "2026-11-27T08:30:04+00:00",
+     "last_seen": "2026-11-27T18:59:15+00:00",
      "misses": 0,
      "native_id": "workable:a3b14af4-3bce-40ea-8428-cd2da77960e3",
      "source": "ats",
@@ -12502,9 +12667,9 @@
  "meta": {
   "ai_baseline_done": true,
   "baseline_done": true,
-  "last_run": "2026-11-27T15:25:59+00:00",
+  "last_run": "2026-11-27T18:59:15+00:00",
   "pending_alerts": [],
-  "runs": 128
+  "runs": 129
  },
  "sources": {
   "ai_sweep": {
@@ -12516,21 +12681,21 @@
   },
   "ats": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-27T08:30:04+00:00",
-   "last_count": 458,
+   "last_attempt": "2026-11-27T18:59:15+00:00",
+   "last_count": 449,
    "last_error": null,
-   "last_ok": "2026-11-27T08:30:04+00:00"
+   "last_ok": "2026-11-27T18:59:15+00:00"
   },
   "banks": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-27T08:30:04+00:00",
-   "last_count": 288,
+   "last_attempt": "2026-11-27T18:59:15+00:00",
+   "last_count": 286,
    "last_error": null,
-   "last_ok": "2026-11-27T08:30:04+00:00"
+   "last_ok": "2026-11-27T18:59:15+00:00"
   },
   "hipo": {
-   "fail_streak": 1,
-   "last_attempt": "2026-11-27T08:30:04+00:00",
+   "fail_streak": 2,
+   "last_attempt": "2026-11-27T18:59:15+00:00",
    "last_count": 415,
    "last_error": "only 0 results (was 415)",
    "last_ok": "2026-11-26T23:53:19+00:00"
@@ -12541,32 +12706,32 @@
    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://cariere.juridice.ro/wp-json/wp/v2/posts?search=compliance&after=2026-08-15T00%3A00%3A00&per_page=100&page=1&_fields=id%2Cdate%2Clink%2Ctitle%2Ccontent'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "linkedin": {
-   "fail_streak": 2,
-   "last_attempt": "2026-11-27T08:30:04+00:00",
+   "fail_streak": 3,
+   "last_attempt": "2026-11-27T18:59:15+00:00",
    "last_count": 221,
-   "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=anti+money+laundering&location=Romania&f_TPR=r604800&sortBy=DD&start=30'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status",
+   "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=conformitate&location=Romania&f_TPR=r604800&sortBy=DD&start=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
    "last_ok": "2026-11-26T15:17:19+00:00"
   },
   "posturi_gov": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-27T08:30:04+00:00",
+   "last_attempt": "2026-11-27T18:59:15+00:00",
    "last_count": 0,
    "last_error": null,
-   "last_ok": "2026-11-27T08:30:04+00:00"
+   "last_ok": "2026-11-27T18:59:15+00:00"
   },
   "sg": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-27T08:30:04+00:00",
-   "last_count": 82,
+   "last_attempt": "2026-11-27T18:59:15+00:00",
+   "last_count": 83,
    "last_error": null,
-   "last_ok": "2026-11-27T08:30:04+00:00"
+   "last_ok": "2026-11-27T18:59:15+00:00"
   },
   "workday": {
    "fail_streak": 0,
-   "last_attempt": "2026-11-27T08:30:04+00:00",
-   "last_count": 900,
+   "last_attempt": "2026-11-27T18:59:15+00:00",
+   "last_count": 931,
    "last_error": null,
-   "last_ok": "2026-11-27T08:30:04+00:00"
+   "last_ok": "2026-11-27T18:59:15+00:00"
   }
  }
 }
